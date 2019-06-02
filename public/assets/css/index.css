@@ -1,0 +1,140 @@
+.banner{
+    height: 613px;
+    position: relative;
+}
+#swiper-container .swiper-wrapper .swiper-slide::before{
+    content: " ";
+    background: rgba(0,0,0,0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+#swiper-container .swiper-wrapper .swiper-slide img{
+    height: auto;
+}
+.banner .title{
+    transform: translateY(-50%);
+    position: absolute;
+    top: 60%; 
+    width: 100%;
+    z-index: 10;
+    text-align: center;
+}
+.banner .title .title-text{
+    display: inline-block;
+    max-width: 66%;
+    padding: 30px 30px 0;
+    font-size: 60px;
+    line-height: 72px;
+    color: #fff;
+    text-align: center;
+}
+.btn-swipper{
+    height: 75px;
+    width: 100%;
+    overflow: hidden;
+    padding: 30px 0;
+}
+.btn-swipper .swiper-postion{
+    text-align: left;
+    transition: all 0.8s ease 0s;
+    transform: translateX(0);
+}
+.btn-swipper .postion-item{
+    display: inline-block;
+    font-size: 18px;
+    color: rgba(255,255,255,0.85);
+    padding: 12px 30px;
+    margin: 0 1px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn-swipper .postion-item a{
+    color: rgba(255,255,255,0.85);
+}
+.btn-swipper .postion-item.active{
+    background: #009fe3;
+}
+.btn-swipper .postion-item.active a, .btn-swipper .postion-item:hover a{
+    color: #fff;
+}
+
+.go-learn{
+    position: absolute;
+    bottom: 40px;
+    z-index: 10;
+    text-align: center;
+    width: 100%;
+}
+.go-learn .go-learn-block{
+    display: inline-block;
+}
+.go-learn .iconjiantou {
+    position: relative;
+    transform: rotate(90deg);
+    color: #fff;
+    font-size: 30px;
+}
+
+.go-learn .iconjiantou.top{
+    top: 22px;
+    animation: cta-fade-top 2s infinite;
+}
+
+.go-learn .iconjiantou.middle{
+    animation: cta-fade-top 2s infinite;
+    animation-delay: 0.25s;
+}
+
+.go-learn .iconjiantou.bottom{
+    bottom: 22px;
+    animation: cta-fade-top 2s infinite;
+    animation-delay: 0.5s;
+}
+
+@keyframes cta-fade-top{0%{opacity:1}50%{opacity:0}100%{opacity:1}}
+
+.content-box .content-in .row-tabled{
+    height: 309px;
+}
+.heroteaser_content{
+    padding-right: 15px;
+}
+.heroteaser_content .headline-h3{
+    color: #303030;
+    margin-bottom: 1.1em;
+    font-size: 30px;
+    line-height: 34px;
+    font-weight: normal;
+}
+.heroteaser_content .content{
+    color: #303030;
+    font-size: 19px;
+}
+.heroteaser_content .content p{
+    margin-bottom: 27px;
+}
+.heroteaser_content .content a{
+    font-size: 16px;
+    line-height: 23px;
+    color: #009fe3;
+    position: relative;
+}
+.heroteaser_content .content a::before{
+    content: " ";
+    position: absolute;
+    bottom: -2px;
+    height: 1px;
+    background: #009fe3;
+    width: 0;
+    transition: width 1s ease;
+}
+.heroteaser_content .content a:hover::before{
+    width: 100%;
+}
+#swiper-container-2{
+    width: 309px;
+    height: 309px;
+}
