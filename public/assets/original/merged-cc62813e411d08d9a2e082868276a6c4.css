@@ -13855,8 +13855,8 @@ screen and (min-width: 992px) {
     .row__tabled--desktop {
         display: table;
         width: calc(100% + 30px);
-        height: 100%;
-        table-layout: fixed
+        /* height: 100%;
+        table-layout: fixed */
     }
     .row__tabled--desktop:before,
     .row__tabled--desktop:after {
@@ -13881,7 +13881,7 @@ screen and (min-width: 768px) {
     .row__tabled--tablet {
         display: table;
         width: calc(100% + 30px);
-        height: 100%;
+        /* height: 100%; */
         table-layout: fixed
     }
     .row__tabled--tablet:before,
@@ -21451,7 +21451,7 @@ body.disable-content-space main.main {
     border-color: transparent transparent transparent #009fe3;
     border-style: solid;
     border-width: 15px 0 0 15px;
-    bottom: -15px;
+    bottom: -17px;
     content: '';
     height: 0;
     left: 40px;
@@ -21775,12 +21775,12 @@ body.disable-content-space main.main {
 }
 
 .newsletter__subscription.load__on__scroll--loaded {
-    background-image: url("/typo3conf/ext/av_meiko/Resources/Public/Img/background/newsletter.jpg")
+    background-image: url("/assets/original/images/newsletter.jpg")
 }
 
 @media screen and (max-width: 767px) {
     .newsletter__subscription.load__on__scroll--loaded {
-        background-image: url("/typo3conf/ext/av_meiko/Resources/Public/Img/background/newsletter-xs.jpg")
+        background-image: url("/assets/original/images/newsletter-xs.jpg")
     }
 }
 
@@ -21910,7 +21910,7 @@ body.disable-content-space main.main {
 }
 
 footer.footer.load__on__scroll--loaded .footer__steel {
-    background: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/steel.png') repeat-y center top #cdd2d5
+    background: url('../../../assets/original/images/steel.png') repeat-y center top #cdd2d5
 }
 
 footer.footer .footer__steel {
@@ -24956,7 +24956,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .tabs.tabs--productgrouptabs {
-    background: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/steel.png') repeat-y center top #cdd2d5;
+    background: url('../../../assets/original/images/steel.png') repeat-y center top #cdd2d5;
     position: relative;
     overflow: hidden
 }
@@ -25197,7 +25197,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 @media screen and (max-width: 991px) {
     .tabs.tabs--productgrouptabs .tabs__nav .tab>a .tab__title {
         margin: 5px -15px 30px;
-        background: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/steel.png') repeat-y center top #cdd2d5;
+        background: url('../../../assets/original/images/steel.png') repeat-y center top #cdd2d5;
         padding: 10px 15px
     }
 }
@@ -25259,7 +25259,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .tabs.tabs--productgrouptabs .tabs__nav .tab:first-child>a .tab__imagewrap__wrapper:before {
-    background: transparent url(/typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline-hor.png) repeat-x left center;
+    background: transparent url(/assets/original/images/dottedline-hor.png) repeat-x left center;
     content: '';
     display: block;
     height: 2px;
@@ -25279,7 +25279,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         top: calc(100% + 25px);
         width: 2px;
         height: 10000em;
-        background: transparent url(/typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline.png) repeat-y top center;
+        background: transparent url(/assets/original/images/dottedline.png) repeat-y top center;
         position: absolute;
         left: 50%;
         -moz-transform: translateX(-50%);
@@ -25538,7 +25538,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     right: 0;
     top: 0;
     height: 2px;
-    background-image: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline-hor.png');
+    background-image: url('../../../assets/original/images/dottedline-hor.png');
     background-repeat: repeat-x
 }
 
@@ -25549,7 +25549,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     bottom: 0;
     right: 0;
     width: 2px;
-    background-image: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline.png');
+    background-image: url('../../../assets/original/images/dottedline.png');
     background-repeat: repeat-y
 }
 
@@ -25633,7 +25633,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .banner--mode-imagebottomextendedicons .banner__column--right .banner__iconwrapper:before {
-    background-image: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline-hor.png');
+    background-image: url('../../../assets/original/images/dottedline-hor.png');
     background-repeat: repeat-x;
     content: '';
     height: 2px;
@@ -25705,7 +25705,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .banner.banner--mode-promotion-steel.load__on__scroll--loaded {
-    background: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/steel.png') repeat-y center top #cdd2d5
+    background: url('../../../assets/original/images/steel.png') repeat-y center top #cdd2d5
 }
 
 .banner.banner--mode-promotion {
@@ -26186,7 +26186,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .counterlements .counterelements__elements .counterelement .counterelement__title:after {
-    background: transparent url(/typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline.png) repeat-y top center;
+    background: transparent url(/assets/original/images/dottedline.png) repeat-y top center;
     content: '';
     display: block;
     height: 35px;
@@ -26286,7 +26286,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         white-space: nowrap
     }
     .counterlements .counterelements__elements .counterelement .counterelement__header:after {
-        background: transparent url(/typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline-hor.png) repeat-x left center;
+        background: transparent url(/assets/original/images/dottedline-hor.png) repeat-x left center;
         content: '';
         display: block;
         height: 2px;
@@ -28303,7 +28303,7 @@ html:not(.no-flexbox) .product__gallery .owl-carousel .owl-stage-outer .owl-stag
 }
 
 .awardbox .awardbox__awards__wrapper.load__on__scroll--loaded {
-    background: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/background/steel.png') repeat-y center top #cdd2d5
+    background: url('../../../assets/original/images/steel.png') repeat-y center top #cdd2d5
 }
 
 @media screen and (min-width: 1200px) {
@@ -29426,7 +29426,7 @@ hr.divider {
 hr.divider.divider--dotted {
     border: none;
     height: 2px;
-    background: transparent url(/typo3conf/ext/av_meiko/Resources/Public/Img/background/dottedline-hor.png) repeat-x left center
+    background: transparent url(/assets/original/images/dottedline-hor.png) repeat-x left center
 }
 
 html.borderimage hr.divider.divider--gradient {
