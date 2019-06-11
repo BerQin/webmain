@@ -17,6 +17,8 @@
   <link rel="manifest" href="/assets/original/images/site.webmanifest?v=wAOJmkkrM8">
   <link rel="mask-icon" href="/assets/original/images/safari-pinned-tab.svg?v=wAOJmkkrM8" color="#00b3ff">
   <link rel="stylesheet" type="text/css" href="/assets/original/cookieconsent.min.css" />
+  <script type="text/javascript" async="" src="/assets/original/analytics.js"></script>
+  {block name="fater-css"}{/block}
   <script src="/assets/original/cookieconsent.min.js"></script>
   <script>
     window.addEventListener("load", function() {
@@ -33,7 +35,7 @@
           "message": "此站点使用 Cookie 进行分析、显示个性化内容和广告。继续浏览此站点，即表示您同意使用。",
           "dismiss": "OK",
           "link": "了解详情",
-          "href": "/zh/dataprivacy/"
+          "href": "/dataprivacy"
         }
       })
     });
@@ -80,7 +82,7 @@
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function() {
-      var u = "//piwik.meiko.de/";
+      var u = "//piwik.meiko.de";
       _paq.push(['setTrackerUrl', u + 'piwik.php']);
       _paq.push(['setSiteId', 2]);
       var d = document,
@@ -94,10 +96,10 @@
 
     })();
   </script>
-  <link rel="canonical" href="http://decn.meiko.live.typo3.meiko.de/zh/" />
+  <link rel="canonical" href="http://decn.meiko.live.typo3.meiko.de" />
 </head>
 
-<body class="page-16 pagelevel-0 language-4 backendlayout-{$hasBackPath ?'pagets__followup' :'pagets__home'} layout-0 theme-default">
+<body class="{$bodyClassName}">
   <button id="toTopButton" class="service"></button>
   <aside id="stickyservice">
     <div id="stickyservice__trigger" class="stickybutton stickybutton--service"><span class="textwrapper">服务</span></div>
@@ -128,9 +130,9 @@
         <div class="stickybox__close"></div>
         <div class="stickybox__title"><svg width="158" height="117" viewBox="0 0 158 117" xmlns="http://www.w3.org/2000/svg"><path d="M115.7 0C98.6 0 85.5 9.1 79.5 21.6 73.5 9 60.9 0 43.8 0 19.6 0 0 16.1 0 36.7v80.5h36.7V46.7c0-5.5 5-10.1 11.6-10.1s11.6 4.5 11.6 10.1v70.5h38.3V46.7c0-5.5 5-10.1 11.6-10.1 6.5 0 11.6 4.5 11.6 10.1v70.5h36.7v-80C158.5 16.6 139.3 0 115.7 0" fill="#FFF"/></svg></div>
         <div class="stickybox__content">
-          <form action="/zh/search/" class="form row">
+          <form action="/search" class="form row">
             <div class="col-xs-12 col-sm-8 col-md-10">
-              <div class="form__searchtextwrap"><input name="q" class="form__searchtext solr_suggest" data-url="/zh/search/?type=5011" autocomplete="off" placeholder="输入搜索关键词" /></div>
+              <div class="form__searchtextwrap"><input name="q" class="form__searchtext solr_suggest" data-url="/search/?type=5011" autocomplete="off" placeholder="输入搜索关键词" /></div>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-2 hidden-xs">
               <div class="form__submitwrap"><input type="submit" class="form__submit btn btn--invert" value="Search" /></div>
@@ -161,162 +163,134 @@
       <ul id="mobile-navigation">
         <li data-uid="8"><a href="/casestudies"><span>案例研究</span></a>
           <ul>
-            <li data-uid="16497"><a href="/casestudies/hotels/"><span>酒店业</span></a></li>
-            <li data-uid="16498"><a href="/casestudies/restaurants/"><span>餐饮业</span></a></li>
-            <li data-uid="319"><a href="/casestudies/canteens/"><span>员工及学生餐厅</span></a></li>
-            <li data-uid="317"><a href="/casestudies/bakers-confectioners/"><span>面包房与小食店</span></a></li>
-            <li data-uid="16494"><a href="/casestudies/butchers-shops/"><span>肉铺</span></a></li>
-            <li data-uid="16496"><a href="/casestudies/food-industry/"><span>食品工业</span></a></li>
-            <li data-uid="16495"><a href="/casestudies/%E9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86/"><span>食品零售商</span></a></li>
-            <li data-uid="321"><a href="/casestudies/marine/"><span>海运业务</span></a></li>
-            <li data-uid="743"><a href="/casestudies/inflight/"><span>航空配餐</span></a></li>
-            <li data-uid="16502"><a href="/casestudies/hospitals/"><span>医院</span></a></li>
-            <li data-uid="16503"><a href="/casestudies/nursing-and-care-homes/"><span>护理及养老院</span></a></li>
-            <li data-uid="16504"><a href="/casestudies/catering/"><span>餐饮</span></a></li>
-            <li data-uid="16507"><a href="/casestudies/industrial-cleaning/"><span>工业清洁</span></a></li>
+            <li data-uid="16497"><a href="/casestudie/hotels"><span>酒店业</span></a></li>
+            <li data-uid="16498"><a href="/casestudie/restaurants"><span>餐饮业</span></a></li>
+            <li data-uid="319"><a href="/casestudie/canteens"><span>员工及学生餐厅</span></a></li>
+            <li data-uid="317"><a href="/casestudie/bakersconfectioners"><span>面包房与小食店</span></a></li>
+            <li data-uid="16494"><a href="/casestudie/butchersshops"><span>肉铺</span></a></li>
+            <li data-uid="16496"><a href="/casestudie/foodindustry"><span>食品工业</span></a></li>
+            <li data-uid="16495"><a href="/casestudie/%9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86"><span>食品零售商</span></a></li>
+            <li data-uid="321"><a href="/casestudie/marine"><span>海运业务</span></a></li>
+            <li data-uid="743"><a href="/casestudie/inflight"><span>航空配餐</span></a></li>
+            <li data-uid="16502"><a href="/casestudie/hospitals"><span>医院</span></a></li>
+            <li data-uid="16503"><a href="/casestudie/nursingand-care-homes"><span>护理及养老院</span></a></li>
+            <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
+            <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11636"><a href="/zh/products/"><span>产品</span></a>
+        <li data-uid="11636"><a href="/products"><span>产品</span></a>
           <ul>
-            <li data-uid="17146"><a href="/zh/products/made-by-meiko/"><span>MEIKO 制造</span></a></li>
-            <li data-uid="19562"><a href="/zh/products/warewashing/"><span>餐具洗涤设备</span></a>
+            <li data-uid="17146"><a href="/product/made-by-meiko"><span>MEIKO 制造</span></a></li>
+            <li data-uid="19562"><a href="/product/warewashing"><span>餐具洗涤设备</span></a>
               <ul>
-                <li data-uid="19563"><a href="/zh/products/warewashing/undercounter-dishwashers/"><span>台下式玻璃器皿和餐具洗涤机</span></a>
+                <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a>
                   <ul>
-                    <li data-uid="19569"><a href="/zh/products/warewashing/undercounter-dishwashers/m-iclean-u/"><span>M-iClean U</span></a></li>
-                    <li data-uid="19570"><a href="/zh/products/warewashing/undercounter-dishwashers/upster-line/"><span>UPster U</span></a></li>
+                    <li data-uid="19569"><a href="/product/warewashing/undercounter-dishwashers/m-iclean-u"><span>M-iClean U</span></a></li>
+                    <li data-uid="19570"><a href="/product/warewashing/undercounter-dishwashers/upster-line"><span>UPster U</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19564"><a href="/zh/products/warewashing/hood-type-dishwashers/"><span>罩式玻璃器皿和餐具洗涤机</span></a>
+                <li data-uid="19564"><a href="/product/warewashing/hood-type-dishwashers"><span>罩式玻璃器皿和餐具洗涤机</span></a>
                   <ul>
-                    <li data-uid="19571"><a href="/zh/products/warewashing/hood-type-dishwashers/m-iclean-h/"><span>M-iClean H</span></a></li>
-                    <li data-uid="19573"><a href="/zh/products/warewashing/hood-type-dishwashers/upster-h-500/"><span>UPster H 500</span></a></li>
+                    <li data-uid="19571"><a href="/product/warewashing/hood-type-dishwashers/m-iclean-h"><span>M-iClean H</span></a></li>
+                    <li data-uid="19573"><a href="/product/warewashing/hood-type-dishwashers/upster-h-500"><span>UPster H 500</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19565"><a href="/zh/products/warewashing/universal-warewashers/"><span>通用型洗锅机</span></a>
+                <li data-uid="19565"><a href="/product/warewashing/universal-warewashers"><span>通用型洗锅机</span></a>
                   <ul>
-                    <li data-uid="19574"><a href="/zh/products/warewashing/universal-warewashers/dv-fv-series/technical-data/"><span>DV / FV Series</span></a></li>
-                    <li data-uid="19575"><a href="/zh/products/warewashing/universal-warewashers/upster-pf-600/"><span>UPster PF 600</span></a></li>
+                    <li data-uid="19574"><a href="/product/warewashing/universal-warewashers/dv-fv-series/technical-data"><span>DV / FV Series</span></a></li>
+                    <li data-uid="19575"><a href="/product/warewashing/universal-warewashers/upster-pf-600"><span>UPster PF 600</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19566"><a href="/zh/products/warewashing/flight-type-dishwashing-machines/"><span>履带传送式洗碗机。</span></a>
+                <li data-uid="19566"><a href="/product/warewashing/flight-type-dishwashing-machines"><span>履带传送式洗碗机。</span></a>
                   <ul>
-                    <li data-uid="19576"><a href="/zh/products/warewashing/flight-type-dishwashing-machines/m-iq/"><span>M-iQ</span></a></li>
-                    <li data-uid="19577"><a href="/zh/products/warewashing/flight-type-dishwashing-machines/upster-b/"><span>Upster B 型</span></a></li>
-                    <li data-uid="26520"><a href="/zh/products/warewashing/flight-type-dishwashing-machines/%E8%87%AA%E5%8A%A8%E6%89%98%E7%9B%98%E6%B8%85%E6%B4%97%E6%9C%BA/"><span>自动托盘清洗机</span></a></li>
+                    <li data-uid="19576"><a href="/product/warewashing/flight-type-dishwashing-machines/m-iq"><span>M-iQ</span></a></li>
+                    <li data-uid="19577"><a href="/product/warewashing/flight-type-dishwashing-machines/upster-b"><span>Upster B 型</span></a></li>
+                    <li data-uid="26520"><a href="/product/warewashing/flight-type-dishwashing-machines/%E8%87%AA%E5%8A%A8%E6%89%98%E7%9B%98%E6%B8%85%E6%B4%97%E6%9C%BA"><span>自动托盘清洗机</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19567"><a href="/zh/products/warewashing/rack-type-dishwashing-machines/"><span>篮框传送式洗碗机</span></a>
+                <li data-uid="19567"><a href="/product/warewashing/rack-type-dishwashing-machines"><span>篮框传送式洗碗机</span></a>
                   <ul>
-                    <li data-uid="19578"><a href="/zh/products/warewashing/rack-type-dishwashing-machines/m-iq/"><span>M-iQ</span></a></li>
-                    <li data-uid="19579"><a href="/zh/products/warewashing/rack-type-dishwashing-machines/upster-k/"><span>UPster K</span></a></li>
-                    <li data-uid="19580"><a href="/zh/products/warewashing/rack-type-dishwashing-machines/k-tronic/technical-data/"><span>K-tronic</span></a></li>
+                    <li data-uid="19578"><a href="/product/warewashing/rack-type-dishwashing-machines/m-iq"><span>M-iQ</span></a></li>
+                    <li data-uid="19579"><a href="/product/warewashing/rack-type-dishwashing-machines/upster-k"><span>UPster K</span></a></li>
+                    <li data-uid="19580"><a href="/product/warewashing/rack-type-dishwashing-machines/k-tronic/technical-data"><span>K-tronic</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
               </ul><span class="flyout__caret"></span></li>
-            <li data-uid="11705"><a href="/zh/products/cleaning-disinfection/"><span>清洁与消毒工艺</span></a>
+            <li data-uid="11705"><a href="/product/cleaning-disinfection"><span>清洁与消毒工艺</span></a>
               <ul>
-                <li data-uid="19126"><a href="/zh/products/cleaning-disinfection/topline-bedpan-washer-disinfectors/"><span>TopLine系列清洗消毒机</span></a>
+                <li data-uid="19126"><a href="/product/cleaning-disinfection/topline-bedpan-washer-disinfectors"><span>TopLine系列清洗消毒机</span></a>
                   <ul>
-                    <li data-uid="19132"><a href="/zh/products/cleaning-disinfection/topline-bedpan-washer-disinfectors/bedpan-washer/"><span>系列清洗消毒机</span></a></li>
-                    <li data-uid="19157"><a href="/zh/products/cleaning-disinfection/topline-bedpan-washer-disinfectors/combined-sluice-units/"><span>护理组合</span></a></li>
+                    <li data-uid="19132"><a href="/product/cleaning-disinfection/topline-bedpan-washer-disinfectors/bedpan-washer"><span>系列清洗消毒机</span></a></li>
+                    <li data-uid="19157"><a href="/product/cleaning-disinfection/topline-bedpan-washer-disinfectors/combined-sluice-units"><span>护理组合</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19168"><a href="/zh/products/cleaning-disinfection/topic-bedpan-washer/technical-data/"><span>TOPIC 系列清洗消毒机</span></a>
+                <li data-uid="19168"><a href="/product/cleaning-disinfection/topic-bedpan-washer/technical-data"><span>TOPIC 系列清洗消毒机</span></a>
                   <ul>
-                    <li data-uid="19170"><a href="/zh/products/cleaning-disinfection/topic-bedpan-washer/technical-data/"><span>技术数据</span></a></li>
-                    <li data-uid="19172"><a href="/zh/products/cleaning-disinfection/topic-bedpan-washer/references/"><span>实例说明</span></a></li>
-                    <li data-uid="20410"><a href="/zh/products/cleaning-disinfection/topic-bedpan-washer/contact/"><span>联系我们</span></a></li>
+                    <li data-uid="19170"><a href="/product/cleaning-disinfection/topic-bedpan-washer/technical-data"><span>技术数据</span></a></li>
+                    <li data-uid="19172"><a href="/product/cleaning-disinfection/topic-bedpan-washer/references"><span>实例说明</span></a></li>
+                    <li data-uid="20410"><a href="/product/cleaning-disinfection/topic-bedpan-washer/contact"><span>联系我们</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="16376"><a href="/zh/products/cleaning-disinfection/multi-washer-disinfection-appliance/technical-data/"><span>创新型 TopClean 60 多功能清洗机</span></a>
+                <li data-uid="16376"><a href="/product/cleaning-disinfection/multi-washer-disinfection-appliance/technical-data"><span>创新型 TopClean 60 多功能清洗机</span></a>
                   <ul>
-                    <li data-uid="16379"><a href="/zh/products/cleaning-disinfection/multi-washer-disinfection-appliance/technical-data/"><span>技术数据</span></a></li>
-                    <li data-uid="16381"><a href="/zh/products/cleaning-disinfection/multi-washer-disinfection-appliance/contact/"><span>联系我们</span></a></li>
+                    <li data-uid="16379"><a href="/product/cleaning-disinfection/multi-washer-disinfection-appliance/technical-data"><span>技术数据</span></a></li>
+                    <li data-uid="16381"><a href="/product/cleaning-disinfection/multi-washer-disinfection-appliance/contact"><span>联系我们</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="11712"><a href="/zh/products/cleaning-disinfection/accessories/"><span>配件</span></a></li>
-                <li data-uid="11706"><a href="/zh/products/cleaning-disinfection/chemicals/"><span>化学制剂</span></a></li>
+                <li data-uid="11712"><a href="/product/cleaning-disinfection/accessories"><span>配件</span></a></li>
+                <li data-uid="11706"><a href="/product/cleaning-disinfection/chemicals"><span>化学制剂</span></a></li>
               </ul><span class="flyout__caret"></span></li>
-            <li data-uid="19568"><a href="/zh/products/cart-and-trolley-washers/"><span>手推车和餐车清洗机</span></a>
+            <li data-uid="19568"><a href="/product/cart-and-trolley-washers"><span>手推车和餐车清洗机</span></a>
               <ul>
-                <li data-uid="21753"><a href="/zh/products/cart-and-trolley-washers/cart-washers/"><span>航空机舱餐车洗涤机</span></a>
+                <li data-uid="21753"><a href="/product/cart-and-trolley-washers/cart-washers"><span>航空机舱餐车洗涤机</span></a>
                   <ul>
-                    <li data-uid="21822"><a href="/zh/products/cart-and-trolley-washers/cart-washers/technical-data/"><span>技术数据</span></a></li>
-                    <li data-uid="21823"><a href="/zh/products/cart-and-trolley-washers/cart-washers/references/"><span>实例说明</span></a></li>
-                    <li data-uid="21825"><a href="/zh/products/cart-and-trolley-washers/cart-washers/contact/"><span>联系我们</span></a></li>
+                    <li data-uid="21822"><a href="/product/cart-and-trolley-washers/cart-washers/technical-data"><span>技术数据</span></a></li>
+                    <li data-uid="21823"><a href="/product/cart-and-trolley-washers/cart-washers/references"><span>实例说明</span></a></li>
+                    <li data-uid="21825"><a href="/product/cart-and-trolley-washers/cart-washers/contact"><span>联系我们</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="21766"><a href="/zh/products/cart-and-trolley-washers/trolley-washers/"><span>航空机舱餐车洗涤机 - Inflight</span></a>
+                <li data-uid="21766"><a href="/product/cart-and-trolley-washers/trolley-washers"><span>航空机舱餐车洗涤机 - Inflight</span></a>
                   <ul>
-                    <li data-uid="21826"><a href="/zh/products/cart-and-trolley-washers/trolley-washers/technical-data/"><span>技术数据</span></a></li>
-                    <li data-uid="21829"><a href="/zh/products/cart-and-trolley-washers/trolley-washers/contact/"><span>联系我们</span></a></li>
+                    <li data-uid="21826"><a href="/product/cart-and-trolley-washers/trolley-washers/technical-data"><span>技术数据</span></a></li>
+                    <li data-uid="21829"><a href="/product/cart-and-trolley-washers/trolley-washers/contact"><span>联系我们</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
               </ul><span class="flyout__caret"></span></li>
-            <li data-uid="20728"><a href="/zh/products/conveying-solutions/technical-data/"><span>餐具传送系统</span></a></li>
-            <li data-uid="11676"><a href="/zh/products/food-waste-systems/"><span>厨余垃圾处理系统</span></a>
+            <li data-uid="20728"><a href="/product/conveying-solutions/technical-data"><span>餐具传送系统</span></a></li>
+            <li data-uid="11676"><a href="/product/food-waste-systems"><span>厨余垃圾处理系统</span></a>
               <ul>
-                <li data-uid="25339"><a href="/zh/products/food-waste-systems/pump-systems/"><span>泵送系统</span></a>
+                <li data-uid="25339"><a href="/product/food-waste-systems/pump-systems"><span>泵送系统</span></a>
                   <ul>
-                    <li data-uid="25436"><a href="/zh/products/food-waste-systems/pump-systems/wastestar-cc/"><span>WasteStar CC</span></a></li>
+                    <li data-uid="25436"><a href="/product/food-waste-systems/pump-systems/wastestar-cc"><span>WasteStar CC</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
-                <li data-uid="25352"><a href="/zh/products/food-waste-systems/vacuum-systems/"><span>真空系统</span></a>
+                <li data-uid="25352"><a href="/product/food-waste-systems/vacuum-systems"><span>真空系统</span></a>
                   <ul>
-                    <li data-uid="25439"><a href="/zh/products/food-waste-systems/vacuum-systems/wastestar-fc/"><span>WasteStar FC</span></a></li>
+                    <li data-uid="25439"><a href="/product/food-waste-systems/vacuum-systems/wastestar-fc"><span>WasteStar FC</span></a></li>
                   </ul><span class="flyout__caret"></span></li>
               </ul><span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11630"><a href="/zh/sales/meiko-sales-partners/"><span>销售与服务</span></a>
+        <li data-uid="11630"><a href="/sales/meiko-sales-partners"><span>销售与服务</span></a>
           <ul>
-            <li data-uid="12710"><a href="/zh/sales/meiko-sales-partners/"><span>MEIKO销售合作伙伴</span></a></li>
-            <li data-uid="12714"><a href="/zh/sales/service-contact/"><span>联系我们</span></a></li>
-            <li data-uid="12721"><a href="/zh/sales/what-we-do/"><span>我们的服务协议</span></a>
+            <li data-uid="12710"><a href="/sales/meiko-sales-partners"><span>MEIKO销售合作伙伴</span></a></li>
+            <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
+            <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
               <ul>
-                <li data-uid="12724"><a href="/zh/sales/what-we-do/warewashing/"><span>洗涤</span></a></li>
-                <li data-uid="12723"><a href="/zh/sales/what-we-do/cleaning-disinfection-technology/"><span>清洗和消毒</span></a></li>
-                <li data-uid="17167"><a href="/zh/sales/what-we-do/product-registration/"><span>产品注册</span></a></li>
+                <li data-uid="12723"><a href="/sales/cleaning-disinfection-technology"><span>清洗和消毒</span></a></li>
+                <li data-uid="17167"><a href="/sales/what-we-do/product-registration"><span>产品注册</span></a></li>
               </ul><span class="flyout__caret"></span></li>
-            <li data-uid="27058"><a href="/zh/sales/%E5%AE%A2%E6%88%B7%E5%92%8C%E8%AE%BF%E9%97%AE%E8%80%85%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96/"><span>客户和访问者隐私政策</span></a></li>
+            <li data-uid="27058"><a href="/sales/intimate"><span>客户和访问者隐私政策</span></a></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11626"><a href="/zh/our-company/the-meiko-group/the-meiko-group/"><span>公司介绍</span></a>
+        <li data-uid="11626"><a href="/our-company"><span>公司介绍</span></a>
           <ul>
-            <li data-uid="16712"><a href="/zh/our-company/the-meiko-group/the-meiko-group/"><span>MEIKO集团</span></a>
+            <li data-uid="16712"><a href="/our-company"><span>小周公司介绍</span></a></li>
+            <li data-uid="12731"><a href="/our-company/awards-prices"><span>小周公司荣誉</span></a></li>
+            <!-- <li data-uid="25273"><a href="/our-company/the-discovery-of-cleanliness"><span>清洁探索历程</span></a></li> -->
+            <li data-uid="12739"><a href="/our-company/career-jobs"><span>招贤纳士</span></a>
               <ul>
-                <li data-uid="12743"><a href="/zh/our-company/the-meiko-group/facts-figures/"><span>资料与数据</span></a></li>
-              </ul><span class="flyout__caret"></span></li>
-            <li data-uid="12742"><a href="/zh/our-company/mission-m/"><span>M使命</span></a>
-              <ul>
-                <li data-uid="12741"><a href="/zh/our-company/mission-m/the-meiko-brand/"><span>MEIKO品牌</span></a></li>
-              </ul><span class="flyout__caret"></span></li>
-            <li data-uid="12736"><a href="/zh/our-company/the-values-that-guide-us/"><span>MEIKO价值观</span></a>
-              <ul>
-                <li data-uid="12123"><a href="/zh/our-company/the-values-that-guide-us/philosophy/product-philosophy/"><span>理念</span></a>
-                  <ul>
-                    <li data-uid="12129"><a href="/zh/our-company/the-values-that-guide-us/philosophy/product-philosophy/"><span>产品理念</span></a></li>
-                    <li data-uid="12128"><a href="/zh/our-company/the-values-that-guide-us/philosophy/perfect-clarity-guaranteed/"><span>产品品质</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="18816"><a href="/zh/our-company/the-values-that-guide-us/corporate-policy/"><span>我们公司的政策</span></a></li>
-              </ul><span class="flyout__caret"></span></li>
-            <li data-uid="12731"><a href="/zh/our-company/awards-prices/"><span>MEIKO荣誉</span></a></li>
-            <li data-uid="25273"><a href="/zh/our-company/the-discovery-of-cleanliness/"><span>清洁探索历程</span></a></li>
-            <li data-uid="12730"><a href="/zh/our-company/networks-forums/"><span>网络与论坛</span></a></li>
-            <li data-uid="12739"><a href="/zh/our-company/career-jobs/"><span>招贤纳士</span></a>
-              <ul>
-                <li data-uid="12749"><a href="/zh/our-company/career-jobs/experts-professionals/"><span>招聘信息</span></a></li>
-                <li data-uid="12745"><a href="/zh/our-company/career-jobs/information-for-applicants/"><span>职位申请</span></a></li>
+                <li data-uid="12749"><a href="/our-company/career-jobs"><span>招聘信息</span></a></li>
+                <li data-uid="12745"><a href="/our-company/information-for-applicants"><span>职位申请</span></a></li>
               </ul><span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11624"><a href="/zh/press/news/"><span>新闻</span></a>
+        <li data-uid="11620"><a href="/contact/contact-us"><span>联系我们</span></a>
           <ul>
-            <li data-uid="27132"><a href="/zh/press/magazine/"><span>杂志</span></a></li>
-            <li data-uid="16618"><a href="/zh/press/publications/"><span>出版物</span></a>
-              <ul>
-                <li data-uid="12579"><a href="/zh/press/publications/splash/"><span>SPLASH!杂志</span></a></li>
-              </ul><span class="flyout__caret"></span></li>
-            <li data-uid="12591"><a href="/zh/press/pressreleases/"><span>新闻发布</span></a></li>
-            <li data-uid="12709"><a href="/zh/press/trade-fairs/"><span>MEIKO全球展会</span></a></li>
+            <li data-uid="16608"><a href="/our-company"><span>小周公司介绍</span></a></li>
+            <li data-uid="16609"><a href="/sales/meiko-sales-partners"><span>MEIKO销售合作伙伴</span></a></li>
+            <li data-uid="12243"><a href="/contact/contact-us"><span>联系我们</span></a></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11620"><a href="/zh/contact/contact-us/"><span>联系我们</span></a>
-          <ul>
-            <li data-uid="16608"><a href="/zh/our-company/the-meiko-group/the-meiko-group/"><span>MEIKO集团</span></a></li>
-            <li data-uid="16609"><a href="/zh/sales/meiko-sales-partners/"><span>MEIKO销售合作伙伴</span></a></li>
-            <li data-uid="12243"><a href="/zh/contact/contact-us/"><span>联系我们</span></a></li>
-          </ul><span class="flyout__caret"></span></li>
-        <li data-uid="16603"><a href="/zh/downloads/"><span>下载和媒体</span></a></li>
+        <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li>
         <li class="navigation__entry--meta"><a>Back</a>
           <ul class="navigation__level--meta">
-            <li><a href="//en.meikochina.com/en/" class=""><span>English</span></a></li>
-            <li><a href="//www.meikochina.com/zh/" class="active"><span>汉语</span></a></li>
+            <li><a href="//en.meikochina.com/en" class=""><span>English</span></a></li>
+            <li><a href="//www.meikochina.com" class="active"><span>汉语</span></a></li>
           </ul>
         </li>
       </ul>
@@ -342,7 +316,7 @@
         <span class="hamburger-inner"></span>
       </span></button>
       <div class="header__logo ">
-        <a href="/zh/"><svg xmlns="http://www.w3.org/2000/svg" id="Ebene_1" viewBox="0 0 113 68.9"><style>
+        <a href=""><svg xmlns="http://www.w3.org/2000/svg" id="Ebene_1" viewBox="0 0 113 68.9"><style>
         .st1 {
         fill:#1D1D1B;
         }
@@ -369,104 +343,80 @@
         <ul id="main-navigation">
           <li data-uid="8"><a href="/casestudies"><span>案例研究</span></a>
             <ul class="flyout flyout--fade flyout--twocol">
-              <li data-uid="16497"><a href="/casestudies/hotels/"><span>酒店业</span></a></li>
-              <li data-uid="16498"><a href="/casestudies/restaurants/"><span>餐饮业</span></a></li>
-              <li data-uid="319"><a href="/casestudies/canteens/"><span>员工及学生餐厅</span></a></li>
-              <li data-uid="317"><a href="/casestudies/bakers-confectioners/"><span>面包房与小食店</span></a></li>
-              <li data-uid="16494"><a href="/casestudies/butchers-shops/"><span>肉铺</span></a></li>
-              <li data-uid="16496"><a href="/casestudies/food-industry/"><span>食品工业</span></a></li>
-              <li data-uid="16495"><a href="/casestudies/%E9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86/"><span>食品零售商</span></a></li>
-              <li data-uid="321"><a href="/casestudies/marine/"><span>海运业务</span></a></li>
-              <li data-uid="743"><a href="/casestudies/inflight/"><span>航空配餐</span></a></li>
-              <li data-uid="16502"><a href="/casestudies/hospitals/"><span>医院</span></a></li>
-              <li data-uid="16503"><a href="/casestudies/nursing-and-care-homes/"><span>护理及养老院</span></a></li>
-              <li data-uid="16504"><a href="/casestudies/catering/"><span>餐饮</span></a></li>
-              <li data-uid="16507"><a href="/casestudies/industrial-cleaning/"><span>工业清洁</span></a></li>
+              <li data-uid="16497"><a href="/casestudie/hotels"><span>酒店业</span></a></li>
+              <li data-uid="16498"><a href="/casestudie/restaurants"><span>餐饮业</span></a></li>
+              <li data-uid="319"><a href="/casestudie/canteens"><span>员工及学生餐厅</span></a></li>
+              <li data-uid="317"><a href="/casestudie/bakersconfectioners"><span>面包房与小食店</span></a></li>
+              <li data-uid="16494"><a href="/casestudie/butchersshops"><span>肉铺</span></a></li>
+              <li data-uid="16496"><a href="/casestudie/foodindustry"><span>食品工业</span></a></li>
+              <li data-uid="16495"><a href="/casestudie/%9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86"><span>食品零售商</span></a></li>
+              <li data-uid="321"><a href="/casestudie/marine"><span>海运业务</span></a></li>
+              <li data-uid="743"><a href="/casestudie/inflight"><span>航空配餐</span></a></li>
+              <li data-uid="16502"><a href="/casestudie/hospitals"><span>医院</span></a></li>
+              <li data-uid="16503"><a href="/casestudie/nursingand-care-homes"><span>护理及养老院</span></a></li>
+              <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
+              <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11636"><a href="/zh/products/"><span>产品</span></a>
+          <li data-uid="11636"><a href="/products"><span>产品</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="17146"><a href="/zh/products/made-by-meiko/"><span>MEIKO 制造</span></a></li>
-              <li data-uid="19562"><a href="/zh/products/warewashing/"><span>餐具洗涤设备</span></a>
+              <li data-uid="17146"><a href="/product/made-by-meiko"><span>MEIKO 制造</span></a></li>
+              <li data-uid="19562"><a href="/product/warewashing"><span>餐具洗涤设备</span></a>
                 <ul class="flyout flyout--fade ">
-                  <li data-uid="19563"><a href="/zh/products/warewashing/undercounter-dishwashers/"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
-                  <li data-uid="19564"><a href="/zh/products/warewashing/hood-type-dishwashers/"><span>罩式玻璃器皿和餐具洗涤机</span></a></li>
-                  <li data-uid="19565"><a href="/zh/products/warewashing/universal-warewashers/"><span>通用型洗锅机</span></a></li>
-                  <li data-uid="19566"><a href="/zh/products/warewashing/flight-type-dishwashing-machines/"><span>履带传送式洗碗机。</span></a></li>
-                  <li data-uid="19567"><a href="/zh/products/warewashing/rack-type-dishwashing-machines/"><span>篮框传送式洗碗机</span></a></li>
+                  <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
+                  <li data-uid="19564"><a href="/product/warewashing/hood-type-dishwashers"><span>罩式玻璃器皿和餐具洗涤机</span></a></li>
+                  <li data-uid="19565"><a href="/product/warewashing/universal-warewashers"><span>通用型洗锅机</span></a></li>
+                  <li data-uid="19566"><a href="/product/warewashing/flight-type-dishwashing-machines"><span>履带传送式洗碗机。</span></a></li>
+                  <li data-uid="19567"><a href="/product/warewashing/rack-type-dishwashing-machines"><span>篮框传送式洗碗机</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
-              <li data-uid="11705"><a href="/zh/products/cleaning-disinfection/"><span>清洁与消毒工艺</span></a>
+              <li data-uid="11705"><a href="/product/cleaning-disinfection"><span>清洁与消毒工艺</span></a>
                 <ul class="flyout flyout--fade ">
-                  <li data-uid="19126"><a href="/zh/products/cleaning-disinfection/topline-bedpan-washer-disinfectors/"><span>TopLine系列清洗消毒机</span></a></li>
-                  <li data-uid="19168"><a href="/zh/products/cleaning-disinfection/topic-bedpan-washer/technical-data/"><span>TOPIC 系列清洗消毒机</span></a></li>
-                  <li data-uid="16376"><a href="/zh/products/cleaning-disinfection/multi-washer-disinfection-appliance/technical-data/"><span>创新型 TopClean 60 多功能清洗机</span></a></li>
-                  <li data-uid="11712"><a href="/zh/products/cleaning-disinfection/accessories/"><span>配件</span></a></li>
-                  <li data-uid="11706"><a href="/zh/products/cleaning-disinfection/chemicals/"><span>化学制剂</span></a></li>
+                  <li data-uid="19126"><a href="/product/cleaning-disinfection/topline-bedpan-washer-disinfectors"><span>TopLine系列清洗消毒机</span></a></li>
+                  <li data-uid="19168"><a href="/product/cleaning-disinfection/topic-bedpan-washer/technical-data"><span>TOPIC 系列清洗消毒机</span></a></li>
+                  <li data-uid="16376"><a href="/product/cleaning-disinfection/multi-washer-disinfection-appliance/technical-data"><span>创新型 TopClean 60 多功能清洗机</span></a></li>
+                  <li data-uid="11712"><a href="/product/cleaning-disinfection/accessories"><span>配件</span></a></li>
+                  <li data-uid="11706"><a href="/product/cleaning-disinfection/chemicals"><span>化学制剂</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
-              <li data-uid="19568"><a href="/zh/products/cart-and-trolley-washers/"><span>手推车和餐车清洗机</span></a>
+              <li data-uid="19568"><a href="/product/cart-and-trolley-washers"><span>手推车和餐车清洗机</span></a>
                 <ul class="flyout flyout--fade ">
-                  <li data-uid="21753"><a href="/zh/products/cart-and-trolley-washers/cart-washers/"><span>航空机舱餐车洗涤机</span></a></li>
-                  <li data-uid="21766"><a href="/zh/products/cart-and-trolley-washers/trolley-washers/"><span>航空机舱餐车洗涤机 - Inflight</span></a></li>
+                  <li data-uid="21753"><a href="/product/cart-and-trolley-washers/cart-washers"><span>航空机舱餐车洗涤机</span></a></li>
+                  <li data-uid="21766"><a href="/product/cart-and-trolley-washers/trolley-washers"><span>航空机舱餐车洗涤机 - Inflight</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
-              <li data-uid="20728"><a href="/zh/products/conveying-solutions/technical-data/"><span>餐具传送系统</span></a></li>
-              <li data-uid="11676"><a href="/zh/products/food-waste-systems/"><span>厨余垃圾处理系统</span></a>
+              <li data-uid="20728"><a href="/product/conveying-solutions/technical-data"><span>餐具传送系统</span></a></li>
+              <li data-uid="11676"><a href="/product/food-waste-systems"><span>厨余垃圾处理系统</span></a>
                 <ul class="flyout flyout--fade ">
-                  <li data-uid="25339"><a href="/zh/products/food-waste-systems/pump-systems/"><span>泵送系统</span></a></li>
-                  <li data-uid="25352"><a href="/zh/products/food-waste-systems/vacuum-systems/"><span>真空系统</span></a></li>
+                  <li data-uid="25339"><a href="/product/food-waste-systems/pump-systems"><span>泵送系统</span></a></li>
+                  <li data-uid="25352"><a href="/product/food-waste-systems/vacuum-systems"><span>真空系统</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11630"><a href="/zh/sales/meiko-sales-partners/"><span>销售与服务</span></a>
+          <li data-uid="11630"><a href="/sales/meiko-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="12710"><a href="/zh/sales/meiko-sales-partners/"><span>MEIKO销售合作伙伴</span></a></li>
-              <li data-uid="12714"><a href="/zh/sales/service-contact/"><span>联系我们</span></a></li>
-              <li data-uid="12721"><a href="/zh/sales/what-we-do/"><span>我们的服务协议</span></a>
+              <li data-uid="12710"><a href="/sales/meiko-sales-partners"><span>MEIKO销售合作伙伴</span></a></li>
+              <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
+              <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
                 <ul class="flyout flyout--fade ">
-                  <li data-uid="12724"><a href="/zh/sales/what-we-do/warewashing/"><span>洗涤</span></a></li>
-                  <li data-uid="12723"><a href="/zh/sales/what-we-do/cleaning-disinfection-technology/"><span>清洗和消毒</span></a></li>
-                  <li data-uid="17167"><a href="/zh/sales/what-we-do/product-registration/"><span>产品注册</span></a></li>
+
+                  <li data-uid="12723"><a href="/sales/cleaning-disinfection-technology"><span>清洗和消毒</span></a></li>
+                  <li data-uid="17167"><a href="/sales/what-we-do/product-registration"><span>产品注册</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
-              <li data-uid="27058"><a href="/zh/sales/%E5%AE%A2%E6%88%B7%E5%92%8C%E8%AE%BF%E9%97%AE%E8%80%85%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96/"><span>客户和访问者隐私政策</span></a></li>
+              <li data-uid="27058"><a href="/sales/intimate"><span>客户和访问者隐私政策</span></a></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11626"><a href="/zh/our-company/the-meiko-group/the-meiko-group/"><span>公司介绍</span></a>
+          <li data-uid="11626"><a href="/our-company"><span>公司介绍</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="16712"><a href="/zh/our-company/the-meiko-group/the-meiko-group/"><span>MEIKO集团</span></a>
+              <li data-uid="16712"><a href="/our-company"><span>小周公司介绍</span></a></li>
+              <li data-uid="12731"><a href="/our-company/awards-prices"><span>小周公司荣誉</span></a></li>
+              <!-- <li data-uid="25273"><a href="/our-company/the-discovery-of-cleanliness"><span>清洁探索历程</span></a></li> -->
+              <li data-uid="12739"><a href="/our-company/career-jobs"><span>招贤纳士</span></a>
                 <ul class="flyout flyout--fade ">
-                  <li data-uid="12743"><a href="/zh/our-company/the-meiko-group/facts-figures/"><span>资料与数据</span></a></li>
-                </ul><span class="flyout__caret"></span></li>
-              <li data-uid="12742"><a href="/zh/our-company/mission-m/"><span>M使命</span></a>
-                <ul class="flyout flyout--fade ">
-                  <li data-uid="12741"><a href="/zh/our-company/mission-m/the-meiko-brand/"><span>MEIKO品牌</span></a></li>
-                </ul><span class="flyout__caret"></span></li>
-              <li data-uid="12736"><a href="/zh/our-company/the-values-that-guide-us/"><span>MEIKO价值观</span></a>
-                <ul class="flyout flyout--fade ">
-                  <li data-uid="12123"><a href="/zh/our-company/the-values-that-guide-us/philosophy/product-philosophy/"><span>理念</span></a></li>
-                  <li data-uid="18816"><a href="/zh/our-company/the-values-that-guide-us/corporate-policy/"><span>我们公司的政策</span></a></li>
-                </ul><span class="flyout__caret"></span></li>
-              <li data-uid="12731"><a href="/zh/our-company/awards-prices/"><span>MEIKO荣誉</span></a></li>
-              <li data-uid="25273"><a href="/zh/our-company/the-discovery-of-cleanliness/"><span>清洁探索历程</span></a></li>
-              <li data-uid="12730"><a href="/zh/our-company/networks-forums/"><span>网络与论坛</span></a></li>
-              <li data-uid="12739"><a href="/zh/our-company/career-jobs/"><span>招贤纳士</span></a>
-                <ul class="flyout flyout--fade ">
-                  <li data-uid="12749"><a href="/zh/our-company/career-jobs/experts-professionals/"><span>招聘信息</span></a></li>
-                  <li data-uid="12745"><a href="/zh/our-company/career-jobs/information-for-applicants/"><span>职位申请</span></a></li>
+                  <li data-uid="12749"><a href="/our-company/career-jobs"><span>招聘信息</span></a></li>
+                  <li data-uid="12745"><a href="/our-company/information-for-applicants"><span>职位申请</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11624"><a href="/zh/press/news/"><span>新闻</span></a>
+          <li data-uid="11620"><a href="/contact-us"><span>联系我们</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="27132"><a href="/zh/press/magazine/"><span>杂志</span></a></li>
-              <li data-uid="16618"><a href="/zh/press/publications/"><span>出版物</span></a>
-                <ul class="flyout flyout--fade ">
-                  <li data-uid="12579"><a href="/zh/press/publications/splash/"><span>SPLASH!杂志</span></a></li>
-                </ul><span class="flyout__caret"></span></li>
-              <li data-uid="12591"><a href="/zh/press/pressreleases/"><span>新闻发布</span></a></li>
-              <li data-uid="12709"><a href="/zh/press/trade-fairs/"><span>MEIKO全球展会</span></a></li>
+              <li data-uid="16609"><a href="/sales/meiko-sales-partners"><span>MEIKO销售合作伙伴</span></a></li>
+              <li data-uid="12243"><a href="/contact-us"><span>联系我们</span></a></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11620"><a href="/zh/contact/contact-us/"><span>联系我们</span></a>
-            <ul class="flyout flyout--fade ">
-              <li data-uid="16608"><a href="/zh/our-company/the-meiko-group/the-meiko-group/"><span>MEIKO集团</span></a></li>
-              <li data-uid="16609"><a href="/zh/sales/meiko-sales-partners/"><span>MEIKO销售合作伙伴</span></a></li>
-              <li data-uid="12243"><a href="/zh/contact/contact-us/"><span>联系我们</span></a></li>
-            </ul><span class="flyout__caret"></span></li>
-          <li data-uid="16603"><a href="/zh/downloads/"><span>下载和媒体</span></a></li>
+          <!-- <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li> -->
         </ul>
         <script>
           jQuery(function() {
@@ -495,6 +445,21 @@
     {block name="footer"}{/block}
     <!-- /底部 -->
     <!-- footer -->
+    <div class="newsletter__subscription load__on__scroll load__on__scroll--loaded">
+      <div class="newsletter__subscription__inner container">
+        <div class="subscription__inner__bluebox">
+          <div class="subscription__inner__bluebox__inner">
+            <form action="https://www.meikochina.com/contact/newsletter-abonnieren/">
+              <div class="row">
+                <div class="col-xs-12 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-7 col-input">
+                  <div><label for="newsletter__subscription__email">订阅新闻通讯</label></div><input type="text" id="newsletter__subscription__email" name="email" placeholder="输入邮箱地址" class="hasTransition"></div>
+                <div class="col-xs-12 col-sm-6 col-md-4 col-button"><i class="btn btn--invert waves-input-wrapper waves-effect waves-lightblue"><span class="waves-textwrapper"><input type="submit" value="现在订阅" class="waves-button-input"></span></i></div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
     <footer class="footer load__on__scroll">
       <div class="footer__steel">
         <div class="container container--1240">
@@ -509,7 +474,7 @@
                   PartnerNet
                 </div>
                 <div class="contact__set__value">
-                  <p><a href="http://partnernet.meiko.de/" title="在新链接页打开ParterNet" target="_blank"><span class="partnernet_title">登陆</span></a></p>
+                  <p><a href="http://partnernet.meiko.de" title="在新链接页打开ParterNet" target="_blank"><span class="partnernet_title">登陆</span></a></p>
                 </div>
               </div>
               <div class="contact__set__mobilemaximizer__wrapper" style="display:none;">
@@ -551,7 +516,7 @@
                       <li><a href="https://www.meiko-hk.com"><span>香港</span></a></li>
                       <li><a href="https://www.meiko.pl"><span>波兰</span></a></li>
                       <li><a href="https://www.meiko.rs"><span>塞尔维亚</span></a></li>
-                      <li><a href="https://www.meiko-asia.com/"><span>东南亚</span></a></li>
+                      <li><a href="https://www.meiko-asia.com"><span>东南亚</span></a></li>
                       <li><a href="https://www.meiko.es"><span>西班牙</span></a></li>
                       <li><a href="https://www.meiko-suisse.ch"><span>瑞士</span></a></li>
                       <li><a href="https://www.meiko.com.tr"><span>土耳其</span></a></li>
@@ -564,7 +529,7 @@
               </div>
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="international__languages">
-                  <div class="language-switch"><select onchange="window.location=this.value;" data-theme="languageselect" style="width:100%;"><option class="flag flag--1" value="//en.meikochina.com/en/" >English</option><option class="flag flag--4" value="//www.meikochina.com/zh/" selected>汉语</option></select></div>
+                  <div class="language-switch"><select onchange="window.location=this.value;" data-theme="languageselect" style="width:100%;"><option class="flag flag--1" value="//en.meikochina.com/en" >English</option><option class="flag flag--4" value="//www.meikochina.com" selected>汉语</option></select></div>
                 </div><address class="international__address">
                     迈科清洗科技（中山）有限公司<br />
     中国广东省中山市火炬开发区敬业路2号<br />
@@ -582,9 +547,9 @@
             <div class="col-xs-12 col-sm-12 col-md-6 footer__blue__metanav">
               <nav>
                 <ul>
-                  <li><a href="/zh/websiteowner/"><span>网站版权所有</span></a></li>
-                  <li><a href="/zh/disclaimer/"><span>免责声明</span></a></li>
-                  <li><a href="/zh/dataprivacy/"><span>信息保密</span></a></li>
+                  <li><a href="/websiteowner"><span>网站版权所有</span></a></li>
+                  <li><a href="/disclaimer"><span>免责声明</span></a></li>
+                  <li><a href="/dataprivacy"><span>信息保密</span></a></li>
                 </ul>
               </nav>
             </div>
@@ -611,9 +576,10 @@
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(mtiTracking);
     })();
   </script>
+  
 
   <script src="/assets/original/merged-90869ed677abbb817f7be8f185d2184a.js?1558437262" type="text/javascript"></script>
-
+  {block name="footer-after"}{/block}
 </body>
 
 </html>

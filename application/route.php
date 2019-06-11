@@ -12,3 +12,9 @@
 use \think\Route;
 
 Route::get('casestudies', 'index/CaseStudies/index');
+Route::get('casestudie/:id', 'index/CaseStudies/child');
+Route::get('products', 'index/Product/index');
+Route::get('product/:id/[:next]', 'index/Product/child');
+Route::get('sales/[:model]/[:data]', 'index/Sales/index');
+Route::get('our-company/[:model]', 'index/Aboutus/index');
+Route::get('contact-us', 'index/Contactus/index');

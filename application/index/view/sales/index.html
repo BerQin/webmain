@@ -1,0 +1,334 @@
+{extend name="public/common"}{/extend} {block name="body"}
+<style type="text/css">
+  .gm-err-container {
+    height: 100%;
+    width: 100%;
+    display: table;
+    background-color: #e0e0e0;
+    position: relative;
+    left: 0;
+    top: 0
+  }
+  
+  .gm-err-content {
+    border-radius: 1px;
+    padding-top: 0;
+    padding-left: 10%;
+    padding-right: 10%;
+    position: static;
+    vertical-align: middle;
+    display: table-cell
+  }
+  
+  .gm-err-content a {
+    color: #4285f4
+  }
+  
+  .gm-err-icon {
+    text-align: center
+  }
+  
+  .gm-err-title {
+    margin: 5px;
+    margin-bottom: 20px;
+    color: #616161;
+    font-family: Roboto, Arial, sans-serif;
+    text-align: center;
+    font-size: 24px
+  }
+  
+  .gm-err-message {
+    margin: 5px;
+    color: #757575;
+    font-family: Roboto, Arial, sans-serif;
+    text-align: center;
+    font-size: 12px
+  }
+  
+  .gm-err-autocomplete {
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-size: 15px 15px
+  }
+</style>
+<style type="text/css">
+  .gm-style .gm-style-mtc label,
+  .gm-style .gm-style-mtc div {
+    font-weight: 400
+  }
+</style>
+<style type="text/css">
+  .gm-control-active>img {
+    box-sizing: content-box;
+    display: none;
+    left: 50%;
+    pointer-events: none;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%)
+  }
+  
+  .gm-control-active>img:nth-child(1) {
+    display: block
+  }
+  
+  .gm-control-active:hover>img:nth-child(1),
+  .gm-control-active:active>img:nth-child(1) {
+    display: none
+  }
+  
+  .gm-control-active:hover>img:nth-child(2),
+  .gm-control-active:active>img:nth-child(3) {
+    display: block
+  }
+</style>
+<link type="text/css" rel="stylesheet" href="/assets/original/sales.css">
+<style type="text/css">
+  .gm-ui-hover-effect {
+    opacity: .6
+  }
+  
+  .gm-ui-hover-effect:hover {
+    opacity: 1
+  }
+</style>
+<style type="text/css">
+  .gm-style .gm-style-cc span,
+  .gm-style .gm-style-cc a,
+  .gm-style .gm-style-mtc div {
+    font-size: 10px;
+    box-sizing: border-box
+  }
+</style>
+<style type="text/css">
+  @media print {
+    .gm-style .gmnoprint,
+    .gmnoprint {
+      display: none
+    }
+  }
+  
+  @media screen {
+    .gm-style .gmnoscreen,
+    .gmnoscreen {
+      display: none
+    }
+  }
+</style>
+<style type="text/css">
+  .gm-style-pbc {
+    transition: opacity ease-in-out;
+    background-color: rgba(0, 0, 0, 0.45);
+    text-align: center
+  }
+  
+  .gm-style-pbt {
+    font-size: 22px;
+    color: white;
+    font-family: Roboto, Arial, sans-serif;
+    position: relative;
+    margin: 0;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%)
+  }
+</style>
+<!-- main -->
+<main class="main">
+  <!--TYPO3SEARCH_begin-->
+  <div class="container"></div>
+  <div id="c25641" class="frame frame-default frame-type-avmeiko_pagehero frame-layout-0  ">
+    <div class="hero__wrapper">
+      <div class="">
+        <div class="hero hero--contentposition-image">
+          <div class="hero__contentwrapper">
+            <div class="hero__headline-wrapper  contentmask__paddingcontainer">
+              <div class="hero__headline">
+                <h1 class="text-center headline--xl">
+                  迈科 服务到家。
+                </h1>
+              </div>
+              <div class="hero__overimage"></div>
+            </div><img class="hero__image img-responsive" src="/assets/original/images/csm_Erde_1_d572952107.jpg" width="1920" height="450" alt=""></div>
+        </div>
+      </div>
+    </div>
+    <script>
+      jQuery('body').addClass('backendlayout-pagets__followup--hero');
+    </script>
+  </div>
+  <div class="container">
+    <div id="c244" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-after-medium frame--headline-typography  ">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="ce-textpic  ce-center ce-above clearfix">
+            <div class="ce-bodytext">
+              <div class="rte__content">
+                <p>迈科 构建了一个紧密的销售和服务伙伴网络，使您在任何情况下都能快速获得专业可靠的帮助。在此您可找到距离您最近的所有 迈科 销售和服务伙伴：</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div id="c501" class="frame frame-default frame-type-list frame-layout-0 frame-space-after-medium frame--headline-typography initialized">
+      <div class="dealersearch__index">
+
+
+        <!-- map -->
+
+
+
+        <div id="dealer_map" class="map map--google hidden-xs" style="width: 100%; height: 400px; position: relative; overflow: hidden;" data-show-center-marker="true" data-center="22.55975700,113.45192800,DE">
+          <div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);">
+            <div class="gm-err-container">
+              <div class="gm-err-content">
+                <div class="gm-err-icon"><img src="/assets/original/images/icon_error.png" draggable="false" style="user-select: none;"></div>
+                <div class="gm-err-title">糟糕！出了点问题。</div>
+                <div class="gm-err-message">此页面未能正确加载 Google 地图。请参阅 JavaScript 控制台，了解技术详情。</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+        <!-- filter -->
+
+        <form class="filters" action="https://www.meikochina.com/zh/sales/meiko-sales-partners/" method="post">
+          <div>
+            <input type="hidden" name="tx_avmeiko_dealer[__referrer][@extension]" value="AvMeiko">
+            <input type="hidden" name="tx_avmeiko_dealer[__referrer][@vendor]" value="AV">
+            <input type="hidden" name="tx_avmeiko_dealer[__referrer][@controller]" value="DealerSearch">
+            <input type="hidden" name="tx_avmeiko_dealer[__referrer][@action]" value="index">
+            <input type="hidden" name="tx_avmeiko_dealer[__referrer][arguments]" value="YTowOnt9f5a9b5146685797db855abd24c391fdc1876f072">
+            <input type="hidden" name="tx_avmeiko_dealer[__referrer][@request]" value="a:4:{s:10:&quot;@extension&quot;;s:7:&quot;AvMeiko&quot;;s:11:&quot;@controller&quot;;s:12:&quot;DealerSearch&quot;;s:7:&quot;@action&quot;;s:5:&quot;index&quot;;s:7:&quot;@vendor&quot;;s:2:&quot;AV&quot;;}8233078cb1fb74402b66af5c6d18ef9245a29db0">
+            <input type="hidden" name="tx_avmeiko_dealer[__trustedProperties]" value="a:4:{s:3:&quot;zip&quot;;i:1;s:7:&quot;country&quot;;i:1;s:11:&quot;productArea&quot;;a:2:{i:0;i:1;i:1;i:1;}s:13:&quot;bussinessArea&quot;;i:1;}4f9d95e6375e90f47ca2d58cb2c368e3026cbc6e">
+          </div>
+        </form>
+
+
+        <!-- filter disablers -->
+
+
+
+        <!-- results -->
+
+
+        <div class="results results--wv menu__container menu__container--list">
+
+          <div class="menubox__wrapper">
+            <div class="menubox result result--wv">
+              <div class="col-xs-12 col-sm-2 col-md-2 col-lg-1 col-icon">
+                <div class="icon"></div>
+              </div>
+              <div class="col-xs-12 col-sm-10 col-md-10 col-lg-11 col-info">
+                <div class="result__kicker menubox__tagline">相关分公司</div>
+                <div class="result__title menubox__headline headline--h4">MEIKO Wash-up Technologies Ltd.
+                  <br>Torch High-Tech Industrial
+                  <br>Development Zone
+
+                </div>
+                <div class="result__info">
+                  <div class="row">
+                    <div class="col-xs-12 col-sm-4">
+                      <address>
+            
+                
+No. 2, Jingye Road
+<br>
+528437 ZHONGSHAN, GUANGDONG<br>
+
+电话号码: +86 760 8531 7590<br>
+传真号码: +86 760 8531 4217<br>
+
+              
+          </address>
+                      <div class="show__map__wrapper">
+                        <span class="show__map link hidden-xs">
+              
+
+  距离:
+  
+      0,00 km
+    
+
+
+            </span>
+                        <span class="show__map visible-xs">
+                
+
+  距离:
+  
+      0,00 km
+    
+
+
+              </span>
+                      </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                      <div class="dealerlink">
+
+                        <a class="link" href="http://www.meiko.de/zh/our-company/die-meiko-gruppe/the-meiko-group/meiko-wash-up-technologies-ltd/">阅读更多</a>
+
+                      </div>
+
+
+                      <div class="homepage">
+                        <a class="link" target="_blank" href="http://www.meikochina.com/">www.meikochina.com</a>
+                      </div>
+
+
+                      <div class="email">
+                        <a class="link" href="mailto:info@meikochina.com">info@meikochina.com</a>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <script>
+          jQuery(function() {
+            jQuery('#c501').multiselect();
+            jQuery('#c501 .dealersearch__index').dealerSearch();
+          });
+        </script>
+
+      </div>
+
+
+
+
+
+
+
+    </div>
+  </div>
+  <!--TYPO3SEARCH_end-->
+</main>
+{/block}

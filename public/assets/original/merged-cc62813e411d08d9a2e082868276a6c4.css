@@ -1472,7 +1472,7 @@ address {
   }
   .col-md-8,
   .menu__container.menu__container--list .menubox .menubox__contentwrapper {
-    width: 66.66667%
+    width: 65.66667%
   }
   .col-md-9 {
     width: 75%
@@ -13066,7 +13066,7 @@ a>.card:active .link--accordion.link:after,
 }
 
 .link.link--bigcta:after {
-  content: "";
+  content: "\e661";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -14744,7 +14744,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
 }
 
 .menu__container a.menubox.menubox--with-indicator .menubox__contentwrapper:after {
-  content: "";
+  content: "\e661";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -15192,7 +15192,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
   height: 100%;
   padding: calc(50vw * 0.11);
   vertical-align: middle;
-  width: 50%
+  width: 49.8%;
 }
 
 @media screen and (max-width: 991px) {
@@ -24481,7 +24481,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .video .videolink .playbutton:before {
-  content: "";
+  content: "\e661";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -25171,8 +25171,9 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 .tabs.tabs--productgrouptabs .tabs__nav .tab>a .tab__imagewrap .tab__image img {
-  height: 100%;
-  width: 100%;
+  /* height: 100%; */
+  width: 210px;
+  height: 210px;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   border-radius: 50%
@@ -29133,7 +29134,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
 }
 
 .dealersearch__index .results .result.result--wv .col-icon .icon:before {
-  content: "";
+  content: "\e665";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -29950,4 +29951,12 @@ a>.card header [class*="headline--"] {
     left: 30px;
     right: 30px
   }
+}
+
+.child_page .tab__imagewrap{
+  width:210px !important;
+}
+
+.career-jobs .menu__container.menu__container--list-small .menubox .menubox__contentwrapper{
+  height: 76px;
 }
