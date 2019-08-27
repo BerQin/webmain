@@ -12,14 +12,14 @@ class Aboutus extends Controller
       switch ($id) {
         case 'information-for-applicants':
           $this -> assign([
-            'name' => '提供清洁解决方案 - MEIKO',
+            'name' => '提供清洁解决方案 - MATE ELECTRCAL',
             'bodyClassName' => 'page-12749 pagelevel-3 language-4 backendlayout-pagets__followup layout-0 theme-default backendlayout-pagets__followup--hero mobilemenu--nopush',
             'hasBackPath' => '/'
           ]);
           return $this->fetch('information-for-applicants');
         case 'career-jobs':
           $this -> assign([
-            'name' => '提供清洁解决方案 - MEIKO',
+            'name' => '提供清洁解决方案 - MATE ELECTRCAL',
             'bodyClassName' => 'page-12749 pagelevel-3 language-4 backendlayout-pagets__followup layout-0 theme-default backendlayout-pagets__followup--hero mobilemenu--nopush',
             'hasBackPath' => '/'
           ]);
@@ -27,7 +27,7 @@ class Aboutus extends Controller
         break;
         case 'the-discovery-of-cleanliness':
           $this -> assign([
-            'name' => '提供清洁解决方案 - MEIKO',
+            'name' => '提供清洁解决方案 - MATE ELECTRCAL',
             'bodyClassName' => 'page-25273 pagelevel-2 language-4 backendlayout-pagets__followup layout-0 theme-default mobilemenu--nopush',
             'hasBackPath' => '/'
           ]);
@@ -35,7 +35,7 @@ class Aboutus extends Controller
         break;
         case 'awards-prices':
           $this -> assign([
-            'name' => '提供清洁解决方案 - MEIKO',
+            'name' => '提供清洁解决方案 - MATE ELECTRCAL',
             'bodyClassName' => 'page-12710 pagelevel-2 language-4 backendlayout-pagets__followup layout-0 theme-default backendlayout-pagets__followup--hero mobilemenu--nopush',
             'hasBackPath' => '/'
           ]);
@@ -43,7 +43,7 @@ class Aboutus extends Controller
         break;
         default:
           $this -> assign([
-            'name' => '提供清洁解决方案 - MEIKO',
+            'name' => '提供清洁解决方案 - MATE ELECTRCAL',
             'bodyClassName' => 'page-12710 pagelevel-2 language-4 backendlayout-pagets__followup layout-0 theme-default backendlayout-pagets__followup--hero mobilemenu--nopush',
             'hasBackPath' => '/'
           ]);

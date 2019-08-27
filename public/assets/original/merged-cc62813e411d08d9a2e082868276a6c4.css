@@ -7876,7 +7876,7 @@ body.mobilemenu--open {
   right: 25px;
   font-size: 9px;
   top: calc(50% + 9px);
-  font-family: "meiko";
+  font-family: "MATE ELECTRCAL";
   -moz-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
@@ -8161,7 +8161,7 @@ body.mobilemenu--nopush.mobilemenu--open .content__overlay--mobilemenu.content__
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
-  background: url('../../../typo3conf/ext/av_meiko/Resources/Public/Css/owl.video.play.png') no-repeat;
+  background: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Css/owl.video.play.png') no-repeat;
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
@@ -11581,14 +11581,14 @@ body.mobilemenu--nopush.mobilemenu--open .content__overlay--mobilemenu.content__
 }
 
 .margin--md,
-.frame-type-avmeiko_related_articles>header,
+.frame-type-avMATE ELECTRCAL_related_articles>header,
 .frame-space-after-medium {
   margin-bottom: 100px
 }
 
 @media screen and (max-width: 767px) {
   .margin--md,
-  .frame-type-avmeiko_related_articles>header,
+  .frame-type-avMATE ELECTRCAL_related_articles>header,
   .frame-space-after-medium {
     margin-bottom: 50px
   }
@@ -19365,14 +19365,13 @@ header.header .header__mobilemenutoggle .hamburger-box .hamburger-inner:after {
 }
 
 header.header .header__logo {
-  background-color: #009fe3;
   display: inline-block;
   height: 69px;
   left: 40px;
   overflow: hidden;
   position: absolute;
   top: 0;
-  width: 113px;
+  width: 276px;
   z-index: 3;
   -webkit-transition: all 0.4s ease-out;
   -o-transition: all 0.4s ease-out;
@@ -19383,7 +19382,7 @@ header.header .header__logo {
   header.header .header__logo {
     height: 45px;
     top: 0;
-    width: 70px;
+    width: 168px;
     position: absolute;
     left: 50%;
     -moz-transform: translateX(-50%);
@@ -20485,6 +20484,11 @@ header.header.header--sticky .header__logo {
   width: 55px
 }
 
+.header.header.header--sticky .header__logo img{
+  position: relative;
+  left: -22px;
+}
+
 @media screen and (max-width: 1199px) {
   header.header.header--sticky .header__logo {
     background-color: #009fe3;
@@ -20499,6 +20503,12 @@ header.header.header--sticky .header__logo {
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%)
   }
+
+  body header.header.header--sticky .header__logo img{
+    position: relative;
+    left: -8px !important;
+  }
+
   header.header.header--sticky .header__logo.header__logo--space {
     left: calc(50% - 50px)
   }
@@ -20845,8 +20855,8 @@ body.disable-content-space main.main {
   pointer-events: none
 }
 
-.backendlayout-pagets__followup main>.frame:not(.frame-type-avmeiko_pagehero):not(.frame-type-avmeiko_hotspots):not(.frame-type-avmeiko_magazine_overview),
-.backendlayout-pagets__followup main>.container>.frame:not(.frame-type-avmeiko_pagehero):not(.frame-type-avmeiko_hotspots):not(.frame-type-avmeiko_magazine_overview) {
+.backendlayout-pagets__followup main>.frame:not(.frame-type-avMATE ELECTRCAL_pagehero):not(.frame-type-avMATE ELECTRCAL_hotspots):not(.frame-type-avMATE ELECTRCAL_magazine_overview),
+.backendlayout-pagets__followup main>.container>.frame:not(.frame-type-avMATE ELECTRCAL_pagehero):not(.frame-type-avMATE ELECTRCAL_hotspots):not(.frame-type-avMATE ELECTRCAL_magazine_overview) {
   position: relative;
   z-index: 1
 }
@@ -23969,7 +23979,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
   }
 }
 
-.frame-type-avmeiko_gallery {
+.frame-type-avMATE ELECTRCAL_gallery {
   overflow: hidden
 }
 
@@ -24602,11 +24612,11 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
   }
 }
 
-.avmeiko_video .video .videolink .playbutton {
+.avMATE ELECTRCAL_video .video .videolink .playbutton {
   text-align: center
 }
 
-.avmeiko_video .video .videolink .playbutton figcaption {
+.avMATE ELECTRCAL_video .video .videolink .playbutton figcaption {
   color: #fff;
   margin-top: 35px;
   font-size: 36px;
@@ -24618,40 +24628,40 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 @media screen and (max-width: 767px) {
-  .avmeiko_video .video .videolink .playbutton figcaption {
+  .avMATE ELECTRCAL_video .video .videolink .playbutton figcaption {
     font-size: 26px;
     line-height: 30px
   }
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink .playbutton {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton {
   top: 30%
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink .playbutton:before {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton:before {
   content: none
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink .playbutton figcaption {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton figcaption {
   color: #303030;
   margin-top: 0
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink .playbutton figcaption .video-caption__headline {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton figcaption .video-caption__headline {
   margin-bottom: 50px
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink .playbutton figcaption .video-caption__link {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton figcaption .video-caption__link {
   margin-top: 30px
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink:hover .link:before,
-.avmeiko_video.avmeiko_video--extended .video .videolink:focus .link:before {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:hover .link:before,
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:focus .link:before {
   opacity: 1
 }
 
-.avmeiko_video.avmeiko_video--extended .video .videolink:hover .link:after,
-.avmeiko_video.avmeiko_video--extended .video .videolink:focus .link:after {
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:hover .link:after,
+.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:focus .link:after {
   opacity: 0
 }
 
@@ -24950,7 +24960,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
   }
 }
 
-.frame-type-avmeiko_productgroups {
+.frame-type-avMATE ELECTRCAL_productgroups {
   overflow: hidden
 }
 
@@ -25368,7 +25378,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
   max-width: 100%
 }
 
-.frame-type-avmeiko_banner {
+.frame-type-avMATE ELECTRCAL_banner {
   overflow: hidden
 }
 
@@ -27263,7 +27273,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
   }
 }
 
-.frame-type-avmeiko_techdata {
+.frame-type-avMATE ELECTRCAL_techdata {
   position: relative
 }
 
@@ -29004,7 +29014,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
   background-size: cover;
   background-repeat: no-repeat;
   margin: 30px auto 0 auto;
-  background-image: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/Dealersearch/partner-gold.png')
+  background-image: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Dealersearch/partner-gold.png')
 }
 
 @media screen and (max-width: 767px) {
@@ -29022,7 +29032,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
   background-size: cover;
   background-repeat: no-repeat;
   margin: 30px auto 0 auto;
-  background-image: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/Dealersearch/partner-silver.png')
+  background-image: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Dealersearch/partner-silver.png')
 }
 
 @media screen and (max-width: 767px) {
@@ -29040,7 +29050,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
   background-size: cover;
   background-repeat: no-repeat;
   margin: 30px auto 0 auto;
-  background-image: url('../../../typo3conf/ext/av_meiko/Resources/Public/Img/Dealersearch/partner-bronze.png')
+  background-image: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Dealersearch/partner-bronze.png')
 }
 
 @media screen and (max-width: 767px) {
@@ -29641,11 +29651,11 @@ html.borderimage.is-safari hr.divider.divider--gradient {
   overflow: hidden
 }
 
-.frame-type-avmeiko_magazine_overview .owl-carousel {
+.frame-type-avMATE ELECTRCAL_magazine_overview .owl-carousel {
   z-index: 0
 }
 
-.frame-type-avmeiko_magazine_overview .owl-carousel .owl-item:after {
+.frame-type-avMATE ELECTRCAL_magazine_overview .owl-carousel .owl-item:after {
   content: "";
   position: absolute;
   left: 0;
@@ -29661,7 +29671,7 @@ html.borderimage.is-safari hr.divider.divider--gradient {
 }
 
 @media screen and (max-width: 767px) {
-  .frame-type-avmeiko_magazine_overview .owl-carousel .owl-item:after {
+  .frame-type-avMATE ELECTRCAL_magazine_overview .owl-carousel .owl-item:after {
     background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMmIzZCIgc3RvcC1vcGFjaXR5PSIwLjkiLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzAwMmIzZCIgc3RvcC1vcGFjaXR5PSIwLjkiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDJiM2QiIHN0b3Atb3BhY2l0eT0iMC4wIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
     background-size: 100%;
     background-image: -webkit-gradient(linear, 50% 100%, 50% 0%, color-stop(0%, rgba(0, 43, 61, 0.9)), color-stop(50%, rgba(0, 43, 61, 0.9)), color-stop(100%, rgba(0, 43, 61, 0)));
@@ -29719,7 +29729,7 @@ html.borderimage.is-safari hr.divider.divider--gradient {
   line-height: 19px
 }
 
-.frame-type-avmeiko_language_selector>header {
+.frame-type-avMATE ELECTRCAL_language_selector>header {
   display: none
 }
 
@@ -29919,33 +29929,33 @@ a>.card header [class*="headline--"] {
   .frame.frame-space-after-grid>.container>.powermail_fieldset {
     display: flex
   }
-  .frame.frame-space-after-grid>.container>.row>*>.frame-type-avmeiko_card,
-  .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avmeiko_card,
-  .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avmeiko_card,
-  .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avmeiko_card,
-  .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avmeiko_card,
-  .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avmeiko_card,
-  .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avmeiko_card {
+  .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRCAL_card,
+  .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRCAL_card,
+  .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card,
+  .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRCAL_card,
+  .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card,
+  .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRCAL_card,
+  .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRCAL_card {
     height: 100%
   }
-  .frame.frame-space-after-grid>.container>.row>*>.frame-type-avmeiko_card .card,
-  .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avmeiko_card .card,
-  .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avmeiko_card .card,
-  .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avmeiko_card .card,
-  .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avmeiko_card .card,
-  .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avmeiko_card .card,
-  .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avmeiko_card .card {
+  .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRCAL_card .card,
+  .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRCAL_card .card,
+  .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card,
+  .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRCAL_card .card,
+  .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card,
+  .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRCAL_card .card,
+  .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRCAL_card .card {
     height: 100%;
     display: flex;
     flex-direction: column
   }
-  .frame.frame-space-after-grid>.container>.row>*>.frame-type-avmeiko_card .card .card__image:last-child,
-  .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avmeiko_card .card .card__image:last-child,
-  .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avmeiko_card .card .card__image:last-child,
-  .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avmeiko_card .card .card__image:last-child,
-  .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avmeiko_card .card .card__image:last-child,
-  .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avmeiko_card .card .card__image:last-child,
-  .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avmeiko_card .card .card__image:last-child {
+  .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
+  .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
+  .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
+  .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
+  .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
+  .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
+  .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child {
     position: absolute;
     bottom: 0;
     left: 30px;

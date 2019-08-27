@@ -9,7 +9,7 @@ class CaseStudies extends Controller
     {
 
       $this -> assign([
-        'name' => '行业定制解决方案 - MEIKO',
+        'name' => '行业定制解决方案 - MATE ELECTRCAL',
         'bodyClassName' => 'page-16 pagelevel-0 language-4 backendlayout-pagets__followup layout-0 theme-default backendlayout-pagets__followup--hero mobilemenu--nopush',
         'hasBackPath' => '/'
       ]);
@@ -20,7 +20,7 @@ class CaseStudies extends Controller
     {
       $id = request()->route('id');
       $this -> assign([
-        'name' => $id . '调研 - MEIKO',
+        'name' => $id . '调研 - MATE ELECTRCAL',
         'bodyClassName' => 'page-16 pagelevel-0 language-4 backendlayout-pagets__followup layout-0 theme-default backendlayout-pagets__followup--hero mobilemenu--nopush',
         'hasBackPath' => '/casestudies'
       ]);
