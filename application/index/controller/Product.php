@@ -150,7 +150,7 @@ class Product extends Controller
         ',
         'linkto' => '/detail/lankuangji-D103'
         ),
-        'hongganji' => array(
+        'lankuangji-D203' => array(
         'path' => '/assets/image/chanp/lankuangji-D203.jpg',
         'xnpath' => '/assets/image/chanp/lankuangji-D203-xn.png',
         'name' => '篮筐机D203',

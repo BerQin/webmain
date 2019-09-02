@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:74:"D:\wamp64\www\webmain\public/../application/index\view\product\detail.html";i:1567417770;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567417419;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:74:"D:\wamp64\www\webmain\public/../application/index\view\product\detail.html";i:1567417820;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567417419;}*/ ?>
 <html lang="zh">
 
 <head>

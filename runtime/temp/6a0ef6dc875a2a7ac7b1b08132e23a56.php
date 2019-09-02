@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567412627;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567414147;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567418524;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567417419;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -176,71 +176,16 @@
     <nav data-current-uid="16" data-current-pid="0" data-overviewtext="概览">
       <ul id="mobile-navigation">
         <li data-uid="11600"><a href="/"><span>首页</span></a>
-        <!-- <li data-uid="8"><a href="/casestudies"><span>案例研究</span></a><ul>
-            <li data-uid="16497"><a href="/casestudie/hotels"><span>酒店业</span></a></li>
-            <li data-uid="16498"><a href="/casestudie/restaurants"><span>餐饮业</span></a></li>
-            <li data-uid="319"><a href="/casestudie/canteens"><span>员工及学生餐厅</span></a></li>
-            <li data-uid="317"><a href="/casestudie/bakersconfectioners"><span>面包房与小食店</span></a></li>
-            <li data-uid="16494"><a href="/casestudie/butchersshops"><span>肉铺</span></a></li>
-            <li data-uid="16496"><a href="/casestudie/foodindustry"><span>食品工业</span></a></li>
-            <li data-uid="16495"><a href="/casestudie/%9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86"><span>食品零售商</span></a></li>
-            <li data-uid="321"><a href="/casestudie/marine"><span>海运业务</span></a></li>
-            <li data-uid="743"><a href="/casestudie/inflight"><span>航空配餐</span></a></li>
-            <li data-uid="16502"><a href="/casestudie/hospitals"><span>医院</span></a></li>
-            <li data-uid="16503"><a href="/casestudie/nursingand-care-homes"><span>护理及养老院</span></a></li>
-            <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
-            <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
-          </ul><span class="flyout__caret"></span></li> -->
-        <li data-uid="11636"><a href="/products"><span>产品</span></a>
+        <li data-uid="11636"><a href="/product"><span>产品</span></a>
           <ul>
             <li data-uid="17146"><a href="/product"><span>MATE ELECTRCAL 制造</span></a></li>
-            <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
-              <!-- <ul>
-                <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>通道机</span></a>
-                  <ul>
-                    <li data-uid="19569"><a href="/product/warewashing/undercounter-dishwashers/m-iclean-u"><span>M-iClean U</span></a></li>
-                    <li data-uid="19570"><a href="/product/warewashing/undercounter-dishwashers/upster-line"><span>UPster U</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19564"><a href="/product/warewashing/hood-type-dishwashers"><span>罩式玻璃器皿和餐具洗涤机</span></a>
-                  <ul>
-                    <li data-uid="19571"><a href="/product/warewashing/hood-type-dishwashers/m-iclean-h"><span>M-iClean H</span></a></li>
-                    <li data-uid="19573"><a href="/product/warewashing/hood-type-dishwashers/upster-h-500"><span>UPster H 500</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19565"><a href="/product/warewashing/universal-warewashers"><span>通用型洗锅机</span></a>
-                  <ul>
-                    <li data-uid="19574"><a href="/product/warewashing/universal-warewashers/dv-fv-series/technical-data"><span>DV / FV Series</span></a></li>
-                    <li data-uid="19575"><a href="/product/warewashing/universal-warewashers/upster-pf-600"><span>UPster PF 600</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19566"><a href="/product/warewashing/flight-type-dishwashing-machines"><span>履带传送式洗碗机。</span></a>
-                  <ul>
-                    <li data-uid="19576"><a href="/product/warewashing/flight-type-dishwashing-machines/m-iq"><span>M-iQ</span></a></li>
-                    <li data-uid="19577"><a href="/product/warewashing/flight-type-dishwashing-machines/upster-b"><span>Upster B 型</span></a></li>
-                    <li data-uid="26520"><a href="/product/warewashing/flight-type-dishwashing-machines/%E8%87%AA%E5%8A%A8%E6%89%98%E7%9B%98%E6%B8%85%E6%B4%97%E6%9C%BA"><span>自动托盘清洗机</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19567"><a href="/product/warewashing/rack-type-dishwashing-machines"><span>篮框传送式洗碗机</span></a>
-                  <ul>
-                    <li data-uid="19578"><a href="/product/warewashing/rack-type-dishwashing-machines/m-iq"><span>M-iQ</span></a></li>
-                    <li data-uid="19579"><a href="/product/warewashing/rack-type-dishwashing-machines/upster-k"><span>UPster K</span></a></li>
-                    <li data-uid="19580"><a href="/product/warewashing/rack-type-dishwashing-machines/k-tronic/technical-data"><span>K-tronic</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-              </ul> -->
+            <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
               <span class="flyout__caret"></span>
             </li>
-            <li data-uid="11705"><a href="/product/cleaning-disinfection"><span>通道机</span></a>
-              <span class="flyout__caret"></span>
-            </li>
-            <li data-uid="19568">
-              <a href="/product/cart-and-trolley-washers">
-              <span>长龙机</span>
-              </a>
-              <span class="flyout__caret"></span>
-            </li>
-            <li data-uid="20728"><a href="/product/conveying-solutions/technical-data"><span>迷你长龙机</span></a></li>
-            <li data-uid="11676"><a href="/product/food-waste-systems"><span>FEA长龙机</span></a>
+            <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
+            <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
               <span class="flyout__caret"></span></li>
-            <li data-uid="11676"><a href="/product/food-waste-systems"><span>烘干机</span></a>
-              <span class="flyout__caret"></span></li>
-            <li data-uid="11676"><a href="/product/food-waste-systems"><span>配套设备</span></a>
+            <li data-uid="11676"><a href="/detail/peitao"><span>配套设备</span></a>
               <span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
@@ -331,25 +276,17 @@
             <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
             <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
           </ul><span class="flyout__caret"></span></li> -->
-          <li data-uid="11636"><a href="/products"><span>产品</span></a>
+          <li data-uid="11636"><a href="/product"><span>产品</span></a>
             <ul class="flyout flyout--fade ">
+              
               <li data-uid="17146"><a href="/product"><span>MATE ELECTRCAL 制造</span></a></li>
-              <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
-                <!-- <ul class="flyout flyout--fade ">
-                  <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
-                  <li data-uid="19564"><a href="/product/warewashing/hood-type-dishwashers"><span>罩式玻璃器皿和餐具洗涤机</span></a></li>
-                  <li data-uid="19565"><a href="/product/warewashing/universal-warewashers"><span>通用型洗锅机</span></a></li>
-                  <li data-uid="19566"><a href="/product/warewashing/flight-type-dishwashing-machines"><span>履带传送式洗碗机。</span></a></li>
-                  <li data-uid="19567"><a href="/product/warewashing/rack-type-dishwashing-machines"><span>篮框传送式洗碗机</span></a></li>
-                </ul> -->
+              <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
+                <span class="flyout__caret"></span>
+              </li>
+              <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
+              <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
                 <span class="flyout__caret"></span></li>
-              <li data-uid="11705"><a href="/product/cleaning-disinfection"><span>通道机</span></a>
-                <span class="flyout__caret"></span></li>
-              <li data-uid="19568"><a href="/product/cart-and-trolley-washers"><span>长龙机</span></a><span class="flyout__caret"></span></li>
-              <li data-uid="20728"><a href="/product/conveying-solutions/technical-data"><span>迷你长龙机</span></a></li>
-              <li data-uid="11676"><a href="/product/food-waste-systems"><span>FEA长龙机</span></a><span class="flyout__caret"></span></li>
-              <li data-uid="11677"><a href="/product/food-waste-systems"><span>烘干机</span></a><span class="flyout__caret"></span></li>
-              <li data-uid="11678"><a href="/product/food-waste-systems"><span>配套设备</span></a><span class="flyout__caret"></span></li>
+              <li data-uid="11676"><a href="/detail/peitao"><span>配套设备</span></a></li>
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
@@ -573,7 +510,7 @@
       <div class="cp--js-box cl" style="margin-top: 30px;">
         <div class="cp--js-left">
           <div class="cp--js-right-item">
-            <a href="">
+            <a href="/detail/jiegai-DUN-G1">
               <p class="cp--js-text">
                 揭盖机 型号：DUN-G1
               </p>
@@ -583,7 +520,7 @@
         </div>
         <div class="cp--js-right cl">
           <div class="cp--js-right-item">
-            <a href="">
+            <a href="/detail/lankuangji-D103">
               <p class="cp--js-text">
                 篮筐机 型号：D103
               </p>
@@ -591,7 +528,7 @@
             </a>
           </div>
           <div class="cp--js-right-item">
-            <a href="">
+            <a href="/detail/ludaishi-DUN-L3K30">
               <p class="cp--js-text">
                 长龙式洗碗机 型号：DUN-L3K30
               </p>
@@ -599,7 +536,7 @@
             </a>
           </div>
           <div class="cp--js-right-item">
-            <a href="">
+            <a href="/detail/ludaishi-DUN-L7K78">
               <p class="cp--js-text">
                 长龙式洗碗机 型号：DUN-L7K78
               </p>
@@ -607,7 +544,7 @@
             </a>
           </div>
           <div class="cp--js-right-item">
-            <a href="">
+            <a href="/detail/hongganji">
               <p class="cp--js-text">
                 烘干机
               </p>
