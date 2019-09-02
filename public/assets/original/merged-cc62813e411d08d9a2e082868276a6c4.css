@@ -18164,7 +18164,7 @@ input[type="radio"]+label:after {
 }
 
 .stickybox.stickybox--service .stickybox--service__title:before {
-  content: "";
+  content: "\e634";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -18260,7 +18260,7 @@ input[type="radio"]+label:after {
 }
 
 .stickybox.stickybox--service .stickybox__content ul.stickybox--service__links li.hotline a span:before {
-  content: "";
+  content: "\e634";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -18290,7 +18290,7 @@ input[type="radio"]+label:after {
 }
 
 .stickybox.stickybox--service .stickybox__content ul.stickybox--service__links li.email a span:before {
-  content: "";
+  content: "\e665";
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -18299,18 +18299,18 @@ input[type="radio"]+label:after {
   -moz-osx-font-smoothing: grayscale;
   color: #fff;
   display: inline-block;
-  font-size: 17px;
-  left: 8px;
-  line-height: 17px;
+  font-size: 34px;
+  left: 5px;
+  line-height: 34px;
   position: absolute;
-  top: 5px
+  top: -3px;
 }
 
 @media screen and (max-width: 767px) {
   .stickybox.stickybox--service .stickybox__content ul.stickybox--service__links li.email a span:before {
-    font-size: 15px;
-    line-height: 15px;
-    top: 4px
+    font-size: 26px;
+    line-height: 30px;
+    top: -3px
   }
 }
 

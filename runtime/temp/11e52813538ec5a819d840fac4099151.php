@@ -3,8 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="迈特洗碗机-德国专业清洗消毒技术" />
-  <meta name="Keywords" content="迈特 洗碗机 德国 专业清 洗消毒 技术" />
+  <meta name="description" content="迈特洗碗机-中国制造" />
+  <meta name="Keywords" content="迈特 洗碗机 中国广州佛山 专业清 洗消毒 技术" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="generator" content="TYPO3 CMS">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -54,7 +54,7 @@
         dl = l != 'dataLayer' ? '&l=' + l : '';
       j.async = true;
       j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        '/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-WK48RTN');
   </script>
@@ -72,7 +72,7 @@
         dl = l != 'dataLayer' ? '&l=' + l : '';
       j.async = true;
       j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        '/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-MM6R8BV');
   </script>
@@ -83,7 +83,7 @@
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function() {
-      var u = "//piwik.MATE ELECTRCAL.de";
+      var u = "";
       _paq.push(['setTrackerUrl', u + 'piwik.php']);
       _paq.push(['setSiteId', 2]);
       var d = document,
@@ -180,7 +180,7 @@
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11636"><a href="/products"><span>产品</span></a>
           <ul>
-            <li data-uid="17146"><a href="/product/made-by-MATE ELECTRCAL"><span>MATE ELECTRCAL 制造</span></a></li>
+            <li data-uid="17146"><a href="/product/made-by-electrcal"><span>MATE ELECTRCAL 制造</span></a></li>
             <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
               <!-- <ul>
                 <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>通道机</span></a>
@@ -230,9 +230,9 @@
             <li data-uid="11676"><a href="/product/food-waste-systems"><span>配套设备</span></a>
               <span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11630"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>销售与服务</span></a>
+        <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
           <ul>
-            <li data-uid="12710"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
             <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
             <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
               <ul>
@@ -255,7 +255,7 @@
         <li data-uid="11620"><a href="/contact/contact-us"><span>联系我们</span></a>
           <ul>
             <li data-uid="16608"><a href="/our-company"><span>迈特公司介绍</span></a></li>
-            <li data-uid="16609"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
             <li data-uid="12243"><a href="/contact/contact-us"><span>联系我们</span></a></li>
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li>
@@ -318,7 +318,7 @@
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11636"><a href="/products"><span>产品</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="17146"><a href="/product/made-by-MATE ELECTRCAL"><span>MATE ELECTRCAL 制造</span></a></li>
+              <li data-uid="17146"><a href="/product/made-by-electrcal"><span>MATE ELECTRCAL 制造</span></a></li>
               <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
                 <!-- <ul class="flyout flyout--fade ">
                   <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
@@ -336,9 +336,9 @@
               <li data-uid="11677"><a href="/product/food-waste-systems"><span>烘干机</span></a><span class="flyout__caret"></span></li>
               <li data-uid="11678"><a href="/product/food-waste-systems"><span>配套设备</span></a><span class="flyout__caret"></span></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11630"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>销售与服务</span></a>
+          <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="12710"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
               <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
               <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
                 <ul class="flyout flyout--fade ">
@@ -361,7 +361,7 @@
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11620"><a href="/contact-us"><span>联系我们</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="16609"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
               <li data-uid="12243"><a href="/contact-us"><span>联系我们</span></a></li>
             </ul><span class="flyout__caret"></span></li>
           <!-- <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li> -->
@@ -1027,7 +1027,7 @@
                       <li><a href="https://www.MATE ELECTRCAL.ca"><span>加拿大</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.cz"><span>捷克共和国</span></a></li>
                       <li><a href="http://www.MATE ELECTRCALchina.com"><span>中国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.de"><span>德国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRCAL.de"><span>中国广州佛山</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.fr"><span>法国</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.hu"><span>匈牙利</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.it"><span>意大利</span></a></li>
@@ -1043,7 +1043,7 @@
                       <li><a href="https://www.MATE ELECTRCAL.com.tr"><span>土耳其</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL-uk.co.uk"><span>英国</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.us"><span>美国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.info"><span>迈特集团</span></a></li>
+                      <li><a href="https://www.MATE ELECTRCAL.info"><span>迈特公司</span></a></li>
                     </ul>
                   </nav>
                 </div>

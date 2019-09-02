@@ -18163,7 +18163,7 @@ input[type="radio"]+label:after {
 }
 
 .stickybox.stickybox--service .stickybox--service__title:before {
-    content: "";
+    content: "\e634";
     speak: none;
     font-style: normal;
     font-weight: normal;
@@ -18259,7 +18259,7 @@ input[type="radio"]+label:after {
 }
 
 .stickybox.stickybox--service .stickybox__content ul.stickybox--service__links li.hotline a span:before {
-    content: "";
+    content: "\e634";
     speak: none;
     font-style: normal;
     font-weight: normal;
@@ -18289,7 +18289,7 @@ input[type="radio"]+label:after {
 }
 
 .stickybox.stickybox--service .stickybox__content ul.stickybox--service__links li.email a span:before {
-    content: "";
+    content: "\e665";
     speak: none;
     font-style: normal;
     font-weight: normal;

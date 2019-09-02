@@ -323,14 +323,6 @@
                 "vtp_limit": "1",
                 "vtp_uniqueTriggerId": "7598147_33",
                 "tag_id": 22
-            }, {
-                "function": "__html",
-                "once_per_event": true,
-                "vtp_html": "\u003Cscript type=\"text\/gtmscript\"\u003E!function(a,f,c,h,d,g,k,b){try{f=a[f]||a[c]||function(){throw\"no_xhr\";},d=g=\"\/\/salesviewer.org\",c=a.SV_XHR=function(e){return b=new f,b.onerror=function(){if(d!=g)throw\"load_err\";d=\"\/\/\";setTimeout(c.bind(null,e),0)},b.onload=function(){(a.execScript||a.eval).call(b,b.responseText)},b.open(\"POST\",d,!0),b.withCredentials=!0,b.send(e),b},c(\"h_json\\x3d\"+1*(\"JSON\"in a\u0026\u0026void 0!==JSON.parse)+\"\\x26h_wc\\x3d1\\x26h_event\\x3d\"+1*(\"addEventListener\"in a)+\"\\x26sva\\x3d\"+h)}catch(e){a=new Image,\na.src=\"\/\/salesviewer.org\/tle.gif?sva\\x3dLE-001367-001\\x26e\\x3d\"+encodeURIComponent(e)}}(window,\"XDomainRequest\",\"XMLHttpRequest\",\"LE-001367-001\");\u003C\/script\u003E\u003Cnoscript\u003E\u003Cimg src=\"\/\/salesviewer.org\/LE-001367-001.gif\" style=\"visibility:hidden;\"\u003E\u003C\/noscript\u003E",
-                "vtp_supportDocumentWrite": false,
-                "vtp_enableIframeMode": false,
-                "vtp_enableEditJsMacroBehavior": false,
-                "tag_id": 15
             }],
             "predicates": [{
                 "function": "_cn",

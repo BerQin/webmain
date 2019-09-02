@@ -1,14 +1,27 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\sales\index.html";i:1566897247;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1566898462;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\sales\index.html";i:1567409311;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567417419;}*/ ?>
 <html lang="zh">
 
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="迈特洗碗机-德国专业清洗消毒技术" />
-  <meta name="Keywords" content="迈特 洗碗机 德国 专业清 洗消毒 技术" />
+  <meta name="description" content="迈特洗碗机-中国制造" />
+  <meta name="Keywords" content="迈特 洗碗机 中国 广州 佛山 专业清 洗消毒 技术" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="generator" content="TYPO3 CMS">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <title><?php echo $name; ?></title>
+  <style>
+  .cl:after {
+    content   : ".";
+    display   : block;
+    height    : 0;
+    clear     : both;
+    visibility: hidden;
+  }
+
+  .cl {
+    zoom: 1;
+  }
+  </style>
   <link rel="stylesheet" type="text/css" href="/assets/font/iconfont.css" media="all"> 
   <link rel="stylesheet" type="text/css" href="/assets/original/merged-cc62813e411d08d9a2e082868276a6c4.css?1557313975" media="all">
   <script src="/assets/original/merged-62a19b47a6081fd9ffea777a8c49b9ee.js?1507809629" type="text/javascript"></script>
@@ -54,7 +67,7 @@
         dl = l != 'dataLayer' ? '&l=' + l : '';
       j.async = true;
       j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        '/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-WK48RTN');
   </script>
@@ -72,7 +85,7 @@
         dl = l != 'dataLayer' ? '&l=' + l : '';
       j.async = true;
       j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        '/gtm.js?id=' + i + dl;
       f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-MM6R8BV');
   </script>
@@ -83,7 +96,7 @@
     _paq.push(['trackPageView']);
     _paq.push(['enableLinkTracking']);
     (function() {
-      var u = "//piwik.MATE ELECTRCAL.de";
+      var u = "";
       _paq.push(['setTrackerUrl', u + 'piwik.php']);
       _paq.push(['setSiteId', 2]);
       var d = document,
@@ -129,14 +142,14 @@
     <div id="stickysearch__box" class="stickybox stickybox--top stickybox--search" data-opentrigger="#stickysearch__trigger">
       <div class="stickybox__inner">
         <div class="stickybox__close"></div>
-        <div class="stickybox__title"><svg width="158" height="117" viewBox="0 0 158 117" xmlns="http://www.w3.org/2000/svg"><path d="M115.7 0C98.6 0 85.5 9.1 79.5 21.6 73.5 9 60.9 0 43.8 0 19.6 0 0 16.1 0 36.7v80.5h36.7V46.7c0-5.5 5-10.1 11.6-10.1s11.6 4.5 11.6 10.1v70.5h38.3V46.7c0-5.5 5-10.1 11.6-10.1 6.5 0 11.6 4.5 11.6 10.1v70.5h36.7v-80C158.5 16.6 139.3 0 115.7 0" fill="#FFF"/></svg></div>
+        <!-- <div class="stickybox__title"><svg width="158" height="117" viewBox="0 0 158 117" xmlns="http://www.w3.org/2000/svg"><path d="M115.7 0C98.6 0 85.5 9.1 79.5 21.6 73.5 9 60.9 0 43.8 0 19.6 0 0 16.1 0 36.7v80.5h36.7V46.7c0-5.5 5-10.1 11.6-10.1s11.6 4.5 11.6 10.1v70.5h38.3V46.7c0-5.5 5-10.1 11.6-10.1 6.5 0 11.6 4.5 11.6 10.1v70.5h36.7v-80C158.5 16.6 139.3 0 115.7 0" fill="#FFF"/></svg></div> -->
         <div class="stickybox__content">
           <form action="/search" class="form row">
             <div class="col-xs-12 col-sm-8 col-md-10">
               <div class="form__searchtextwrap"><input name="q" class="form__searchtext solr_suggest" data-url="/search/?type=5011" autocomplete="off" placeholder="输入搜索关键词" /></div>
             </div>
             <div class="col-xs-12 col-sm-4 col-md-2 hidden-xs">
-              <div class="form__submitwrap"><input type="submit" class="form__submit btn btn--invert" value="Search" /></div>
+              <div class="form__submitwrap"><input type="submit" class="form__submit btn btn--invert" value="搜索" /></div>
             </div>
           </form>
         </div>
@@ -162,84 +175,30 @@
     <div class="mobilemenu__logo"><svg width="158" height="117" viewBox="0 0 158 117" xmlns="http://www.w3.org/2000/svg"><path d="M115.7 0C98.6 0 85.5 9.1 79.5 21.6 73.5 9 60.9 0 43.8 0 19.6 0 0 16.1 0 36.7v80.5h36.7V46.7c0-5.5 5-10.1 11.6-10.1s11.6 4.5 11.6 10.1v70.5h38.3V46.7c0-5.5 5-10.1 11.6-10.1 6.5 0 11.6 4.5 11.6 10.1v70.5h36.7v-80C158.5 16.6 139.3 0 115.7 0" fill="#FFF"/></svg></div>
     <nav data-current-uid="16" data-current-pid="0" data-overviewtext="概览">
       <ul id="mobile-navigation">
-        <li data-uid="8"><a href="/casestudies"><span>案例研究</span></a>
+        <li data-uid="11600"><a href="/"><span>首页</span></a>
+        <li data-uid="11636"><a href="/product"><span>产品</span></a>
           <ul>
-            <li data-uid="16497"><a href="/casestudie/hotels"><span>酒店业</span></a></li>
-            <li data-uid="16498"><a href="/casestudie/restaurants"><span>餐饮业</span></a></li>
-            <li data-uid="319"><a href="/casestudie/canteens"><span>员工及学生餐厅</span></a></li>
-            <li data-uid="317"><a href="/casestudie/bakersconfectioners"><span>面包房与小食店</span></a></li>
-            <li data-uid="16494"><a href="/casestudie/butchersshops"><span>肉铺</span></a></li>
-            <li data-uid="16496"><a href="/casestudie/foodindustry"><span>食品工业</span></a></li>
-            <li data-uid="16495"><a href="/casestudie/%9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86"><span>食品零售商</span></a></li>
-            <li data-uid="321"><a href="/casestudie/marine"><span>海运业务</span></a></li>
-            <li data-uid="743"><a href="/casestudie/inflight"><span>航空配餐</span></a></li>
-            <li data-uid="16502"><a href="/casestudie/hospitals"><span>医院</span></a></li>
-            <li data-uid="16503"><a href="/casestudie/nursingand-care-homes"><span>护理及养老院</span></a></li>
-            <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
-            <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
-          </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11636"><a href="/products"><span>产品</span></a>
-          <ul>
-            <li data-uid="17146"><a href="/product/made-by-MATE ELECTRCAL"><span>MATE ELECTRCAL 制造</span></a></li>
-            <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
-              <!-- <ul>
-                <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>通道机</span></a>
-                  <ul>
-                    <li data-uid="19569"><a href="/product/warewashing/undercounter-dishwashers/m-iclean-u"><span>M-iClean U</span></a></li>
-                    <li data-uid="19570"><a href="/product/warewashing/undercounter-dishwashers/upster-line"><span>UPster U</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19564"><a href="/product/warewashing/hood-type-dishwashers"><span>罩式玻璃器皿和餐具洗涤机</span></a>
-                  <ul>
-                    <li data-uid="19571"><a href="/product/warewashing/hood-type-dishwashers/m-iclean-h"><span>M-iClean H</span></a></li>
-                    <li data-uid="19573"><a href="/product/warewashing/hood-type-dishwashers/upster-h-500"><span>UPster H 500</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19565"><a href="/product/warewashing/universal-warewashers"><span>通用型洗锅机</span></a>
-                  <ul>
-                    <li data-uid="19574"><a href="/product/warewashing/universal-warewashers/dv-fv-series/technical-data"><span>DV / FV Series</span></a></li>
-                    <li data-uid="19575"><a href="/product/warewashing/universal-warewashers/upster-pf-600"><span>UPster PF 600</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19566"><a href="/product/warewashing/flight-type-dishwashing-machines"><span>履带传送式洗碗机。</span></a>
-                  <ul>
-                    <li data-uid="19576"><a href="/product/warewashing/flight-type-dishwashing-machines/m-iq"><span>M-iQ</span></a></li>
-                    <li data-uid="19577"><a href="/product/warewashing/flight-type-dishwashing-machines/upster-b"><span>Upster B 型</span></a></li>
-                    <li data-uid="26520"><a href="/product/warewashing/flight-type-dishwashing-machines/%E8%87%AA%E5%8A%A8%E6%89%98%E7%9B%98%E6%B8%85%E6%B4%97%E6%9C%BA"><span>自动托盘清洗机</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-                <li data-uid="19567"><a href="/product/warewashing/rack-type-dishwashing-machines"><span>篮框传送式洗碗机</span></a>
-                  <ul>
-                    <li data-uid="19578"><a href="/product/warewashing/rack-type-dishwashing-machines/m-iq"><span>M-iQ</span></a></li>
-                    <li data-uid="19579"><a href="/product/warewashing/rack-type-dishwashing-machines/upster-k"><span>UPster K</span></a></li>
-                    <li data-uid="19580"><a href="/product/warewashing/rack-type-dishwashing-machines/k-tronic/technical-data"><span>K-tronic</span></a></li>
-                  </ul><span class="flyout__caret"></span></li>
-              </ul> -->
+            <li data-uid="17146"><a href="/product"><span>MATE ELECTRCAL 制造</span></a></li>
+            <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
               <span class="flyout__caret"></span>
             </li>
-            <li data-uid="11705"><a href="/product/cleaning-disinfection"><span>通道机</span></a>
-              <span class="flyout__caret"></span>
-            </li>
-            <li data-uid="19568">
-              <a href="/product/cart-and-trolley-washers">
-              <span>长龙机</span>
-              </a>
-              <span class="flyout__caret"></span>
-            </li>
-            <li data-uid="20728"><a href="/product/conveying-solutions/technical-data"><span>迷你长龙机</span></a></li>
-            <li data-uid="11676"><a href="/product/food-waste-systems"><span>FEA长龙机</span></a>
+            <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
+            <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
               <span class="flyout__caret"></span></li>
-            <li data-uid="11676"><a href="/product/food-waste-systems"><span>烘干机</span></a>
-              <span class="flyout__caret"></span></li>
-            <li data-uid="11676"><a href="/product/food-waste-systems"><span>配套设备</span></a>
+            <li data-uid="11676"><a href="/detail/peitao"><span>配套设备</span></a>
               <span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11630"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>销售与服务</span></a>
+        <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
           <ul>
-            <li data-uid="12710"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
             <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
             <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
-              <ul>
+              <!-- <ul>
                 <li data-uid="12723"><a href="/sales/cleaning-disinfection-technology"><span>清洗和消毒</span></a></li>
                 <li data-uid="17167"><a href="/sales/what-we-do/product-registration"><span>产品注册</span></a></li>
-              </ul><span class="flyout__caret"></span></li>
-            <li data-uid="27058"><a href="/sales/intimate"><span>客户和访问者隐私政策</span></a></li>
+              </ul> -->
+            <span class="flyout__caret"></span></li>
+            <!-- <li data-uid="27058"><a href="/sales/intimate"><span>客户和访问者隐私政策</span></a></li> -->
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11626"><a href="/our-company"><span>公司介绍</span></a>
           <ul>
@@ -252,12 +211,12 @@
                 <li data-uid="12745"><a href="/our-company/information-for-applicants"><span>职位申请</span></a></li>
               </ul><span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
-        <li data-uid="11620"><a href="/contact/contact-us"><span>联系我们</span></a>
+        <!-- <li data-uid="11620"><a href="/contact/contact-us"><span>联系我们</span></a>
           <ul>
             <li data-uid="16608"><a href="/our-company"><span>迈特公司介绍</span></a></li>
-            <li data-uid="16609"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
             <li data-uid="12243"><a href="/contact/contact-us"><span>联系我们</span></a></li>
-          </ul><span class="flyout__caret"></span></li>
+          </ul><span class="flyout__caret"></span></li> -->
         <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li>
         <li class="navigation__entry--meta"><a>Back</a>
           <ul class="navigation__level--meta">
@@ -288,22 +247,9 @@
         <span class="hamburger-inner"></span>
       </span></button>
       <div class="header__logo ">
-        <a href=""><svg xmlns="http://www.w3.org/2000/svg" id="Ebene_1" viewBox="0 0 113 68.9"><style>
-        .st1 {
-        fill:#1D1D1B;
-        }
-
-        .st2 {
-        fill:none;
-        stroke:#1D1D1B;
-        stroke-width:0.7034;
-        stroke-miterlimit:3.8637;
-        }
-
-        .st3 {
-        fill:#FFFFFF;
-        }
-    </style><path d="M25 15c-3.2 0-5.6 1.7-6.7 4-1.1-2.3-3.4-4-6.6-4-4.4 0-8 3-8 6.7v14.9h6.8v-13c0-1 1-1.8 2.1-1.8 1.2 0 2.1.8 2.1 1.8v13h7.1v-13c0-1 1-1.8 2.1-1.8 1.2 0 2.1.8 2.1 1.8v13h6.8V21.9c.1-3.8-3.4-6.9-7.8-6.9z" class="st3"/><g><path d="M51.9 49.5v-5.3H37.1v21h14.7v-5.4h-8.1v-2.5h8.1v-5.2h-8.1v-2.6zm4.1-5.3h7.1v21H56v-21zm11.4 0v21h6.9v-21z" class="st1 path--desktop"/><path d="M81.4 54.5l5.5-10.3h-7.7l-4.9 10.3 5.2 10.7h7.8zm16.9-10.9c-6.1 0-11.1 4.9-11.1 11s5 11 11.1 11 11.1-4.9 11.1-11c.1-6.1-4.9-11-11.1-11zm.1 16.9c-2.5 0-4.4-2.6-4.4-5.7 0-3.2 2-5.7 4.4-5.7 2.5 0 4.4 2.6 4.4 5.7.1 3.1-1.9 5.7-4.4 5.7z" class="st1 path--desktop"/><path d="M0 40.8h113" class="st2 path--desktop"/><path d="M25 43.6c-3.2 0-5.6 1.7-6.7 4-1.1-2.3-3.4-4-6.6-4-4.4 0-8 3-8 6.7v14.9h6.8v-13c0-1 1-1.8 2.1-1.8 1.2 0 2.1.8 2.1 1.8v13h7.1v-13c0-1 1-1.8 2.1-1.8 1.2 0 2.1.8 2.1 1.8v13h6.8V50.5c.1-3.8-3.4-6.9-7.8-6.9z" class="st1 path--desktop"/></g></svg></a></div>
+        <a href="">
+          <img class="all_logo" style="height: 100%;" src="/assets/image/LOGO.png" alt="">
+        </a></div>
       <div class="header__claim"></div>
       <div class="header__navcontrols ">
         <a href="<?php echo $hasBackPath; ?>" class="navcontrols__backbutton"></a>
@@ -313,53 +259,47 @@
       </div>
       <nav class="header__navigation">
         <ul id="main-navigation">
-          <li data-uid="8"><a href="/casestudies"><span>案例研究</span></a>
-            <ul class="flyout flyout--fade flyout--twocol">
-              <li data-uid="16497"><a href="/casestudie/hotels"><span>酒店业</span></a></li>
-              <li data-uid="16498"><a href="/casestudie/restaurants"><span>餐饮业</span></a></li>
-              <li data-uid="319"><a href="/casestudie/canteens"><span>员工及学生餐厅</span></a></li>
-              <li data-uid="317"><a href="/casestudie/bakersconfectioners"><span>面包房与小食店</span></a></li>
-              <li data-uid="16494"><a href="/casestudie/butchersshops"><span>肉铺</span></a></li>
-              <li data-uid="16496"><a href="/casestudie/foodindustry"><span>食品工业</span></a></li>
-              <li data-uid="16495"><a href="/casestudie/%9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86"><span>食品零售商</span></a></li>
-              <li data-uid="321"><a href="/casestudie/marine"><span>海运业务</span></a></li>
-              <li data-uid="743"><a href="/casestudie/inflight"><span>航空配餐</span></a></li>
-              <li data-uid="16502"><a href="/casestudie/hospitals"><span>医院</span></a></li>
-              <li data-uid="16503"><a href="/casestudie/nursingand-care-homes"><span>护理及养老院</span></a></li>
-              <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
-              <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
-            </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11636"><a href="/products"><span>产品</span></a>
+          <li data-uid="11600"><a href="/"><span>首页</span></a>
+          <!-- <li data-uid="8"><a href="/casestudies"><span>案例研究</span></a>
+          <ul class="flyout flyout--fade flyout--twocol">
+            <li data-uid="16497"><a href="/casestudie/hotels"><span>酒店业</span></a></li>
+            <li data-uid="16498"><a href="/casestudie/restaurants"><span>餐饮业</span></a></li>
+            <li data-uid="319"><a href="/casestudie/canteens"><span>员工及学生餐厅</span></a></li>
+            <li data-uid="317"><a href="/casestudie/bakersconfectioners"><span>面包房与小食店</span></a></li>
+            <li data-uid="16494"><a href="/casestudie/butchersshops"><span>肉铺</span></a></li>
+            <li data-uid="16496"><a href="/casestudie/foodindustry"><span>食品工业</span></a></li>
+            <li data-uid="16495"><a href="/casestudie/%9%A3%9F%E5%93%81%E9%9B%B6%E5%94%AE%E5%95%86"><span>食品零售商</span></a></li>
+            <li data-uid="321"><a href="/casestudie/marine"><span>海运业务</span></a></li>
+            <li data-uid="743"><a href="/casestudie/inflight"><span>航空配餐</span></a></li>
+            <li data-uid="16502"><a href="/casestudie/hospitals"><span>医院</span></a></li>
+            <li data-uid="16503"><a href="/casestudie/nursingand-care-homes"><span>护理及养老院</span></a></li>
+            <li data-uid="16504"><a href="/casestudie/catering"><span>餐饮</span></a></li>
+            <li data-uid="16507"><a href="/casestudie/industrialcleaning"><span>工业清洁</span></a></li>
+          </ul><span class="flyout__caret"></span></li> -->
+          <li data-uid="11636"><a href="/product"><span>产品</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="17146"><a href="/product/made-by-MATE ELECTRCAL"><span>MATE ELECTRCAL 制造</span></a></li>
-              <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
-                <!-- <ul class="flyout flyout--fade ">
-                  <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
-                  <li data-uid="19564"><a href="/product/warewashing/hood-type-dishwashers"><span>罩式玻璃器皿和餐具洗涤机</span></a></li>
-                  <li data-uid="19565"><a href="/product/warewashing/universal-warewashers"><span>通用型洗锅机</span></a></li>
-                  <li data-uid="19566"><a href="/product/warewashing/flight-type-dishwashing-machines"><span>履带传送式洗碗机。</span></a></li>
-                  <li data-uid="19567"><a href="/product/warewashing/rack-type-dishwashing-machines"><span>篮框传送式洗碗机</span></a></li>
-                </ul> -->
+              
+              <li data-uid="17146"><a href="/product"><span>MATE ELECTRCAL 制造</span></a></li>
+              <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
+                <span class="flyout__caret"></span>
+              </li>
+              <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
+              <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
                 <span class="flyout__caret"></span></li>
-              <li data-uid="11705"><a href="/product/cleaning-disinfection"><span>通道机</span></a>
-                <span class="flyout__caret"></span></li>
-              <li data-uid="19568"><a href="/product/cart-and-trolley-washers"><span>长龙机</span></a><span class="flyout__caret"></span></li>
-              <li data-uid="20728"><a href="/product/conveying-solutions/technical-data"><span>迷你长龙机</span></a></li>
-              <li data-uid="11676"><a href="/product/food-waste-systems"><span>FEA长龙机</span></a><span class="flyout__caret"></span></li>
-              <li data-uid="11677"><a href="/product/food-waste-systems"><span>烘干机</span></a><span class="flyout__caret"></span></li>
-              <li data-uid="11678"><a href="/product/food-waste-systems"><span>配套设备</span></a><span class="flyout__caret"></span></li>
+              <li data-uid="11676"><a href="/detail/peitao"><span>配套设备</span></a></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11630"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>销售与服务</span></a>
+          <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="12710"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
               <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
               <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
-                <ul class="flyout flyout--fade ">
+                <!-- <ul class="flyout flyout--fade ">
 
                   <li data-uid="12723"><a href="/sales/cleaning-disinfection-technology"><span>清洗和消毒</span></a></li>
                   <li data-uid="17167"><a href="/sales/what-we-do/product-registration"><span>产品注册</span></a></li>
-                </ul><span class="flyout__caret"></span></li>
-              <li data-uid="27058"><a href="/sales/intimate"><span>客户和访问者隐私政策</span></a></li>
+                </ul> -->
+                <span class="flyout__caret"></span></li>
+              <!-- <li data-uid="27058"><a href="/sales/intimate"><span>客户和访问者隐私政策</span></a></li> -->
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11626"><a href="/our-company"><span>公司介绍</span></a>
             <ul class="flyout flyout--fade ">
@@ -372,11 +312,11 @@
                   <li data-uid="12745"><a href="/our-company/information-for-applicants"><span>职位申请</span></a></li>
                 </ul><span class="flyout__caret"></span></li>
             </ul><span class="flyout__caret"></span></li>
-          <li data-uid="11620"><a href="/contact-us"><span>联系我们</span></a>
+          <!-- <li data-uid="11620"><a href="/contact-us"><span>联系我们</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="16609"><a href="/sales/MATE ELECTRCAL-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
               <li data-uid="12243"><a href="/contact-us"><span>联系我们</span></a></li>
-            </ul><span class="flyout__caret"></span></li>
+            </ul><span class="flyout__caret"></span></li> -->
           <!-- <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li> -->
         </ul>
         <script>
@@ -583,7 +523,7 @@
 
 
 
-        <div id="dealer_map" class="map map--google hidden-xs" style="width: 100%; height: 400px; position: relative; overflow: hidden;" data-show-center-marker="true" data-center="22.55975700,113.45192800,DE">
+        <!-- <div id="dealer_map" class="map map--google hidden-xs" style="width: 100%; height: 400px; position: relative; overflow: hidden;" data-show-center-marker="true" data-center="22.55975700,113.45192800,DE">
           <div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);">
             <div class="gm-err-container">
               <div class="gm-err-content">
@@ -593,7 +533,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
 
 
@@ -601,7 +541,7 @@
 
         <!-- filter -->
 
-        <form class="filters" action="https://www.MATE ELECTRCALchina.com/zh/sales/MATE ELECTRCAL-sales-partners/" method="post">
+        <!-- <form class="filters" action="https://www.MATE ELECTRCALchina.com/zh/sales/mate-sales-partners/" method="post">
           <div>
             <input type="hidden" name="tx_avMATE ELECTRCAL_dealer[__referrer][@extension]" value="AvMATE ELECTRCAL">
             <input type="hidden" name="tx_avMATE ELECTRCAL_dealer[__referrer][@vendor]" value="AV">
@@ -612,122 +552,13 @@
             <input type="hidden" name="tx_avMATE ELECTRCAL_dealer[__trustedProperties]" value="a:4:{s:3:&quot;zip&quot;;i:1;s:7:&quot;country&quot;;i:1;s:11:&quot;productArea&quot;;a:2:{i:0;i:1;i:1;i:1;}s:13:&quot;bussinessArea&quot;;i:1;}4f9d95e6375e90f47ca2d58cb2c368e3026cbc6e">
           </div>
         </form>
-
-
-        <!-- filter disablers -->
-
-
-
-        <!-- results -->
-
-
-        <div class="results results--wv menu__container menu__container--list">
-
-          <div class="menubox__wrapper">
-            <div class="menubox result result--wv">
-              <div class="col-xs-12 col-sm-2 col-md-2 col-lg-1 col-icon">
-                <div class="icon"></div>
-              </div>
-              <div class="col-xs-12 col-sm-10 col-md-10 col-lg-11 col-info">
-                <div class="result__kicker menubox__tagline">相关分公司</div>
-                <div class="result__title menubox__headline headline--h4">MATE ELECTRCAL Wash-up Technologies Ltd.
-                  <br>Torch High-Tech Industrial
-                  <br>Development Zone
-
-                </div>
-                <div class="result__info">
-                  <div class="row">
-                    <div class="col-xs-12 col-sm-4">
-                      <address>
-            
-                
-No. 2, Jingye Road
-<br>
-528437 ZHONGSHAN, GUANGDONG<br>
-
-电话号码: +86 760 8531 7590<br>
-传真号码: +86 760 8531 4217<br>
-
-              
-          </address>
-                      <div class="show__map__wrapper">
-                        <span class="show__map link hidden-xs">
-              
-
-  距离:
-  
-      0,00 km
-    
-
-
-            </span>
-                        <span class="show__map visible-xs">
-                
-
-  距离:
-  
-      0,00 km
-    
-
-
-              </span>
-                      </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                      <div class="dealerlink">
-
-                        <a class="link" href="http://www.MATE ELECTRCAL.de/zh/our-company/die-MATE ELECTRCAL-gruppe/the-MATE ELECTRCAL-group/MATE ELECTRCAL-wash-up-technologies-ltd/">阅读更多</a>
-
-                      </div>
-
-
-                      <div class="homepage">
-                        <a class="link" target="_blank" href="http://www.MATE ELECTRCALchina.com/">www.MATE ELECTRCALchina.com</a>
-                      </div>
-
-
-                      <div class="email">
-                        <a class="link" href="mailto:info@MATE ELECTRCALchina.com">info@MATE ELECTRCALchina.com</a>
-                      </div>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-
-            </div>
-          </div>
-
-
-
-
-
-
-
-        </div>
-
-
-
-
-
-
-
         <script>
           jQuery(function() {
             jQuery('#c501').multiselect();
             jQuery('#c501 .dealersearch__index').dealerSearch();
           });
-        </script>
-
+        </script> -->
       </div>
-
-
-
-
-
-
-
     </div>
   </div>
   <!--TYPO3SEARCH_end-->
@@ -739,7 +570,7 @@ No. 2, Jingye Road
     
     <!-- /底部 -->
     <!-- footer -->
-    <div class="newsletter__subscription load__on__scroll load__on__scroll--loaded">
+    <!-- <div class="newsletter__subscription load__on__scroll load__on__scroll--loaded">
       <div class="newsletter__subscription__inner container">
         <div class="subscription__inner__bluebox">
           <div class="subscription__inner__bluebox__inner">
@@ -753,7 +584,7 @@ No. 2, Jingye Road
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <footer class="footer load__on__scroll">
       <div class="footer__steel">
         <div class="container container--1240">
@@ -797,7 +628,7 @@ No. 2, Jingye Road
                       <li><a href="https://www.MATE ELECTRCAL.ca"><span>加拿大</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.cz"><span>捷克共和国</span></a></li>
                       <li><a href="http://www.MATE ELECTRCALchina.com"><span>中国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.de"><span>德国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRCAL.de"><span>中国广州佛山</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.fr"><span>法国</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.hu"><span>匈牙利</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.it"><span>意大利</span></a></li>
@@ -813,7 +644,7 @@ No. 2, Jingye Road
                       <li><a href="https://www.MATE ELECTRCAL.com.tr"><span>土耳其</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL-uk.co.uk"><span>英国</span></a></li>
                       <li><a href="https://www.MATE ELECTRCAL.us"><span>美国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.info"><span>迈特集团</span></a></li>
+                      <li><a href="https://www.MATE ELECTRCAL.info"><span>迈特公司</span></a></li>
                     </ul>
                   </nav>
                 </div>

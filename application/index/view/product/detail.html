@@ -1,0 +1,72 @@
+{extend name="public/common"}{/extend} {block name="body"}
+<!-- main -->
+<main class="main">
+  <!--TYPO3SEARCH_begin-->
+  <div class="container"></div>
+  <div id="c25632" class="frame frame-default frame-type-avMATE ELECTRCAL_pagehero frame-layout-indent_small  ">
+    <div class="hero__wrapper">
+      <div class="">
+        <div class="hero hero--contentposition-image">
+          <div class="hero__contentwrapper">
+            <div class="hero__headline-wrapper  contentmask__paddingcontainer">
+              <div class="hero__headline">
+                <h1 class="text-center headline--xl">
+                  迈特的洗碗机——{$detail['name']}
+                </h1>
+              </div>
+              <div class="hero__overimage"></div>
+            </div><img class="hero__image img-responsive" src="/assets/original/images/csm_water-splash-full_0ec9a25280.jpg" width="1920" height="452" alt=""></div>
+        </div>
+      </div>
+    </div>
+    <script>
+      jQuery('body').addClass('backendlayout-pagets__followup--hero');
+    </script>
+  </div>
+  <div class="container">
+    <div id="c247" class="frame frame-default frame-type-textmedia frame-layout-indent_small frame-space-after-medium frame--headline-typography  ">
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1">
+          <div class="ce-textpic  ce-center ce-below clearfix">
+            <div class="ce-bodytext">
+              <div style="margin-bottom: 30px;">
+                <h2>产品特点：</h2>
+              </div>
+              <div class="rte__content">
+                <p>{$detail['doc']}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container" style="margin-bottom: 60px;">
+    <p class="detail-cp-box">
+      <img src="{$detail['path']}" alt="{$detail['name']}">
+    </p>
+    {notempty name="$detail['xnpath']"}
+    <p class="detail-cp-box">
+      <img src="{$detail['xnpath']}" alt="{$detail['name']}-性能参数">
+    </p>
+    {/notempty}
+    {empty name="$detail['xnpath']"}
+      {volist name="$detail['imgspath']" id="data" key="k"}
+        <p class="detail-cp-box">
+          <img src="{$data}" alt="{$detail['name']}-介绍{$k}">
+        </p>
+      {/volist}
+    {/empty}
+  </div>
+  <style>
+    .detail-cp-box{
+      text-align: center;
+    }
+    .detail-cp-box img{
+      display: inline-block;
+      max-width: 100%;
+    }
+  </style>
+  <!--TYPO3SEARCH_end-->
+</main>
+{/block}
