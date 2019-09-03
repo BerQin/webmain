@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567418524;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567417419;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567478176;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567497514;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -182,10 +182,17 @@
             <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
               <span class="flyout__caret"></span>
             </li>
+            <li data-uid="19562"><a href="javascript:;"><span>蓝筐式洗碗机</span></a>
+              <ul>
+                <li data-uid="12723"><a href="/detail/lankuangji-D103"><span>篮筐机D103</span></a></li>
+                <li data-uid="17167"><a href="/detail/lankuangji-D203"><span>篮筐机D203</span></a></li>
+              </ul>
+              <span class="flyout__caret"></span>
+            </li>
             <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
             <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
               <span class="flyout__caret"></span></li>
-            <li data-uid="11676"><a href="/detail/peitao"><span>配套设备</span></a>
+            <li data-uid="11676"><a href="/detail/peitao"><span>餐具传送系统</span></a>
               <span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
@@ -283,10 +290,26 @@
               <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
                 <span class="flyout__caret"></span>
               </li>
+              <li data-uid="19562"><a href="javacsript:;"><span>蓝筐式洗碗机</span></a>
+                <ul class="flyout flyout--fade ">
+                  <li data-uid="12723"><a href="/detail/lankuangji-D103"><span>篮筐机D103</span></a></li>
+                  <li data-uid="17167"><a href="/detail/lankuangji-D203"><span>篮筐机D203</span></a></li>
+                </ul>
+                <span class="flyout__caret"></span>
+              </li>
+              <li data-uid="19562"><a href="javacsript:;"><span>长龙式洗碗机</span></a>
+                <ul class="flyout flyout--fade ">
+                  <li data-uid="12723"><a href="/detail/ludaishi-DUN-L3K30"><span>履带式洗碗机DUN-L3K30</span></a></li>
+                  <li data-uid="17167"><a href="/detail/ludaishi-DUN-L6K68"><span>履带式洗碗机DUN-L6K68</span></a></li>
+                  <li data-uid="17168"><a href="/detail/ludaishi-DUN-L7K78"><span>履带式洗碗机DUN-L7K78</span></a></li>
+                </ul>
+                <span class="flyout__caret"></span>
+              </li>
+              
               <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
               <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
                 <span class="flyout__caret"></span></li>
-              <li data-uid="11676"><a href="/detail/peitao"><span>配套设备</span></a></li>
+              <li data-uid="11676"><a href="/detail/peitao"><span>餐具传送系统</span></a></li>
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
@@ -452,7 +475,7 @@
               </h3>
             </header>
             <div class="rte__content">
-              <p>迈特 研发的解决方案，支持一切专业餐具清洗消毒过程。来自 30 个国家的 2000 多名员工见证着 迈特 成为一家全球性科技服务型企业，并对市场发挥着决定性的作用。专业的餐具清洗消毒设备和技术应用于厨余垃圾处理：来自 迈特 的清洁和智能解决方案。</p>
+              <p>迈特 研发的解决方案，支持一切专业餐具清洗消毒过程。我们的客户包括世界五百强，国内知名团餐公司，大专院校，五星级酒店，他们见证着迈特成为一家国际化科技性服务型企业，并对市场发挥着决定性的作用。专业的餐具清洗消毒设备和技术应用于厨余垃圾处理：来自 迈特 的清洁和智能解决方案。</p>
               <p><a href="/product/made-by-electrcal">了解更多 迈特 解决方案</a></p>
             </div>
           </div>

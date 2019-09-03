@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\webmain\public/../application/index\view\product\child.html";i:1567478169;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567478169;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\webmain\public/../application/index\view\product\child.html";i:1567478169;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567497265;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -182,6 +182,13 @@
             <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
               <span class="flyout__caret"></span>
             </li>
+            <li data-uid="19562"><a href="javascript:;"><span>蓝筐式洗碗机</span></a>
+              <ul>
+                <li data-uid="12723"><a href="/detail/lankuangji-D103"><span>篮筐机D103</span></a></li>
+                <li data-uid="17167"><a href="/detail/lankuangji-D203"><span>篮筐机D203</span></a></li>
+              </ul>
+              <span class="flyout__caret"></span>
+            </li>
             <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
             <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
               <span class="flyout__caret"></span></li>
@@ -283,6 +290,21 @@
               <li data-uid="19562"><a href="/detail/jiegai-DUN-G1"><span>揭盖机</span></a>
                 <span class="flyout__caret"></span>
               </li>
+              <li data-uid="19562"><a href="javacsript:;"><span>蓝筐式洗碗机</span></a>
+                <ul class="flyout flyout--fade ">
+                  <li data-uid="12723"><a href="/detail/lankuangji-D103"><span>篮筐机D103</span></a></li>
+                  <li data-uid="17167"><a href="/detail/lankuangji-D203"><span>篮筐机D203</span></a></li>
+                </ul>
+                <span class="flyout__caret"></span>
+              </li>
+              <li data-uid="19562"><a href="javacsript:;"><span>长龙式洗碗机</span></a>
+                <ul class="flyout flyout--fade ">
+                  <li data-uid="12723"><a href="/detail/lankuangji-D103"><span>履带式洗碗机DUN-L3K30</span></a></li>
+                  <li data-uid="17167"><a href="/detail/lankuangji-D203"><span>履带式洗碗机DUN-L6K68</span></a></li>
+                </ul>
+                <span class="flyout__caret"></span>
+              </li>
+              
               <li data-uid="20728"><a href="/detail/minicl-DUN-L1K20"><span>迷你长龙机</span></a></li>
               <li data-uid="11676"><a href="/detail/hongganji"><span>烘干机</span></a>
                 <span class="flyout__caret"></span></li>
