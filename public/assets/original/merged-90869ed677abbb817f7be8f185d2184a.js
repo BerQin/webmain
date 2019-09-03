@@ -10281,7 +10281,7 @@ jQuery(function() {
 });
 (function()
 {
-  jQuery('.avMATE ELECTRCAL_video').each(function(){
+  jQuery('.avMATE ELECTRICAL_video').each(function(){
     var $wrapper=jQuery(this),
       $playbutton=$wrapper.find('.playbutton'),
       $figcaption=$wrapper.find('figcaption');
@@ -10439,7 +10439,7 @@ jQuery('.frame-type-table .table__wrapper.table__wrapper--fixedcol').scrolltable
   fixedColumn: true
 });
 
-jQuery('.frame-type-avMATE ELECTRCAL_techdata .table__wrapper.table__wrapper--fixedcol').scrolltable({
+jQuery('.frame-type-avMATE ELECTRICAL_techdata .table__wrapper.table__wrapper--fixedcol').scrolltable({
   fixedColumn: true
 });
 (function()
@@ -10951,10 +10951,10 @@ jQuery.fn.productfinder=function(_options) {
       }
 
       var input={
-        'tx_avMATE ELECTRCAL_productfinder[contentUid]':options.contentUid || null,
-        'tx_avMATE ELECTRCAL_productfinder[segment]':segmentUid || null,
-        'tx_avMATE ELECTRCAL_productfinder[property]':propertyUid || null,
-        'tx_avMATE ELECTRCAL_productfinder[renderContent]':renderContent ? 1 : 0
+        'tx_avMATE ELECTRICAL_productfinder[contentUid]':options.contentUid || null,
+        'tx_avMATE ELECTRICAL_productfinder[segment]':segmentUid || null,
+        'tx_avMATE ELECTRICAL_productfinder[property]':propertyUid || null,
+        'tx_avMATE ELECTRICAL_productfinder[renderContent]':renderContent ? 1 : 0
       };
 
       $container.addClass('frame--loading');
@@ -11952,7 +11952,7 @@ jQuery.fn.dealerSearch=function() {
 
           marker.setZIndex(-1);
           marker.setIcon({
-            url: '/typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Icons/Dealersearch/Maps/Markers/map_marker_position.png',
+            url: '/typo3conf/ext/av_MATE ELECTRICAL/Resources/Public/Img/Icons/Dealersearch/Maps/Markers/map_marker_position.png',
             size: new google.maps.Size(46, 59),
             anchor: new google.maps.Point(16, 41)
           });
@@ -11975,7 +11975,7 @@ jQuery.fn.dealerSearch=function() {
           var marker=new google.maps.Marker();
 
           marker.setIcon({
-            url: '/typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/'+jQuery(this).attr('data-image'),
+            url: '/typo3conf/ext/av_MATE ELECTRICAL/Resources/Public/'+jQuery(this).attr('data-image'),
             size: new google.maps.Size(46, 59),
             anchor: new google.maps.Point(16, 41)
           });
@@ -12266,9 +12266,9 @@ jQuery.fn.languageSelector=function(){
 
           jQuery.get($action,
             {
-              'tx_avMATE ELECTRCAL_language_selector[continent]':continent,
-              'tx_avMATE ELECTRCAL_language_selector[country]':country,
-              'tx_avMATE ELECTRCAL_language_selector[domain]':domain
+              'tx_avMATE ELECTRICAL_language_selector[continent]':continent,
+              'tx_avMATE ELECTRICAL_language_selector[country]':country,
+              'tx_avMATE ELECTRICAL_language_selector[domain]':domain
             },
             function(data){
               $continentSeclect.html(jQuery(data).find('.js-continents').html());

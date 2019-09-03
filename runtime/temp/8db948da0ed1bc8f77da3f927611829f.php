@@ -110,7 +110,7 @@
 
     })();
   </script>
-  <link rel="canonical" href="http://decn.MATE ELECTRCAL.live.typo3.MATE ELECTRCAL.de" />
+  <link rel="canonical" href="http://decn.MATE ELECTRICAL.live.typo3.MATE ELECTRICAL.de" />
 </head>
 
 <body class="<?php echo $bodyClassName; ?>">
@@ -164,7 +164,7 @@
   <div id="domainsuggest" data-preselection=''>
     <div class="container">
       <div class="domainsuggest__inner">
-        <div class="domainsuggest__notice">欢迎光临迈特MATE ELECTRCAL。<br/>请根据需要，按所在国家选择相关网站。</div>
+        <div class="domainsuggest__notice">欢迎光临迈特MATE ELECTRICAL。<br/>请根据需要，按所在国家选择相关网站。</div>
         <div class="domainsuggest__right">
           <div class="domainsuggest__selection"><select data-domainselection-input data-theme="languageselect" style="width:100%;"></select></div>
           <div class="domainsuggest__submit"><button class="btn btn--sm btn-primary" type="submit" value="" data-submit>確認</button></div><button class="domainsuggest__close"></button></div>
@@ -193,7 +193,7 @@
           </ul><span class="flyout__caret"></span></li> -->
         <li data-uid="11636"><a href="/products"><span>产品</span></a>
           <ul>
-            <li data-uid="17146"><a href="/product"><span>MATE ELECTRCAL 制造</span></a></li>
+            <li data-uid="17146"><a href="/product"><span>MATE ELECTRICAL 制造</span></a></li>
             <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
               <!-- <ul>
                 <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>通道机</span></a>
@@ -245,7 +245,7 @@
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
           <ul>
-            <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
             <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
             <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
               <!-- <ul>
@@ -269,14 +269,14 @@
         <!-- <li data-uid="11620"><a href="/contact/contact-us"><span>联系我们</span></a>
           <ul>
             <li data-uid="16608"><a href="/our-company"><span>迈特公司介绍</span></a></li>
-            <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
             <li data-uid="12243"><a href="/contact/contact-us"><span>联系我们</span></a></li>
           </ul><span class="flyout__caret"></span></li> -->
         <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li>
         <li class="navigation__entry--meta"><a>Back</a>
           <ul class="navigation__level--meta">
-            <li><a href="//en.MATE ELECTRCALchina.com/en" class=""><span>English</span></a></li>
-            <li><a href="//www.MATE ELECTRCALchina.com" class="active"><span>汉语</span></a></li>
+            <li><a href="//en.MATE ELECTRICALchina.com/en" class=""><span>English</span></a></li>
+            <li><a href="//www.MATE ELECTRICALchina.com" class="active"><span>汉语</span></a></li>
           </ul>
         </li>
       </ul>
@@ -333,7 +333,7 @@
           </ul><span class="flyout__caret"></span></li> -->
           <li data-uid="11636"><a href="/products"><span>产品</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="17146"><a href="/product"><span>MATE ELECTRCAL 制造</span></a></li>
+              <li data-uid="17146"><a href="/product"><span>MATE ELECTRICAL 制造</span></a></li>
               <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
                 <!-- <ul class="flyout flyout--fade ">
                   <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
@@ -353,7 +353,7 @@
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
               <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
               <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
                 <!-- <ul class="flyout flyout--fade ">
@@ -377,7 +377,7 @@
             </ul><span class="flyout__caret"></span></li>
           <!-- <li data-uid="11620"><a href="/contact-us"><span>联系我们</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
               <li data-uid="12243"><a href="/contact-us"><span>联系我们</span></a></li>
             </ul><span class="flyout__caret"></span></li> -->
           <!-- <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li> -->
@@ -407,7 +407,7 @@
   <main class="main">
     <!--TYPO3SEARCH_begin-->
     <div class="container"></div>
-    <div id="c26265" class="frame frame-default frame-type-avMATE ELECTRCAL_pagehero frame-layout-0  ">
+    <div id="c26265" class="frame frame-default frame-type-avMATE ELECTRICAL_pagehero frame-layout-0  ">
       <div class="hero__wrapper">
         <div class="">
           <div class="hero hero--contentposition-image">
@@ -415,7 +415,7 @@
               <div class="hero__headline-wrapper  contentmask__paddingcontainer">
                 <div class="hero__headline">
                   <h1 class="text-center headline--xl">
-                    MATE ELECTRCAL 制造
+                    MATE ELECTRICAL 制造
                   </h1>
                 </div>
                 <div class="hero__overimage"></div>
@@ -434,7 +434,7 @@
             <div class="ce-textpic  ce-right ce-intext clearfix">
               <div class="ce-bodytext">
                 <div class="rte__content">
-                  <p>通过餐具洗涤、清洁和消毒的创新技术让世界更洁净，这是 MATE ELECTRCAL 的愿景。这个愿景激励我们在中国广州佛山。“MATE ELECTRCAL 制造”是技术、品质和设计最高标准的典范。简而言之，这是我们对清洁和卫生永不妥协的承诺。</p>
+                  <p>通过餐具洗涤、清洁和消毒的创新技术让世界更洁净，这是 MATE ELECTRICAL 的愿景。这个愿景激励我们在中国广州佛山。“MATE ELECTRICAL 制造”是技术、品质和设计最高标准的典范。简而言之，这是我们对清洁和卫生永不妥协的承诺。</p>
                 </div>
               </div>
             </div>
@@ -446,7 +446,7 @@
       <div id="c40012" class="frame frame-default frame-type-menu_pages frame-layout-0 frame-space-after-medium  ">
         <div class="menu__container menu__container--list menu__container--list-tiles">
           <div class="menubox__wrapper">
-            <a class="menubox  menubox--with-indicator " href="https://www.MATE ELECTRCALchina.com/zh/products/warewashing/">
+            <a class="menubox  menubox--with-indicator " href="https://www.MATE ELECTRICALchina.com/zh/products/warewashing/">
               <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_UPster-H500_01_Haubenspuelmaschine_16zu9_4d5c1c51ec.jpg" data-src="/assets/original/images/csm_UPster-H500_01_Haubenspuelmaschine_16zu9_4d5c1c51ec.jpg"
                   width="640" height="360" alt=""></div>
               <div class="menubox__contentwrapper">
@@ -457,7 +457,7 @@
 
                   </div>
                   <div class="menubox__content">
-                    针对每种需求提供正确的清洗技术：从台下清洗机到直通式清洗机、多用清洗机、带式清洗机和篮传式清洗机，再到运输车清洗设备，MATE ELECTRCAL 在清洁解决方案的工艺领域内占主导地位。
+                    针对每种需求提供正确的清洗技术：从台下清洗机到直通式清洗机、多用清洗机、带式清洗机和篮传式清洗机，再到运输车清洗设备，MATE ELECTRICAL 在清洁解决方案的工艺领域内占主导地位。
 
 
                   </div><span class="link menubox__fakelink">
@@ -467,7 +467,7 @@
             </a>
           </div>
           <div class="menubox__wrapper">
-            <a class="menubox  menubox--with-indicator " href="https://www.MATE ELECTRCALchina.com/zh/products/cleaning-disinfection/">
+            <a class="menubox  menubox--with-indicator " href="https://www.MATE ELECTRICALchina.com/zh/products/cleaning-disinfection/">
               <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_TopLine-10-Steckbeckenspueler_16zu9_63aa21d6e6.jpg" data-src="/assets/original/images/csm_TopLine-10-Steckbeckenspueler_16zu9_63aa21d6e6.jpg"
                   width="640" height="360" alt="fäkalienspüler TopLine"></div>
               <div class="menubox__contentwrapper">
@@ -478,7 +478,7 @@
 
                   </div>
                   <div class="menubox__content">
-                    识别感染途径并将其切断 – 也就是说：控制及保障卫生。没有其他地方会比医院、疗养院和在处理重要的防火器材时更需要做到这一点。MATE ELECTRCAL 了解这类任务， 并能熟练协助解决这些问题。
+                    识别感染途径并将其切断 – 也就是说：控制及保障卫生。没有其他地方会比医院、疗养院和在处理重要的防火器材时更需要做到这一点。MATE ELECTRICAL 了解这类任务， 并能熟练协助解决这些问题。
 
 
                   </div><span class="link menubox__fakelink">
@@ -488,7 +488,7 @@
             </a>
           </div>
           <div class="menubox__wrapper">
-            <a class="menubox  menubox--with-indicator " href="https://www.MATE ELECTRCALchina.com/zh/products/food-waste-systems/">
+            <a class="menubox  menubox--with-indicator " href="https://www.MATE ELECTRICALchina.com/zh/products/food-waste-systems/">
               <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_WasteStar_SC_2_Speiseresteentsorgung_dc9014ce31.jpg" data-src="/assets/original/images/csm_WasteStar_SC_2_Speiseresteentsorgung_dc9014ce31.jpg"
                   width="640" height="360" alt="Lebensmittelreste entsorgen WasteStar SC" title="Lebensmittelreste entsorgen"></div>
               <div class="menubox__contentwrapper">
@@ -499,7 +499,7 @@
 
                   </div>
                   <div class="menubox__content">
-                    如果必须将食物倾倒时 – 必须有目的系统地执行倾倒，尽可能避免浪费。MATE ELECTRCAL 厨余垃圾处理设备用于巧妙地处理食品垃圾 ， 并创造新能源。
+                    如果必须将食物倾倒时 – 必须有目的系统地执行倾倒，尽可能避免浪费。MATE ELECTRICAL 厨余垃圾处理设备用于巧妙地处理食品垃圾 ， 并创造新能源。
 
 
                   </div><span class="link menubox__fakelink">
@@ -524,7 +524,7 @@
       <div class="newsletter__subscription__inner container">
         <div class="subscription__inner__bluebox">
           <div class="subscription__inner__bluebox__inner">
-            <form action="https://www.MATE ELECTRCALchina.com/contact/newsletter-abonnieren/">
+            <form action="https://www.MATE ELECTRICALchina.com/contact/newsletter-abonnieren/">
               <div class="row">
                 <div class="col-xs-12 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-7 col-input">
                   <div><label for="newsletter__subscription__email">订阅新闻通讯</label></div><input type="text" id="newsletter__subscription__email" name="email" placeholder="输入邮箱地址" class="hasTransition"></div>
@@ -549,7 +549,7 @@
                   PartnerNet
                 </div>
                 <div class="contact__set__value">
-                  <p><a href="http://partnernet.MATE ELECTRCAL.de" title="在新链接页打开ParterNet" target="_blank"><span class="partnernet_title">登陆</span></a></p>
+                  <p><a href="http://partnernet.MATE ELECTRICAL.de" title="在新链接页打开ParterNet" target="_blank"><span class="partnernet_title">登陆</span></a></p>
                 </div>
               </div> -->
               <div class="contact__set__mobilemaximizer__wrapper" style="display:none;">
@@ -572,36 +572,36 @@
                 <div class="international__links">
                   <nav>
                     <ul class="clearfix">
-                      <li><a href="https://www.MATE ELECTRCAL.com.au"><span>澳大利亚</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.at"><span>奥地利</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-bps.be"><span>比利时</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.ca"><span>加拿大</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.cz"><span>捷克共和国</span></a></li>
-                      <li><a href="http://www.MATE ELECTRCALchina.com"><span>中国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.de"><span>中国广州佛山</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.fr"><span>法国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.hu"><span>匈牙利</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.it"><span>意大利</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.in"><span>印度</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.ae"><span>中东</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.nl"><span>荷兰</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-hk.com"><span>香港</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.pl"><span>波兰</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.rs"><span>塞尔维亚</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-asia.com"><span>东南亚</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.es"><span>西班牙</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-suisse.ch"><span>瑞士</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.com.tr"><span>土耳其</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-uk.co.uk"><span>英国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.us"><span>美国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.info"><span>迈特公司</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.com.au"><span>澳大利亚</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.at"><span>奥地利</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-bps.be"><span>比利时</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.ca"><span>加拿大</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.cz"><span>捷克共和国</span></a></li>
+                      <li><a href="http://www.MATE ELECTRICALchina.com"><span>中国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.de"><span>中国广州佛山</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.fr"><span>法国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.hu"><span>匈牙利</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.it"><span>意大利</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.in"><span>印度</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.ae"><span>中东</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.nl"><span>荷兰</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-hk.com"><span>香港</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.pl"><span>波兰</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.rs"><span>塞尔维亚</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-asia.com"><span>东南亚</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.es"><span>西班牙</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-suisse.ch"><span>瑞士</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.com.tr"><span>土耳其</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-uk.co.uk"><span>英国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.us"><span>美国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.info"><span>迈特公司</span></a></li>
                     </ul>
                   </nav>
                 </div>
               </div> -->
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="international__languages">
-                  <!-- <div class="language-switch"><select onchange="window.location=this.value;" data-theme="languageselect" style="width:100%;"><option class="flag flag--1" value="//en.MATE ELECTRCALchina.com/en" >English</option><option class="flag flag--4" value="//www.MATE ELECTRCALchina.com" selected>汉语</option></select></div> -->
+                  <!-- <div class="language-switch"><select onchange="window.location=this.value;" data-theme="languageselect" style="width:100%;"><option class="flag flag--1" value="//en.MATE ELECTRICALchina.com/en" >English</option><option class="flag flag--4" value="//www.MATE ELECTRICALchina.com" selected>汉语</option></select></div> -->
                 </div><address class="international__address">
      佛山市迈特电器有限公司<br />
      广东省佛山市顺德区北滘珠江大道15号<br />

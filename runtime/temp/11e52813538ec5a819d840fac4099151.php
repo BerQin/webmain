@@ -97,7 +97,7 @@
 
     })();
   </script>
-  <link rel="canonical" href="http://decn.MATE ELECTRCAL.live.typo3.MATE ELECTRCAL.de" />
+  <link rel="canonical" href="http://decn.MATE ELECTRICAL.live.typo3.MATE ELECTRICAL.de" />
 </head>
 
 <body class="<?php echo $bodyClassName; ?>">
@@ -151,7 +151,7 @@
   <div id="domainsuggest" data-preselection=''>
     <div class="container">
       <div class="domainsuggest__inner">
-        <div class="domainsuggest__notice">欢迎光临迈特MATE ELECTRCAL。<br/>请根据需要，按所在国家选择相关网站。</div>
+        <div class="domainsuggest__notice">欢迎光临迈特MATE ELECTRICAL。<br/>请根据需要，按所在国家选择相关网站。</div>
         <div class="domainsuggest__right">
           <div class="domainsuggest__selection"><select data-domainselection-input data-theme="languageselect" style="width:100%;"></select></div>
           <div class="domainsuggest__submit"><button class="btn btn--sm btn-primary" type="submit" value="" data-submit>確認</button></div><button class="domainsuggest__close"></button></div>
@@ -180,7 +180,7 @@
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11636"><a href="/products"><span>产品</span></a>
           <ul>
-            <li data-uid="17146"><a href="/product/made-by-electrcal"><span>MATE ELECTRCAL 制造</span></a></li>
+            <li data-uid="17146"><a href="/product/made-by-electrcal"><span>MATE ELECTRICAL 制造</span></a></li>
             <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
               <!-- <ul>
                 <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>通道机</span></a>
@@ -232,7 +232,7 @@
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
           <ul>
-            <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
             <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
             <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
               <ul>
@@ -255,14 +255,14 @@
         <li data-uid="11620"><a href="/contact/contact-us"><span>联系我们</span></a>
           <ul>
             <li data-uid="16608"><a href="/our-company"><span>迈特公司介绍</span></a></li>
-            <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+            <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
             <li data-uid="12243"><a href="/contact/contact-us"><span>联系我们</span></a></li>
           </ul><span class="flyout__caret"></span></li>
         <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li>
         <li class="navigation__entry--meta"><a>Back</a>
           <ul class="navigation__level--meta">
-            <li><a href="//en.MATE ELECTRCALchina.com/en" class=""><span>English</span></a></li>
-            <li><a href="//www.MATE ELECTRCALchina.com" class="active"><span>汉语</span></a></li>
+            <li><a href="//en.MATE ELECTRICALchina.com/en" class=""><span>English</span></a></li>
+            <li><a href="//www.MATE ELECTRICALchina.com" class="active"><span>汉语</span></a></li>
           </ul>
         </li>
       </ul>
@@ -318,7 +318,7 @@
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11636"><a href="/products"><span>产品</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="17146"><a href="/product/made-by-electrcal"><span>MATE ELECTRCAL 制造</span></a></li>
+              <li data-uid="17146"><a href="/product/made-by-electrcal"><span>MATE ELECTRICAL 制造</span></a></li>
               <li data-uid="19562"><a href="/product/warewashing"><span>揭盖机</span></a>
                 <!-- <ul class="flyout flyout--fade ">
                   <li data-uid="19563"><a href="/product/warewashing/undercounter-dishwashers"><span>台下式玻璃器皿和餐具洗涤机</span></a></li>
@@ -338,7 +338,7 @@
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
               <li data-uid="12714"><a href="/sales/service-contact"><span>联系我们</span></a></li>
               <li data-uid="12721"><a href="/sales/what-we-do"><span>我们的服务协议</span></a>
                 <ul class="flyout flyout--fade ">
@@ -361,7 +361,7 @@
             </ul><span class="flyout__caret"></span></li>
           <li data-uid="11620"><a href="/contact-us"><span>联系我们</span></a>
             <ul class="flyout flyout--fade ">
-              <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRCAL销售合作伙伴</span></a></li>
+              <li data-uid="16609"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
               <li data-uid="12243"><a href="/contact-us"><span>联系我们</span></a></li>
             </ul><span class="flyout__caret"></span></li>
           <!-- <li data-uid="16603"><a href="/downloads"><span>下载和媒体</span></a></li> -->
@@ -391,7 +391,7 @@
 <main class="main">
   <!--TYPO3SEARCH_begin-->
   <div class="container"></div>
-  <div id="c45271" class="frame frame-default frame-type-avMATE ELECTRCAL_pagehero frame-layout-0 frame-space-after-medium  ">
+  <div id="c45271" class="frame frame-default frame-type-avMATE ELECTRICAL_pagehero frame-layout-0 frame-space-after-medium  ">
     <div class="hero__wrapper">
       <div class="">
         <div class="hero hero--contentposition-imagecompact">
@@ -399,7 +399,7 @@
             <div class="hero__headline-wrapper container contentmask__paddingcontainer">
               <div class="hero__headline">
                 <h1 class="text-center headline--xl">
-                  所有行业的完美解决方案：MATE ELECTRCAL 满足您的需求！
+                  所有行业的完美解决方案：MATE ELECTRICAL 满足您的需求！
                 </h1>
               </div>
               <div class="hero__overimage">
@@ -422,51 +422,51 @@
     </script>
   </div>
   <div class="container">
-    <div id="c33651" class="frame frame-default frame-type-avMATE ELECTRCAL_reference_overview frame-layout-0 frame-space-after-medium initialized">
+    <div id="c33651" class="frame frame-default frame-type-avMATE ELECTRICAL_reference_overview frame-layout-0 frame-space-after-medium initialized">
       <!--TYPO3SEARCH_end-->
       <div class="reference__list">
-        <form id="filterform-33651" action="https://www.MATE ELECTRCALchina.com/zh/case-studies/?tx_avMATE ELECTRCAL_reference_overview%5Baction%5D=filter&amp;cHash=5ef64dcfae2c9c8b149d282505f8b5c3" method="post">
-          <div><input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__referrer][@extension]" value="AvMATE ELECTRCAL"><input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__referrer][@vendor]" value="AV"><input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__referrer][@controller]"
-              value="Reference"><input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__referrer][@action]" value="filter"><input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__referrer][arguments]" value="YTowOnt9f5a9b5146685797db855abd24c391fdc1876f072">
-            <input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__referrer][@request]" value="a:4:{s:10:&quot;@extension&quot;;s:7:&quot;AvMATE ELECTRCAL&quot;;s:11:&quot;@controller&quot;;s:9:&quot;Reference&quot;;s:7:&quot;@action&quot;;s:6:&quot;filter&quot;;s:7:&quot;@vendor&quot;;s:2:&quot;AV&quot;;}d90b0cf40807ef2ed9a2847ca855c63adc1e4dd1">
-            <input type="hidden" name="tx_avMATE ELECTRCAL_reference_overview[__trustedProperties]" value="a:0:{}c3d665d97e50f5a1a6d59c09b73de12621a461f5"></div>
+        <form id="filterform-33651" action="https://www.MATE ELECTRICALchina.com/zh/case-studies/?tx_avMATE ELECTRICAL_reference_overview%5Baction%5D=filter&amp;cHash=5ef64dcfae2c9c8b149d282505f8b5c3" method="post">
+          <div><input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__referrer][@extension]" value="AvMATE ELECTRICAL"><input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__referrer][@vendor]" value="AV"><input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__referrer][@controller]"
+              value="Reference"><input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__referrer][@action]" value="filter"><input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__referrer][arguments]" value="YTowOnt9f5a9b5146685797db855abd24c391fdc1876f072">
+            <input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__referrer][@request]" value="a:4:{s:10:&quot;@extension&quot;;s:7:&quot;AvMATE ELECTRICAL&quot;;s:11:&quot;@controller&quot;;s:9:&quot;Reference&quot;;s:7:&quot;@action&quot;;s:6:&quot;filter&quot;;s:7:&quot;@vendor&quot;;s:2:&quot;AV&quot;;}d90b0cf40807ef2ed9a2847ca855c63adc1e4dd1">
+            <input type="hidden" name="tx_avMATE ELECTRICAL_reference_overview[__trustedProperties]" value="a:0:{}c3d665d97e50f5a1a6d59c09b73de12621a461f5"></div>
           <div class="row">
             <div class="col-xs-12 col-sm-4 col-md-2 col-md-offset-3 col-filter">
               <div class="filter" data-filter="">
                 <div class="filter__label" data-label="请选择" data-label-choosen="选择"><span class="label__placeholder">请选择</span><span class="label__title">行业</span></div>
                 <div class="filter__content">
                   <div class="filter__optionwrapper">
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-552" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="552"><label for="segments-552">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-552" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="552"><label for="segments-552">
                       酒店业
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-551" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="551"><label for="segments-551">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-551" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="551"><label for="segments-551">
                       餐饮业
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-550" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="550"><label for="segments-550">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-550" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="550"><label for="segments-550">
                       大众餐饮
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-549" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="549"><label for="segments-549">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-549" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="549"><label for="segments-549">
                       烘焙行业
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-548" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="548"><label for="segments-548">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-548" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="548"><label for="segments-548">
                       肉联厂
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-547" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="547"><label for="segments-547">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-547" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="547"><label for="segments-547">
                       食品加工行业
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-546" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="546"><label for="segments-546">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-546" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="546"><label for="segments-546">
                       海运业务
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-545" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="545"><label for="segments-545">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-545" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="545"><label for="segments-545">
                       航空餐饮
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-544" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="544"><label for="segments-544">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-544" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="544"><label for="segments-544">
                       医院
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-543" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="543"><label for="segments-543">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-543" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="543"><label for="segments-543">
                       护理业
                     </label></div>
-                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-542" name="tx_avMATE ELECTRCAL_reference_overview[segments][]" value="542"><label for="segments-542">
+                    <div class="form__group"><input data-group="segments" type="checkbox" id="segments-542" name="tx_avMATE ELECTRICAL_reference_overview[segments][]" value="542"><label for="segments-542">
                       工业清洗
                     </label></div>
                   </div>
@@ -479,94 +479,94 @@
                 <div class="filter__label" data-label="请选择" data-label-choosen="选择"><span class="label__placeholder">请选择</span><span class="label__title">产品</span></div>
                 <div class="filter__content">
                   <div class="filter__optionwrapper">
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-409" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="409"><label for="products-409">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-409" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="409"><label for="products-409">
                       AZP
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-18856" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="18856"><label for="products-18856">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-18856" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="18856"><label for="products-18856">
                       DV - FV
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20746" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="20746"><label for="products-20746">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20746" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="20746"><label for="products-20746">
                       FV 40.2 / g
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-358" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="358"><label for="products-358">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-358" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="358"><label for="products-358">
                       FV 40.2 G
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20742" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="20742"><label for="products-20742">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20742" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="20742"><label for="products-20742">
                       K-tronic
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-17211" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="17211"><label for="products-17211">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-17211" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="17211"><label for="products-17211">
                       M-iClean H
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-956" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="956"><label for="products-956">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-956" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="956"><label for="products-956">
                       M-iQ
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-955" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="955"><label for="products-955">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-955" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="955"><label for="products-955">
                       M-iQ
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-22937" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="22937"><label for="products-22937">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-22937" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="22937"><label for="products-22937">
                       M-iQ 航空配餐履带传送式洗碗机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-284" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="284"><label for="products-284">
-                      MATE ELECTRCAL的洗碗机、玻璃器皿洗涤机、餐具洗涤配套产品
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-284" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="284"><label for="products-284">
+                      MATE ELECTRICAL的洗碗机、玻璃器皿洗涤机、餐具洗涤配套产品
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-477" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="477"><label for="products-477">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-477" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="477"><label for="products-477">
                       TOPIC 便盆洗涤机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-476" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="476"><label for="products-476">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-476" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="476"><label for="products-476">
                       TopLine系列清洗消毒机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-10688" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="10688"><label for="products-10688">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-10688" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="10688"><label for="products-10688">
                       UPster H 500
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-16007" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="16007"><label for="products-16007">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-16007" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="16007"><label for="products-16007">
                       UPster K
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20743" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="20743"><label for="products-20743">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20743" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="20743"><label for="products-20743">
                       UPster PF 600
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-19209" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="19209"><label for="products-19209">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-19209" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="19209"><label for="products-19209">
                       UPster U
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-10680" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="10680"><label for="products-10680">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-10680" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="10680"><label for="products-10680">
                       UPster U
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-12496" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="12496"><label for="products-12496">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-12496" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="12496"><label for="products-12496">
                       Upster B 型
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-7814" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="7814"><label for="products-7814">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-7814" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="7814"><label for="products-7814">
                       WasteStar CC
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-404" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="404"><label for="products-404">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-404" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="404"><label for="products-404">
                       WasteStar FC
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-981" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="981"><label for="products-981">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-981" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="981"><label for="products-981">
                       台下式玻璃器皿和餐具洗涤机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-375" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="375"><label for="products-375">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-375" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="375"><label for="products-375">
                       履带传送式洗碗机。
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-387" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="387"><label for="products-387">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-387" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="387"><label for="products-387">
                       手推车和餐车清洗机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-994" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="994"><label for="products-994">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-994" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="994"><label for="products-994">
                       技术数据
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-376" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="376"><label for="products-376">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-376" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="376"><label for="products-376">
                       篮框传送式洗碗机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-982" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="982"><label for="products-982">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-982" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="982"><label for="products-982">
                       罩式玻璃器皿和餐具洗涤机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-26510" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="26510"><label for="products-26510">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-26510" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="26510"><label for="products-26510">
                       自动托盘清洗机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-367" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="367"><label for="products-367">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-367" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="367"><label for="products-367">
                       通用型洗锅机
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20716" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="20716"><label for="products-20716">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-20716" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="20716"><label for="products-20716">
                       餐具传送系统
                     </label></div>
-                    <div class="form__group"><input data-group="products" type="checkbox" id="products-403" name="tx_avMATE ELECTRCAL_reference_overview[products][]" value="403"><label for="products-403">
+                    <div class="form__group"><input data-group="products" type="checkbox" id="products-403" name="tx_avMATE ELECTRICAL_reference_overview[products][]" value="403"><label for="products-403">
                       餐厨垃圾处理设备
                     </label></div>
                   </div>
@@ -579,61 +579,61 @@
                 <div class="filter__label" data-label="请选择" data-label-choosen="选择"><span class="label__placeholder">请选择</span><span class="label__title">国家</span></div>
                 <div class="filter__content">
                   <div class="filter__optionwrapper">
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Australia" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Australia"><label for="countries-Australia">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Australia" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Australia"><label for="countries-Australia">
                       Australia
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Austria" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Austria"><label for="countries-Austria">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Austria" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Austria"><label for="countries-Austria">
                       Austria
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Belgium" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Belgium"><label for="countries-Belgium">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Belgium" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Belgium"><label for="countries-Belgium">
                       Belgium
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Chile" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Chile"><label for="countries-Chile">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Chile" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Chile"><label for="countries-Chile">
                       Chile
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-China" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="China"><label for="countries-China">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-China" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="China"><label for="countries-China">
                       China
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Finland" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Finland"><label for="countries-Finland">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Finland" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Finland"><label for="countries-Finland">
                       Finland
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-France" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="France"><label for="countries-France">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-France" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="France"><label for="countries-France">
                       France
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Germany" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Germany"><label for="countries-Germany">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Germany" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Germany"><label for="countries-Germany">
                       Germany
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-India" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="India"><label for="countries-India">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-India" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="India"><label for="countries-India">
                       India
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Israel" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Israel"><label for="countries-Israel">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Israel" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Israel"><label for="countries-Israel">
                       Israel
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Italy" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Italy"><label for="countries-Italy">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Italy" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Italy"><label for="countries-Italy">
                       Italy
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Japan" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Japan"><label for="countries-Japan">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Japan" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Japan"><label for="countries-Japan">
                       Japan
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Netherlands" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Netherlands"><label for="countries-Netherlands">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Netherlands" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Netherlands"><label for="countries-Netherlands">
                       Netherlands
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Singapore" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Singapore"><label for="countries-Singapore">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Singapore" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Singapore"><label for="countries-Singapore">
                       Singapore
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-South Korea" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="South Korea"><label for="countries-South Korea">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-South Korea" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="South Korea"><label for="countries-South Korea">
                       South Korea
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Switzerland" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="Switzerland"><label for="countries-Switzerland">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-Switzerland" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="Switzerland"><label for="countries-Switzerland">
                       Switzerland
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-United Arab Emirates" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="United Arab Emirates"><label for="countries-United Arab Emirates">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-United Arab Emirates" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="United Arab Emirates"><label for="countries-United Arab Emirates">
                       United Arab Emirates
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-United Kingdom" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="United Kingdom"><label for="countries-United Kingdom">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-United Kingdom" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="United Kingdom"><label for="countries-United Kingdom">
                       United Kingdom
                     </label></div>
-                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-United States" name="tx_avMATE ELECTRCAL_reference_overview[countries][]" value="United States"><label for="countries-United States">
+                    <div class="form__group"><input data-group="countries" type="checkbox" id="countries-United States" name="tx_avMATE ELECTRICAL_reference_overview[countries][]" value="United States"><label for="countries-United States">
                       United States
                     </label></div>
                   </div>
@@ -648,7 +648,7 @@
           jQuery(function() {
             var cUid = 33651;
             var contentSelector = '#filtercontent-' + cUid;
-            var stateSource = '/zh/case-studies/?type=5002&tx_avMATE ELECTRCAL_reference_overview%5Baction%5D=filter&tx_avMATE ELECTRCAL_reference_overview%5Bformat%5D=json';
+            var stateSource = '/zh/case-studies/?type=5002&tx_avMATE ELECTRICAL_reference_overview%5Baction%5D=filter&tx_avMATE ELECTRICAL_reference_overview%5Bformat%5D=json';
 
             jQuery('#c' + cUid).multiselect();
 
@@ -665,7 +665,7 @@
             <div data-articleloader-content="" class="menu__container menu__container--tiles" style="position: relative; height: 1716.39px;">
               <div class="col-xs-12 col-sm-6 col-md-4 masonry__gridsizer"></div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 0%; top: 0px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/hotels/hotel-elephant/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/hotels/hotel-elephant/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Hotel-Elephant-Referenz_Teaser_a0b72d2ddf.jpg" data-src="/assets/original/images/csm_Hotel-Elephant-Referenz_Teaser_a0b72d2ddf.jpg"
                       width="640" height="360" alt="Geschirrspülautomat Hotel Elephant" title="Geschirrspülautomat Elephant"></div>
                   <div class="menubox__contentwrapper">
@@ -682,7 +682,7 @@
 
                         </div>
                         <div class="menubox__content">
-                          1561 成立，300 多年的酒店业发展历程，歌德曾在此留宿：这家酒店知道源远流长的含义，所以使用 MATE ELECTRCAL 清洗餐具。
+                          1561 成立，300 多年的酒店业发展历程，歌德曾在此留宿：这家酒店知道源远流长的含义，所以使用 MATE ELECTRICAL 清洗餐具。
 
 
                         </div><span class="link menubox__fakelink">
@@ -693,7 +693,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 33.25%; top: 0px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/marine/aida-cruises/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/marine/aida-cruises/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_AIDA_Cruises_interior_84902ce42b.jpg" data-src="/assets/original/images/csm_AIDA_Cruises_interior_84902ce42b.jpg" width="640" height="360"
                       alt="Ausstattung Spülküche AIDA" title="Ausstattung AIDA"></div>
                   <div class="menubox__contentwrapper">
@@ -710,7 +710,7 @@
 
                         </div>
                         <div class="menubox__content">
-                          阿依达的船员使用 MATE ELECTRCAL 清洗技术 – 完美的清洗效果和轻松处理船上的厨余垃圾是根本原因。
+                          阿依达的船员使用 MATE ELECTRICAL 清洗技术 – 完美的清洗效果和轻松处理船上的厨余垃圾是根本原因。
 
 
                         </div><span class="link menubox__fakelink">
@@ -721,7 +721,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 66.59%; top: 0px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/hospitals/marienhospital-stuttgart/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/hospitals/marienhospital-stuttgart/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Marienhospital_stuttgart_teaser_e85a54c10d.jpg" data-src="/assets/original/images/csm_Marienhospital_stuttgart_teaser_e85a54c10d.jpg"
                       width="640" height="360" alt="Marienhospital Stuttgart" title="Marienhospital"></div>
                   <div class="menubox__contentwrapper">
@@ -738,7 +738,7 @@
 
                         </div>
                         <div class="menubox__content">
-                          TopLine – MATE ELECTRCAL 的清洗消毒设备提供了更短的路程，从而减轻了护理人员的工作量，增加了处理安全性。
+                          TopLine – MATE ELECTRICAL 的清洗消毒设备提供了更短的路程，从而减轻了护理人员的工作量，增加了处理安全性。
 
 
                         </div><span class="link menubox__fakelink">
@@ -749,7 +749,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 0%; top: 548px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/hotels/london-heathrow-marriott-hotel/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/hotels/london-heathrow-marriott-hotel/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_London-Heathrow-Marriott_teaser_5acde636a2.jpg" data-src="/assets/original/images/csm_London-Heathrow-Marriott_teaser_5acde636a2.jpg"
                       width="640" height="360" alt="M-iQ glass washing machine" title="glass washing machine"></div>
                   <div class="menubox__contentwrapper">
@@ -777,9 +777,9 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 33.25%; top: 556px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/hospitals/frimley-park-hospital/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/hospitals/frimley-park-hospital/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Firmley_Park_Teaser_1920x1280_7304da8524.jpg" data-src="/assets/original/images/csm_Firmley_Park_Teaser_1920x1280_7304da8524.jpg"
-                      width="640" height="360" alt="Firmley Park MATE ELECTRCAL" title="Firmley Park"></div>
+                      width="640" height="360" alt="Firmley Park MATE ELECTRICAL" title="Firmley Park"></div>
                   <div class="menubox__contentwrapper">
                     <div class="menubox__contentwrapper">
                       <div class="menubox__textwrapper">
@@ -794,7 +794,7 @@
 
                         </div>
                         <div class="menubox__content">
-                          更少的水耗、能耗、洗涤剂和漂洗助剂使用量。简言之：MATE ELECTRCAL 的带式输送洗碗机 M-iQ 说服了弗雷姆勒公园医院。
+                          更少的水耗、能耗、洗涤剂和漂洗助剂使用量。简言之：MATE ELECTRICAL 的带式输送洗碗机 M-iQ 说服了弗雷姆勒公园医院。
 
 
                         </div><span class="link menubox__fakelink">
@@ -805,7 +805,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 66.59%; top: 610px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/canteens/ecole-polytechnique/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/canteens/ecole-polytechnique/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Ecole_Polytechnique_France_Teaser_213ccc28d6.jpg" data-src="/assets/original/images/csm_Ecole_Polytechnique_France_Teaser_213ccc28d6.jpg"
                       width="640" height="360" alt="École Polytechnique Gelände" title="École Polytechnique"></div>
                   <div class="menubox__contentwrapper">
@@ -833,7 +833,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 0%; top: 1105px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/inflight/alpha-lsg/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/inflight/alpha-lsg/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Alpha_LSG_Catering_Teaser_70d15f528d.jpg" data-src="/assets/original/images/csm_Alpha_LSG_Catering_Teaser_70d15f528d.jpg" width="640"
                       height="360" alt="Alpha LSG Airline Catering Flughafen" title="Alpha LSG Airline"></div>
                   <div class="menubox__contentwrapper">
@@ -850,7 +850,7 @@
 
                         </div>
                         <div class="menubox__content">
-                          MATE ELECTRCAL 了解航空餐饮企业的挑战：履带式洗碗机 M-iQ 提供了高于平均宽度的传送带。
+                          MATE ELECTRICAL 了解航空餐饮企业的挑战：履带式洗碗机 M-iQ 提供了高于平均宽度的传送带。
 
 
                         </div><span class="link menubox__fakelink">
@@ -861,7 +861,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 33.25%; top: 1105px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/hotels/hilton-milan/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/hotels/hilton-milan/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Hilton_013_2428498c63.jpg" data-src="/assets/original/images/csm_Hilton_013_2428498c63.jpg" width="640" height="360" alt="Bandspülmaschine Hilton Mailand"
                       title="Hilton Mailand"></div>
                   <div class="menubox__contentwrapper">
@@ -889,7 +889,7 @@
                 </a>
               </div>
               <div class="menubox__wrapper menubox__wrapper--tiles-vertical masonry--layouted" style="position: absolute; left: 66.59%; top: 1159px;">
-                <a class="menubox" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/food-industry/black-forest/">
+                <a class="menubox" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/food-industry/black-forest/">
                   <div class="menubox__image"><img class="load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_Monkey_Teaser_e7553a357c.jpg" data-src="/assets/original/images/csm_Monkey_Teaser_e7553a357c.jpg" width="640" height="360" alt="Black Forest Distillers GmbH Brennerei"
                       title="Black Forest Distillers Gin"></div>
                   <div class="menubox__contentwrapper">
@@ -906,7 +906,7 @@
 
                         </div>
                         <div class="menubox__content">
-                          独特的设计满足独特的清洁效果：这家酒厂高度赞赏了 MATE ELECTRCAL 的台下式洗碗机 M-iClean。
+                          独特的设计满足独特的清洁效果：这家酒厂高度赞赏了 MATE ELECTRICAL 的台下式洗碗机 M-iClean。
 
 
                         </div><span class="link menubox__fakelink">
@@ -919,7 +919,7 @@
             </div>
             <ul class="f3-widget-paginator">
               <li class="next text-center">
-                <a class="btn btn--md btn--primary waves-effect waves-darkblue" rel="next" href="https://www.MATE ELECTRCALchina.com/zh/case-studies/?tx_avMATE ELECTRCAL_reference_overview%5B%40widget_0%5D%5BcurrentPage%5D=2&amp;cHash=55686a307b62c14b66a5c10d99018ca8"><span class="waves-textwrapper">
+                <a class="btn btn--md btn--primary waves-effect waves-darkblue" rel="next" href="https://www.MATE ELECTRICALchina.com/zh/case-studies/?tx_avMATE ELECTRICAL_reference_overview%5B%40widget_0%5D%5BcurrentPage%5D=2&amp;cHash=55686a307b62c14b66a5c10d99018ca8"><span class="waves-textwrapper">
             加载更多
           </span></a>
               </li>
@@ -973,7 +973,7 @@
       <div class="newsletter__subscription__inner container">
         <div class="subscription__inner__bluebox">
           <div class="subscription__inner__bluebox__inner">
-            <form action="https://www.MATE ELECTRCALchina.com/contact/newsletter-abonnieren/">
+            <form action="https://www.MATE ELECTRICALchina.com/contact/newsletter-abonnieren/">
               <div class="row">
                 <div class="col-xs-12 col-sm-offset-1 col-sm-5 col-md-offset-1 col-md-7 col-input">
                   <div><label for="newsletter__subscription__email">订阅新闻通讯</label></div><input type="text" id="newsletter__subscription__email" name="email" placeholder="输入邮箱地址" class="hasTransition"></div>
@@ -998,7 +998,7 @@
                   PartnerNet
                 </div>
                 <div class="contact__set__value">
-                  <p><a href="http://partnernet.MATE ELECTRCAL.de" title="在新链接页打开ParterNet" target="_blank"><span class="partnernet_title">登陆</span></a></p>
+                  <p><a href="http://partnernet.MATE ELECTRICAL.de" title="在新链接页打开ParterNet" target="_blank"><span class="partnernet_title">登陆</span></a></p>
                 </div>
               </div> -->
               <div class="contact__set__mobilemaximizer__wrapper" style="display:none;">
@@ -1021,36 +1021,36 @@
                 <div class="international__links">
                   <nav>
                     <ul class="clearfix">
-                      <li><a href="https://www.MATE ELECTRCAL.com.au"><span>澳大利亚</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.at"><span>奥地利</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-bps.be"><span>比利时</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.ca"><span>加拿大</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.cz"><span>捷克共和国</span></a></li>
-                      <li><a href="http://www.MATE ELECTRCALchina.com"><span>中国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.de"><span>中国广州佛山</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.fr"><span>法国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.hu"><span>匈牙利</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.it"><span>意大利</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.in"><span>印度</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.ae"><span>中东</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.nl"><span>荷兰</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-hk.com"><span>香港</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.pl"><span>波兰</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.rs"><span>塞尔维亚</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-asia.com"><span>东南亚</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.es"><span>西班牙</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-suisse.ch"><span>瑞士</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.com.tr"><span>土耳其</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL-uk.co.uk"><span>英国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.us"><span>美国</span></a></li>
-                      <li><a href="https://www.MATE ELECTRCAL.info"><span>迈特公司</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.com.au"><span>澳大利亚</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.at"><span>奥地利</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-bps.be"><span>比利时</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.ca"><span>加拿大</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.cz"><span>捷克共和国</span></a></li>
+                      <li><a href="http://www.MATE ELECTRICALchina.com"><span>中国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.de"><span>中国广州佛山</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.fr"><span>法国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.hu"><span>匈牙利</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.it"><span>意大利</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.in"><span>印度</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.ae"><span>中东</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.nl"><span>荷兰</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-hk.com"><span>香港</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.pl"><span>波兰</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.rs"><span>塞尔维亚</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-asia.com"><span>东南亚</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.es"><span>西班牙</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-suisse.ch"><span>瑞士</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.com.tr"><span>土耳其</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL-uk.co.uk"><span>英国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.us"><span>美国</span></a></li>
+                      <li><a href="https://www.MATE ELECTRICAL.info"><span>迈特公司</span></a></li>
                     </ul>
                   </nav>
                 </div>
               </div> -->
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
                 <div class="international__languages">
-                  <!-- <div class="language-switch"><select onchange="window.location=this.value;" data-theme="languageselect" style="width:100%;"><option class="flag flag--1" value="//en.MATE ELECTRCALchina.com/en" >English</option><option class="flag flag--4" value="//www.MATE ELECTRCALchina.com" selected>汉语</option></select></div> -->
+                  <!-- <div class="language-switch"><select onchange="window.location=this.value;" data-theme="languageselect" style="width:100%;"><option class="flag flag--1" value="//en.MATE ELECTRICALchina.com/en" >English</option><option class="flag flag--4" value="//www.MATE ELECTRICALchina.com" selected>汉语</option></select></div> -->
                 </div><address class="international__address">
      佛山市迈特电器有限公司<br />
      广东省佛山市顺德区北滘珠江大道15号<br />

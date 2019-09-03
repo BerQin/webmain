@@ -7876,7 +7876,7 @@ body.mobilemenu--open {
     right: 25px;
     font-size: 9px;
     top: calc(50% + 9px);
-    font-family: "MATE ELECTRCAL";
+    font-family: "MATE ELECTRICAL";
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
@@ -8161,7 +8161,7 @@ body.mobilemenu--nopush.mobilemenu--open .content__overlay--mobilemenu.content__
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Css/owl.video.play.png') no-repeat;
+    background: url('../../../typo3conf/ext/av_MATE ELECTRICAL/Resources/Public/Css/owl.video.play.png') no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -11581,14 +11581,14 @@ body.mobilemenu--nopush.mobilemenu--open .content__overlay--mobilemenu.content__
 }
 
 .margin--md,
-.frame-type-avMATE ELECTRCAL_related_articles>header,
+.frame-type-avMATE ELECTRICAL_related_articles>header,
 .frame-space-after-medium {
     margin-bottom: 100px
 }
 
 @media screen and (max-width: 767px) {
     .margin--md,
-    .frame-type-avMATE ELECTRCAL_related_articles>header,
+    .frame-type-avMATE ELECTRICAL_related_articles>header,
     .frame-space-after-medium {
         margin-bottom: 50px
     }
@@ -11689,7 +11689,7 @@ body.mobilemenu--nopush.mobilemenu--open .content__overlay--mobilemenu.content__
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -11738,7 +11738,7 @@ body.mobilemenu--nopush.mobilemenu--open .content__overlay--mobilemenu.content__
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     opacity: 1;
@@ -12282,7 +12282,7 @@ figcaption p,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 1.3em;
@@ -12547,7 +12547,7 @@ ul {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -12742,7 +12742,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -12768,7 +12768,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -12794,7 +12794,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -12857,7 +12857,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 9px;
@@ -12881,7 +12881,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 16px;
@@ -12905,7 +12905,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 17px;
@@ -12929,7 +12929,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 12px;
@@ -12959,7 +12959,7 @@ a>.card:active .bluebox form .btn.btn--primary,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 12px;
@@ -13006,7 +13006,7 @@ a>.card:active .link--accordion.link:after,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 15px;
@@ -13040,7 +13040,7 @@ a>.card:active .link--accordion.link:after,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 12px;
@@ -13070,7 +13070,7 @@ a>.card:active .link--accordion.link:after,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 44px;
@@ -13334,7 +13334,7 @@ a>.card:active .link:after,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -13417,7 +13417,7 @@ a>.card:active .link:after,
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: rgba(255, 255, 255, 0.85);
@@ -14683,7 +14683,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -14748,7 +14748,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -15574,7 +15574,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin-right: 10px;
@@ -15610,7 +15610,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -15660,7 +15660,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin-left: 10px;
@@ -15696,7 +15696,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -15743,7 +15743,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         color: #009fe3;
@@ -15790,7 +15790,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     margin-right: 10px;
@@ -16009,7 +16009,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 15px;
@@ -16030,7 +16030,7 @@ a.teaserbox:focus .teaserbox__fakelink:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 16px;
@@ -16444,7 +16444,7 @@ select.form-control:disabled+ul+.select2+label .mandatory {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -16564,7 +16564,7 @@ select.form-control:disabled+ul+.select2+label .mandatory {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -16742,7 +16742,7 @@ select.form-control:disabled+ul+.select2+label .mandatory {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -17301,7 +17301,7 @@ main input[type="checkbox"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -17425,7 +17425,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -17579,7 +17579,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 16px;
@@ -17729,7 +17729,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #058a00;
@@ -17828,7 +17828,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #d50101;
@@ -18094,7 +18094,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -18167,7 +18167,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -18263,7 +18263,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -18293,7 +18293,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -18713,7 +18713,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -18743,7 +18743,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -18819,7 +18819,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -19058,7 +19058,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -19088,7 +19088,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -19211,7 +19211,7 @@ input[type="radio"]+label:after {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -19584,7 +19584,7 @@ header.header .header__navcontrols .navcontrols__backbutton:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     bottom: 0;
@@ -19766,7 +19766,7 @@ header.header .header__subnavigation .subnavigation__backbutton:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #aeb6b9;
@@ -19916,7 +19916,7 @@ header.header .header__subnavigation .subnavigation__wrapper .mCSB_scrollTools .
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: middle
@@ -19949,7 +19949,7 @@ header.header .header__subnavigation .subnavigation__wrapper .mCSB_scrollTools .
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: middle
@@ -20158,7 +20158,7 @@ header.header .header__subnavigation.header__subnavigation--mobile .subnavigatio
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -20231,7 +20231,7 @@ header.header .header__searchtogglewrapper .header__searchtoggle:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #626769;
@@ -20844,8 +20844,8 @@ body.disable-content-space main.main {
     pointer-events: none
 }
 
-.backendlayout-pagets__followup main>.frame:not(.frame-type-avMATE ELECTRCAL_pagehero):not(.frame-type-avMATE ELECTRCAL_hotspots):not(.frame-type-avMATE ELECTRCAL_magazine_overview),
-.backendlayout-pagets__followup main>.container>.frame:not(.frame-type-avMATE ELECTRCAL_pagehero):not(.frame-type-avMATE ELECTRCAL_hotspots):not(.frame-type-avMATE ELECTRCAL_magazine_overview) {
+.backendlayout-pagets__followup main>.frame:not(.frame-type-avMATE ELECTRICAL_pagehero):not(.frame-type-avMATE ELECTRICAL_hotspots):not(.frame-type-avMATE ELECTRICAL_magazine_overview),
+.backendlayout-pagets__followup main>.container>.frame:not(.frame-type-avMATE ELECTRICAL_pagehero):not(.frame-type-avMATE ELECTRICAL_hotspots):not(.frame-type-avMATE ELECTRICAL_magazine_overview) {
     position: relative;
     z-index: 1
 }
@@ -20957,7 +20957,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -20994,7 +20994,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -21059,7 +21059,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 9px;
@@ -21087,7 +21087,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 9px;
@@ -21273,7 +21273,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -21369,7 +21369,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -21398,7 +21398,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -21657,7 +21657,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     position: absolute;
@@ -21686,7 +21686,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     position: absolute;
@@ -21725,7 +21725,7 @@ body.disable-content-space main.main {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 29px;
@@ -21943,7 +21943,7 @@ footer.footer .footer__steel .footer__steel__contact:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -22033,7 +22033,7 @@ footer.footer .footer__steel .footer__steel__contact .contact__set.contact__set-
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -22119,7 +22119,7 @@ footer.footer .footer__steel .footer__steel__international:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -22394,7 +22394,7 @@ footer.footer .footer__blue .footer__blue__socialnav ul li a.facebook:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition: .3s color ease;
@@ -22428,7 +22428,7 @@ footer.footer .footer__blue .footer__blue__socialnav ul li a.twitter:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition: .3s color ease;
@@ -22462,7 +22462,7 @@ footer.footer .footer__blue .footer__blue__socialnav ul li a.gplus:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition: .3s color ease;
@@ -22496,7 +22496,7 @@ footer.footer .footer__blue .footer__blue__socialnav ul li a.linkedin:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition: .3s color ease;
@@ -22530,7 +22530,7 @@ footer.footer .footer__blue .footer__blue__socialnav ul li a.youtube:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition: .3s color ease;
@@ -22564,7 +22564,7 @@ footer.footer .footer__blue .footer__blue__socialnav ul li a.xing:before {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     -webkit-transition: .3s color ease;
@@ -23291,7 +23291,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -23399,7 +23399,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -23418,7 +23418,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -23475,7 +23475,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
     }
@@ -23491,7 +23491,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
     }
@@ -23540,7 +23540,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -23711,7 +23711,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     display: inline-block;
@@ -23806,7 +23806,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: top
@@ -23833,7 +23833,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: top
@@ -23916,7 +23916,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -23970,7 +23970,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     }
 }
 
-.frame-type-avMATE ELECTRCAL_gallery {
+.frame-type-avMATE ELECTRICAL_gallery {
     overflow: hidden
 }
 
@@ -24228,7 +24228,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -24384,7 +24384,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 15px;
@@ -24486,7 +24486,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -24603,11 +24603,11 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     }
 }
 
-.avMATE ELECTRCAL_video .video .videolink .playbutton {
+.avMATE ELECTRICAL_video .video .videolink .playbutton {
     text-align: center
 }
 
-.avMATE ELECTRCAL_video .video .videolink .playbutton figcaption {
+.avMATE ELECTRICAL_video .video .videolink .playbutton figcaption {
     color: #fff;
     margin-top: 35px;
     font-size: 36px;
@@ -24619,40 +24619,40 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
 }
 
 @media screen and (max-width: 767px) {
-    .avMATE ELECTRCAL_video .video .videolink .playbutton figcaption {
+    .avMATE ELECTRICAL_video .video .videolink .playbutton figcaption {
         font-size: 26px;
         line-height: 30px
     }
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink .playbutton {
     top: 30%
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton:before {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink .playbutton:before {
     content: none
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton figcaption {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink .playbutton figcaption {
     color: #303030;
     margin-top: 0
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton figcaption .video-caption__headline {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink .playbutton figcaption .video-caption__headline {
     margin-bottom: 50px
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink .playbutton figcaption .video-caption__link {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink .playbutton figcaption .video-caption__link {
     margin-top: 30px
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:hover .link:before,
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:focus .link:before {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink:hover .link:before,
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink:focus .link:before {
     opacity: 1
 }
 
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:hover .link:after,
-.avMATE ELECTRCAL_video.avMATE ELECTRCAL_video--extended .video .videolink:focus .link:after {
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink:hover .link:after,
+.avMATE ELECTRICAL_video.avMATE ELECTRICAL_video--extended .video .videolink:focus .link:after {
     opacity: 0
 }
 
@@ -24786,7 +24786,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: middle
@@ -24827,7 +24827,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     vertical-align: middle
@@ -24951,7 +24951,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     }
 }
 
-.frame-type-avMATE ELECTRCAL_productgroups {
+.frame-type-avMATE ELECTRICAL_productgroups {
     overflow: hidden
 }
 
@@ -25368,7 +25368,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     max-width: 100%
 }
 
-.frame-type-avMATE ELECTRCAL_banner {
+.frame-type-avMATE ELECTRICAL_banner {
     overflow: hidden
 }
 
@@ -27263,7 +27263,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     }
 }
 
-.frame-type-avMATE ELECTRCAL_techdata {
+.frame-type-avMATE ELECTRICAL_techdata {
     position: relative
 }
 
@@ -27513,7 +27513,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -27537,7 +27537,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
 }
@@ -27606,7 +27606,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
     }
@@ -27619,7 +27619,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
     }
@@ -27701,7 +27701,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
     }
@@ -27714,7 +27714,7 @@ html.borderimage.is-safari .frame-layout-accordion+.frame-layout-accordion .acco
         speak: none;
         font-style: normal;
         font-weight: normal;
-        font-family: 'MATE ELECTRCAL';
+        font-family: 'MATE ELECTRICAL';
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
     }
@@ -28062,7 +28062,7 @@ html:not(.no-flexbox) .product__gallery .owl-carousel .owl-stage-outer .owl-stag
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #009fe3;
@@ -28505,7 +28505,7 @@ html:not(.no-flexbox) .product__gallery .owl-carousel .owl-stage-outer .owl-stag
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -28827,7 +28827,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff
@@ -28986,7 +28986,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #979797;
@@ -29004,7 +29004,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
     background-size: cover;
     background-repeat: no-repeat;
     margin: 30px auto 0 auto;
-    background-image: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Dealersearch/partner-gold.png')
+    background-image: url('../../../typo3conf/ext/av_MATE ELECTRICAL/Resources/Public/Img/Dealersearch/partner-gold.png')
 }
 
 @media screen and (max-width: 767px) {
@@ -29022,7 +29022,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
     background-size: cover;
     background-repeat: no-repeat;
     margin: 30px auto 0 auto;
-    background-image: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Dealersearch/partner-silver.png')
+    background-image: url('../../../typo3conf/ext/av_MATE ELECTRICAL/Resources/Public/Img/Dealersearch/partner-silver.png')
 }
 
 @media screen and (max-width: 767px) {
@@ -29040,7 +29040,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
     background-size: cover;
     background-repeat: no-repeat;
     margin: 30px auto 0 auto;
-    background-image: url('../../../typo3conf/ext/av_MATE ELECTRCAL/Resources/Public/Img/Dealersearch/partner-bronze.png')
+    background-image: url('../../../typo3conf/ext/av_MATE ELECTRICAL/Resources/Public/Img/Dealersearch/partner-bronze.png')
 }
 
 @media screen and (max-width: 767px) {
@@ -29138,7 +29138,7 @@ html.borderimage.is-safari .imagehotspots .accordions .accordion+.accordion {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #979797;
@@ -29552,7 +29552,7 @@ html.borderimage.is-safari hr.divider.divider--gradient {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #fff;
@@ -29625,7 +29625,7 @@ html.borderimage.is-safari hr.divider.divider--gradient {
     speak: none;
     font-style: normal;
     font-weight: normal;
-    font-family: 'MATE ELECTRCAL';
+    font-family: 'MATE ELECTRICAL';
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: transparent;
@@ -29641,11 +29641,11 @@ html.borderimage.is-safari hr.divider.divider--gradient {
     overflow: hidden
 }
 
-.frame-type-avMATE ELECTRCAL_magazine_overview .owl-carousel {
+.frame-type-avMATE ELECTRICAL_magazine_overview .owl-carousel {
     z-index: 0
 }
 
-.frame-type-avMATE ELECTRCAL_magazine_overview .owl-carousel .owl-item:after {
+.frame-type-avMATE ELECTRICAL_magazine_overview .owl-carousel .owl-item:after {
     content: "";
     position: absolute;
     left: 0;
@@ -29661,7 +29661,7 @@ html.borderimage.is-safari hr.divider.divider--gradient {
 }
 
 @media screen and (max-width: 767px) {
-    .frame-type-avMATE ELECTRCAL_magazine_overview .owl-carousel .owl-item:after {
+    .frame-type-avMATE ELECTRICAL_magazine_overview .owl-carousel .owl-item:after {
         background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMmIzZCIgc3RvcC1vcGFjaXR5PSIwLjkiLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzAwMmIzZCIgc3RvcC1vcGFjaXR5PSIwLjkiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDJiM2QiIHN0b3Atb3BhY2l0eT0iMC4wIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
         background-size: 100%;
         background-image: -webkit-gradient(linear, 50% 100%, 50% 0%, color-stop(0%, rgba(0, 43, 61, 0.9)), color-stop(50%, rgba(0, 43, 61, 0.9)), color-stop(100%, rgba(0, 43, 61, 0)));
@@ -29719,7 +29719,7 @@ html.borderimage.is-safari hr.divider.divider--gradient {
     line-height: 19px
 }
 
-.frame-type-avMATE ELECTRCAL_language_selector>header {
+.frame-type-avMATE ELECTRICAL_language_selector>header {
     display: none
 }
 
@@ -29919,33 +29919,33 @@ a>.card header [class*="headline--"] {
     .frame.frame-space-after-grid>.container>.powermail_fieldset {
         display: flex
     }
-    .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRCAL_card,
-    .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRCAL_card,
-    .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card,
-    .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRCAL_card,
-    .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card,
-    .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRCAL_card,
-    .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRCAL_card {
+    .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRICAL_card,
+    .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRICAL_card,
+    .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRICAL_card,
+    .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRICAL_card,
+    .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRICAL_card,
+    .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRICAL_card,
+    .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRICAL_card {
         height: 100%
     }
-    .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRCAL_card .card,
-    .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRCAL_card .card,
-    .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card,
-    .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRCAL_card .card,
-    .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card,
-    .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRCAL_card .card,
-    .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRCAL_card .card {
+    .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRICAL_card .card,
+    .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRICAL_card .card,
+    .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRICAL_card .card,
+    .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRICAL_card .card,
+    .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRICAL_card .card,
+    .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRICAL_card .card,
+    .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRICAL_card .card {
         height: 100%;
         display: flex;
         flex-direction: column
     }
-    .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
-    .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
-    .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
-    .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
-    .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
-    .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child,
-    .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRCAL_card .card .card__image:last-child {
+    .frame.frame-space-after-grid>.container>.row>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child,
+    .frame.frame-space-after-grid>.container>.teaserbox__container>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child,
+    .menu__container.menu__container--list .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child,
+    .frame.frame-space-after-grid>.container>.menu__container.menu__container--tiles>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child,
+    .menu__container.menu__container--list-small .frame.frame-space-after-grid>.container>.menubox>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child,
+    .menu__container.menu__container--productreferences .frame.frame-space-after-grid>.container>.productreference>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child,
+    .frame.frame-space-after-grid>.container>.powermail_fieldset>*>.frame-type-avMATE ELECTRICAL_card .card .card__image:last-child {
         position: absolute;
         bottom: 0;
         left: 30px;
