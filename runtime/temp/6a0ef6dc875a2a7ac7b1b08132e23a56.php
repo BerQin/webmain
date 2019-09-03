@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567478176;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567497514;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567500220;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567497514;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -596,7 +596,6 @@
         .cp--js-right .cp--js-right-item{
           float: left;
           width: 50%;
-          height: 50%;
         }
         .cp--js-text{
           position: absolute;
