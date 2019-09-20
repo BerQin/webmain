@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\webmain\public/../application/index\view\aboutus\index.html";i:1567478169;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567497514;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\webmain\public/../application/index\view\aboutus\index.html";i:1568964286;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1568962255;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -195,6 +195,9 @@
             <li data-uid="11676"><a href="/detail/peitao"><span>餐具传送系统</span></a>
               <span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
+          
+        
+        <li data-uid="11637"><a href="/lease"><span>洗碗机租赁</span></a></li>
         <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
           <ul>
             <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
@@ -311,6 +314,7 @@
                 <span class="flyout__caret"></span></li>
               <li data-uid="11676"><a href="/detail/peitao"><span>餐具传送系统</span></a></li>
             </ul><span class="flyout__caret"></span></li>
+          <li data-uid="11637"><a href="/lease"><span>洗碗机租赁</span></a></li>
           <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
               <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
@@ -400,17 +404,22 @@
               <div class="row">
                 <div class="col-xs-12">
                   <div class="col-sm-offset-1 col-sm-10 banner__content rte__content this_e-text">
-                    <p>佛山市迈特电器有限公司是一家专业从事商用洗碗机研究开发、制造及销售的公司。技术力量来自中国广州佛山,团队拥有超过10年外资品牌的研发制造经验,运用国际新技术、新工艺研制系列洗碗机产品。“以客户体验为中心”是公司致力追求的经菅理念。公司以帮助客户提高厨房洗涤效率,节约能源,降低综合运营成本为已任。</p>
+                    <p>佛山市迈特电器有限公司是一家专业从事商用洗碗机研究开发、制造及销售的公司。技术力量来自德国,团队拥有超过10年外资品牌的研发制造经验,运用国际新技术、新工艺研制系列洗碗机产品。“以客户体验为中心”是公司致力追求的经菅理念。公司以帮助客户提高厨房洗涤效率,节约能源,降低综合运营成本为已任。</p>
+                    <h1>迈特代表着什么？</h1>
                     <h2>优质、可靠</h2>
                     <p>迈特在商用餐具洗涤领域，这个名称代表着最高质量水平。代表着一流的清洁和卫生。代表着整个洗涤过程中最大程度的可靠性。这是我们为产品设立的标准。是我们对客户的承诺。</p>
                     <h2>按需定制的整体解决方案</h2>
                     <p>迈特拥有一套由所有洗涤过程中的重要部分组成的整体系统。从此出发，我们为每一位客户研发量身定制的解决方案：完美符合具体情况以及客户的要求和偏好。高效、安全、经济，为未来做好准备。</p>
                     <h2>持续以客户为中心</h2>
-                    <p>作为餐具洗涤专家，我们了解客户的要求和偏好。我们了解他们所期望的不仅仅是出色的洗涤效果。还包括操作简单、低运营成本、容易清洁、长使用寿命。所有这些温特豪德产品都能提供。</p>
+                    <p>作为餐具洗涤专家，我们了解客户的要求和偏好。我们了解他们所期望的不仅仅是出色的洗涤效果。还包括操作简单、低运营成本、容易清洁、长使用寿命。所有这些迈特产品都能提供。</p>
                     <h2>敬业、可靠</h2>
-                    <p>优质的咨询。追求完美的解决方案。一流服务。温特豪德全力为客户提供一个专业合作伙伴的支持。我们观察、倾听，我们提出建议，并解决问题。当客户需要我们时，我们随时提供支持。温特豪德在任何情况下都值得信赖。</p>
+                    <p>优质的咨询。追求完美的解决方案。一流服务。迈特全力为客户提供一个专业合作伙伴的支持。我们观察、倾听，我们提出建议，并解决问题。当客户需要我们时，我们随时提供支持。迈特在任何情况下都值得信赖。</p>
                     <h2>创新力量</h2>
-                    <p>温特豪德并不满足于现有的殊荣。我们渴望探索新的领域，推动市场向前发展。我们在研发方面投资，为客户寻找更好的解决方案：创新产品、新业务模式、数字领域。我们积极主动地参与塑造商用餐具洗涤的未来。</p>
+                    <p>迈特并不满足于现有的殊荣。我们渴望探索新的领域，推动市场向前发展。我们在研发方面投资，为客户寻找更好的解决方案：创新产品、新业务模式、数字领域。我们积极主动地参与塑造商用餐具洗涤的未来。</p>
+                    <h2>合作伙伴</h2>
+                    <p>
+                      <img width="100%" src="/assets/image/images/hezuo.png" alt="迈特合作伙伴">
+                    </p>
                   </div><img class="banner__image load__on__scroll load__on__scroll--loaded" src="/assets/original/images/globe-top.png" data-src="/assets/original/images/globe-top.png" width="729" height="365" alt="Weltkugel oben" title="Weltkugel oben"></div>
               </div>
             </div>
