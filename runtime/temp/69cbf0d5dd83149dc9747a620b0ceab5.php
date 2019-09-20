@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\webmain\public/../application/index\view\aboutus\index.html";i:1567478169;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1567497514;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\lease\index.html";i:1568963206;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1568962255;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -195,6 +195,9 @@
             <li data-uid="11676"><a href="/detail/peitao"><span>餐具传送系统</span></a>
               <span class="flyout__caret"></span></li>
           </ul><span class="flyout__caret"></span></li>
+          
+        
+        <li data-uid="11637"><a href="/lease"><span>洗碗机租赁</span></a></li>
         <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
           <ul>
             <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
@@ -311,6 +314,7 @@
                 <span class="flyout__caret"></span></li>
               <li data-uid="11676"><a href="/detail/peitao"><span>餐具传送系统</span></a></li>
             </ul><span class="flyout__caret"></span></li>
+          <li data-uid="11637"><a href="/lease"><span>洗碗机租赁</span></a></li>
           <li data-uid="11630"><a href="/sales/mate-sales-partners"><span>销售与服务</span></a>
             <ul class="flyout flyout--fade ">
               <li data-uid="12710"><a href="/sales/mate-sales-partners"><span>MATE ELECTRICAL销售合作伙伴</span></a></li>
@@ -363,339 +367,33 @@
 
     <!-- 主体 -->
     
+<!-- main -->
+<main class="main">
   <style>
-    .this_e-text h2{
-      margin-top: 65px;
+    .imag-content img{
+      width: auto;
+      display: inline-block;
+      max-width: 100%;
     }
+    .imag-content-box{
+      max-width: 860px;
+      margin: 0 auto;
+    }
+  
   </style>
-  <!-- main -->
-  <main class="main">
-    <!--TYPO3SEARCH_begin-->
-    <div class="container"></div>
-    <div id="c116536" class="frame frame-default frame-type-avMATE ELECTRICAL_pagehero frame-layout-0  ">
-      <div class="hero__wrapper">
-        <div class="">
-          <div class="hero hero--contentposition-image">
-            <div class="hero__contentwrapper">
-              <div class="hero__headline-wrapper  contentmask__paddingcontainer">
-                <div class="hero__headline">
-                  <h1 class="text-center headline--xl">
-                    迈特代表着什么？
-                  </h1>
-                </div>
-                <div class="hero__overimage"></div>
-              </div><img class="hero__image img-responsive" src="/assets/original/images/csm_M_Kreativitaet_5_8b3e75d92b.jpg" width="1920" height="450" alt=""></div>
-          </div>
-        </div>
-      </div>
-      <script>
-        jQuery('body').addClass('backendlayout-pagets__followup--hero');
-      </script>
+  <!--TYPO3SEARCH_begin-->
+  <div class="imag-content">
+    <img src="/assets/image/images/lease_01.jpg" alt="迈特 洗碗机租赁">
+    <div class="imag-content-box">
+      <img src="/assets/image/images/lease_03.jpg" alt="迈特 洗碗机租赁">
+      <img src="/assets/image/images/lease_05.jpg" alt="迈特 洗碗机租赁">
+      <img src="/assets/image/images/lease_06.jpg" alt="迈特 洗碗机租赁">
+      <img src="/assets/image/images/lease_07.jpg" alt="迈特 洗碗机租赁">
+      <img style="margin-bottom: 50px" src="/assets/image/images/lease_08.jpg" alt="迈特 洗碗机租赁">
     </div>
-    <div id="c116546" class="frame frame-default frame-type-avMATE ELECTRICAL_banner frame-layout-0  ">
-      <div class="text-center banner banner--mode-imagebottom">
-        <div class="banner__bggradient">
-          <div class="banner__bgimage load__on__scroll load__on__scroll--loaded" data-background-image="">
-            <div class="banner__content__wrapper container contentmask__paddingcontainer">
-              <div class="row">
-                <div class="col-xs-12">
-                  <div class="col-sm-offset-1 col-sm-10 banner__content rte__content this_e-text">
-                    <p>佛山市迈特电器有限公司是一家专业从事商用洗碗机研究开发、制造及销售的公司。技术力量来自中国广州佛山,团队拥有超过10年外资品牌的研发制造经验,运用国际新技术、新工艺研制系列洗碗机产品。“以客户体验为中心”是公司致力追求的经菅理念。公司以帮助客户提高厨房洗涤效率,节约能源,降低综合运营成本为已任。</p>
-                    <h2>优质、可靠</h2>
-                    <p>迈特在商用餐具洗涤领域，这个名称代表着最高质量水平。代表着一流的清洁和卫生。代表着整个洗涤过程中最大程度的可靠性。这是我们为产品设立的标准。是我们对客户的承诺。</p>
-                    <h2>按需定制的整体解决方案</h2>
-                    <p>迈特拥有一套由所有洗涤过程中的重要部分组成的整体系统。从此出发，我们为每一位客户研发量身定制的解决方案：完美符合具体情况以及客户的要求和偏好。高效、安全、经济，为未来做好准备。</p>
-                    <h2>持续以客户为中心</h2>
-                    <p>作为餐具洗涤专家，我们了解客户的要求和偏好。我们了解他们所期望的不仅仅是出色的洗涤效果。还包括操作简单、低运营成本、容易清洁、长使用寿命。所有这些温特豪德产品都能提供。</p>
-                    <h2>敬业、可靠</h2>
-                    <p>优质的咨询。追求完美的解决方案。一流服务。温特豪德全力为客户提供一个专业合作伙伴的支持。我们观察、倾听，我们提出建议，并解决问题。当客户需要我们时，我们随时提供支持。温特豪德在任何情况下都值得信赖。</p>
-                    <h2>创新力量</h2>
-                    <p>温特豪德并不满足于现有的殊荣。我们渴望探索新的领域，推动市场向前发展。我们在研发方面投资，为客户寻找更好的解决方案：创新产品、新业务模式、数字领域。我们积极主动地参与塑造商用餐具洗涤的未来。</p>
-                  </div><img class="banner__image load__on__scroll load__on__scroll--loaded" src="/assets/original/images/globe-top.png" data-src="/assets/original/images/globe-top.png" width="729" height="365" alt="Weltkugel oben" title="Weltkugel oben"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- <div id="c116554" class="frame frame-default frame-type-avMATE ELECTRICAL_video frame-layout-0  ">
-      <div class="avMATE ELECTRICAL_video">
-        <figure class="video">
-          <div class="video-embed"><a data-controls="1" data-video-type="mp4" href="https://www.MATE ELECTRICALchina.com/fileadmin/Videos/China/MATE ELECTRICAL_Global_video_Chinese.mp4" id="video5cff48314a604" data-play-link="" class="videolink videolink--inline"><span class="playbutton"></span><img src="/assets/original/images/csm_unternehmensfilm_316c9814e0.jpg" alt=""></a>
-            <script>
-              jQuery(function() {
-                jQuery("#video5cff48314a604").onlineMedia();
-              })
-            </script>
-          </div>
-        </figure>
-      </div>
-    </div>
-    <div id="c116561" class="frame frame-default frame-type-avMATE ELECTRICAL_banner frame-layout-0 frame-space-after-medium  ">
-      <div class="text-center banner banner--mode-imagetop">
-        <div class="banner__bggradient">
-          <div class="banner__bgimage load__on__scroll load__on__scroll--loaded" data-background-image="">
-            <div class="banner__content__wrapper container contentmask__paddingcontainer">
-              <div class="row">
-                <div class="col-xs-12"><img class="banner__image load__on__scroll load__on__scroll--loaded" src="/assets/original/images/csm_globe_bottom_9e9dd8a6b1.png" data-src="/assets/original/images/csm_globe_bottom_9e9dd8a6b1.png" width="729" height="359" alt="Weltkugel unten"
-                    title="Weltkugel unten">
-                  <div class="banner__content rte__content">
-                    <p>&nbsp;</p>
-                    <p>&nbsp;</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
-    <!-- <div class="container">
-      <div id="c116569" class="frame frame-default frame-type-menu_subpages frame-layout-0 frame-space-after-medium  ">
-        <div class="menu__container menu__container--list menu__container--list-tiles">
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-clean-solutions-india-private-limited/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Clean Solutions (India) Private Limited
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-suisse-ag/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL (Suisse) AG
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-australia-pacific-pty-ltd/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL AUSTRALIA PACIFIC Pty. Ltd.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-austria-gmbh/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL AUSTRIA GmbH
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-france-sas/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL FRANCE S.A.S
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-italia-srl/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL ITALIA S.R.L.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-clean-solutions-iberica-slu/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL CLEAN SOLUTIONS IBÉRICA, S.L.U.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-middle-east-fze/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Middle East FZE
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-nederland-bv/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL NEDERLAND B.V.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-clean-solutions-hong-kong-limited/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Clean Solutions Hong Kong Limited
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-clean-solutions-sea-sdn-bhd/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Clean Solutions (SEA) Sdn. Bhd.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-uk-ltd/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL UK Ltd.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-clean-solutions-canada-inc/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Clean Solutions CANADA Inc.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-usa-inc/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL USA, Inc.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-wash-up-technologies-ltd/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    迈特清洗科技（中山）有限公司
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-turkey/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Clean Solutions Turkey Temizlik Çözümleri Tic. Ltd. Şti.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-          <div class="menubox__wrapper">
-            <a class="menubox menubox--noimage menubox--with-indicator menubox--no-content" href="https://www.MATE ELECTRICALchina.com/zh/our-company/the-MATE ELECTRICAL-group/the-MATE ELECTRICAL-group/MATE ELECTRICAL-clean-solutions-polska-sp-z-oo/">
-              <div class="menubox__contentwrapper">
-                <div class="menubox__textwrapper">
-                  <div class="menubox__headline headline--h4">
-
-                    MATE ELECTRICAL Clean Solutions Polska Sp. z o.o.
-
-                  </div><span class="link menubox__fakelink">
-        显示详细资料
-      </span></div>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div> -->
-    <!--TYPO3SEARCH_end-->
-  </main>
+  </div>
+  <!--TYPO3SEARCH_end-->
+</main>
 
     <!-- /主体 -->
 

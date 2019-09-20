@@ -110,7 +110,7 @@
         <div class="stickybox__title stickybox--service__title headline--h3">服务</div>
         <div class="stickybox__content">
           <ul class="stickybox--service__links">
-            <li class="hotline"><a href="tel:(+86) 185 6555 3223"><span>(+86) 185 6555 3223</span></a></li>
+            <li class="hotline"><a href="tel:(+86) 188 2040 0023"><span>(+86) 188 2040 0023</span></a></li>
             <li class="email"><a href="mailto:a2987787787@163.com"><span>a2987787787@163.com</span></a></li>
           </ul>
           <div class="
@@ -1770,7 +1770,7 @@
             <div class="contact__set__wrapper clearfix">
               <div class="contact__set ">
                 <div class="contact__set__label">电话</div>
-                <div class="contact__set__value"><a href="tel:4008842233">185 6555 3223</a></div>
+                <div class="contact__set__value"><a href="tel:4008842233">188 2040 0023</a></div>
               </div>
               <!-- <div class="contact__set contact__set--partnernet contact__set--minimized-on-mobile">
                 <div class="contact__set__label">
@@ -1833,7 +1833,7 @@
                 </div><address class="international__address">
      佛山市迈特电器有限公司<br />
      广东省佛山市顺德区北滘珠江大道15号<br />
-    电话：（+86）185 6555 3223<br />
+    电话：（+86）188 2040 0023<br />
     邮箱：a2987787787@163.com
                 </address></div>
             </div>

@@ -123,7 +123,7 @@
         <div class="stickybox__title stickybox--service__title headline--h3">服务</div>
         <div class="stickybox__content">
           <ul class="stickybox--service__links">
-            <li class="hotline"><a href="tel:(+86) 185 6555 3223"><span>(+86) 185 6555 3223</span></a></li>
+            <li class="hotline"><a href="tel:(+86) 188 2040 0023"><span>(+86) 188 2040 0023</span></a></li>
             <li class="email"><a href="mailto:a2987787787@163.com"><span>a2987787787@163.com</span></a></li>
           </ul>
           <div class="
@@ -371,11 +371,11 @@
             <div class="ce-textpic  ce-center ce-above clearfix">
               <div class="ce-bodytext">
                 <div class="rte__content">
-                  <p>´MATE ELECTRICAL服务团队汇集着各方面人才和经验丰富的工程师，能提供符合您的设备故障解决方案。请把您的咨询和需求，使用此处的联系方式联系我们。<br> 欢迎拨打迈特服务热线185 6555 3223或联系当地服务人员</p>
+                  <p>´MATE ELECTRICAL服务团队汇集着各方面人才和经验丰富的工程师，能提供符合您的设备故障解决方案。请把您的咨询和需求，使用此处的联系方式联系我们。<br> 欢迎拨打迈特服务热线188 2040 0023或联系当地服务人员</p>
                   <p>迈特微信报修服务平台于2016年8月1日起正式上线，客户可通过扫菜单右边的二维码，关注“迈特MATE ELECTRICAL”微信公众号，绑定手机号，即可进行微报修，方便快捷。</p>
                   <p>&nbsp;</p>
                   
-                  <p>备件服务部<br><br>MATE ELECTRICAL-专业的备件服务热线<br><br>服务热线：185 6555 3223<br><br>周一至周五：08:30-17:30<br><br>“MATE ELECTRICAL提供优质的服务，同时也能为您提供所有需要更换的设备部件！”<br><br>MATE ELECTRICAL备件服务部是一个具有强大能动性的团队，并始终以及时、准确为客户提供需更换的配件并确保客户尽快收到部件为服务宗旨。MATE ELECTRICAL备件服务部团队每一位同事都能从每一次高效的优质服务中收获乐趣。</p>
+                  <p>备件服务部<br><br>MATE ELECTRICAL-专业的备件服务热线<br><br>服务热线：188 2040 0023<br><br>周一至周五：08:30-17:30<br><br>“MATE ELECTRICAL提供优质的服务，同时也能为您提供所有需要更换的设备部件！”<br><br>MATE ELECTRICAL备件服务部是一个具有强大能动性的团队，并始终以及时、准确为客户提供需更换的配件并确保客户尽快收到部件为服务宗旨。MATE ELECTRICAL备件服务部团队每一位同事都能从每一次高效的优质服务中收获乐趣。</p>
                 </div>
               </div>
             </div>
@@ -414,7 +414,7 @@
             <div class="contact__set__wrapper clearfix">
               <div class="contact__set ">
                 <div class="contact__set__label">电话</div>
-                <div class="contact__set__value"><a href="tel:4008842233">185 6555 3223</a></div>
+                <div class="contact__set__value"><a href="tel:4008842233">188 2040 0023</a></div>
               </div>
               <!-- <div class="contact__set contact__set--partnernet contact__set--minimized-on-mobile">
                 <div class="contact__set__label">
@@ -477,7 +477,7 @@
                 </div><address class="international__address">
      佛山市迈特电器有限公司<br />
      广东省佛山市顺德区北滘珠江大道15号<br />
-    电话：（+86）185 6555 3223<br />
+    电话：（+86）188 2040 0023<br />
     邮箱：a2987787787@163.com
                 </address></div>
             </div>

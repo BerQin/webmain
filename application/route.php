@@ -20,6 +20,7 @@ Route::get('sales/[:model]/[:data]', 'index/Sales/index');
 Route::get('our-company/[:model]', 'index/Aboutus/index');
 Route::get('contact-us', 'index/Contactus/index');
 Route::get('search', 'index/Index/search');
+Route::get('lease', 'index/Lease/index');
 // Route::get('websiteowner', 'index/Aboutus/websiteowner');
 // Route::get('disclaimer', 'index/Aboutus/disclaimer');
 // Route::get('dataprivacy', 'index/Aboutus/dataprivacy');
