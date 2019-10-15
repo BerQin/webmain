@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1567500220;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1568962255;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571141494;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1568962255;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -607,6 +607,15 @@
           left: 10px;
           margin: 0;
           color: #fff;
+        }
+        @media (max-width:991px) {
+          .cp--js-box{
+            display: block;
+          }
+          .cp--js-right .cp--js-right-item{
+            float: none;
+            width: 100%;
+          }
         }
       </style>
     </div>
