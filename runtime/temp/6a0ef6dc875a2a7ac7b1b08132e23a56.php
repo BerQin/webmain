@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571141494;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1568962255;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571141523;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1571649296;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -791,6 +791,28 @@
             </div>
           </div>
         </div>
+      </div>
+      <style>
+        .ICP{
+          height: 50px;
+          max-width: 1200px;
+          margin: 0 auto;
+          padding: 15px;
+          color: #fff;
+          text-align: center;
+        }
+        .ICP a {
+          color: #fff;
+
+        }
+        .ICP p{
+          font-size: 14px;
+        }
+      </style>
+      <div style="background: #009fe3;">
+        <div class="ICP">
+            <p>Copyright &copy; 佛山市迈特电器有限公司 <a target="_blank" href="http://www.beian.miit.gov.cn">粤ICP备18118623号</a></p>
+          </div>
       </div>
     </footer>
   </div>
