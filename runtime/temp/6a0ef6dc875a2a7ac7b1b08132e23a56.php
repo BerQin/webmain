@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571141523;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1571649296;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571650324;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1571649352;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -20,6 +20,21 @@
 
   .cl {
     zoom: 1;
+  }
+  .ICP{
+    height: 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    color: #fff;
+    text-align: center;
+  }
+  .ICP a {
+    color: #fff;
+
+  }
+  .ICP p{
+    font-size: 14px;
   }
   </style>
   <link rel="stylesheet" type="text/css" href="/assets/font/iconfont.css" media="all"> 
@@ -377,13 +392,11 @@
         <div class="fullscreenslider__overflowshadow fullscreenslider__overflowshadow--right"></div>
         <div class="fullscreenslider__backgrounds owl-carousel">
           <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/images/Seg-Hotels00003.jpg" width="1920" height="1080" alt="Hotels" title=" 揭盖式洗碗机" /></div>
+              data-src="/assets/original/banner/20191021172732.jpg" width="1920" height="1080" alt="Hotels" title=" 揭盖式洗碗机" /></div>
           <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/images/Seg-Gastro00012.jpg" width="1920" height="1080" alt="" title="长龙式洗碗机" /></div>
+              data-src="/assets/original/banner/20191021172858.jpg" width="1920" height="1080" alt="" title="长龙式洗碗机" /></div>
           <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/images/Spiegel-Verlag2_1920x1280.jpg" width="1920" height="1080" alt="Gemeinschaftsverpflegung" title="烘干机" /></div>
-          <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/images/Seg-Baecker00001.JPG" width="1920" height="1080" alt="Bäckerbetriebe" title="篮筐式洗碗机" /></div>
+              data-src="/assets/original/banner/20191021172903.jpg" width="1920" height="1080" alt="Gemeinschaftsverpflegung" title="通道式洗碗机" /></div>
         </div>
         <div class="fullscreenslider__contentwrapper">
           <!-- <div class="fullscreenslider__headline headline--xl"><span>专业的餐具清洗消毒解决方案</span></div> -->
@@ -391,8 +404,7 @@
             <div class="fullscreenslider__texts owl-carousel">
               <div class="text__wrapper"><a href="javascript:;" class="btn btn--primary"> 揭盖式洗碗机</a></div>
               <div class="text__wrapper"><a href="javascript:;" class="btn btn--primary">长龙式洗碗机</a></div>
-              <div class="text__wrapper"><a href="javascript:;" class="btn btn--primary">烘干机</a></div>
-              <div class="text__wrapper"><a href="javascript:;" class="btn btn--primary">篮筐式洗碗机</a></div>
+              <div class="text__wrapper"><a href="javascript:;" class="btn btn--primary">通道式洗碗机</a></div>
             </div>
             <div class="fullscreenslider__controls">
               <div class="control control--prev"></div>
@@ -608,6 +620,13 @@
           margin: 0;
           color: #fff;
         }
+        .image-box-index{
+          margin-top: 50px;
+        }
+        .image-box-index img {
+          display: block;
+          width: 100%;
+        }
         @media (max-width:991px) {
           .cp--js-box{
             display: block;
@@ -619,6 +638,14 @@
         }
       </style>
     </div>
+  </div>
+  <div class="container">
+      <div id="c43808" class="frame frame-default frame-type-avMATE ELECTRICAL_content_tabs frame-layout-0 frame-space-after-medium  ">
+        <div class="image-box-index">
+            <img src="/assets/image/images/hez.jpg" alt="">
+            <img src="/assets/image/images/jieshao.jpg" alt="">
+        </div>
+      </div>
   </div>
   <div class="container">
     <div id="c43816" class="frame frame-default frame-type-avMATE ELECTRICAL_teaser frame-layout-0  ">
@@ -792,23 +819,6 @@
           </div>
         </div>
       </div>
-      <style>
-        .ICP{
-          height: 50px;
-          max-width: 1200px;
-          margin: 0 auto;
-          padding: 15px;
-          color: #fff;
-          text-align: center;
-        }
-        .ICP a {
-          color: #fff;
-
-        }
-        .ICP p{
-          font-size: 14px;
-        }
-      </style>
       <div style="background: #009fe3;">
         <div class="ICP">
             <p>Copyright &copy; 佛山市迈特电器有限公司 <a target="_blank" href="http://www.beian.miit.gov.cn">粤ICP备18118623号</a></p>
