@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571714740;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1571651237;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\webmain\public/../application/index\view\index\index.html";i:1571715161;s:63:"D:\wamp64\www\webmain\application\index\view\public\common.html";i:1571651237;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -533,7 +533,7 @@
   <div class="container">
     <div id="c43808" class="frame frame-default frame-type-avMATE ELECTRICAL_content_tabs frame-layout-0 frame-space-after-medium  ">
       <div class="headline--h2">
-        公司简介
+        <span style="color: #47acdc;">公司</span> 简介
       </div>
       <p style="margin-top: 20px;">
         佛山市迈特电器有限公司是一家专业从事商用洗碗机研究开发、制造及销售的公司。团队拥有研发制造经验,运用国际新技术、新工艺研制系列洗碗机产品。“以客户体验为中心”是公司致力追求的经菅理念。公司以帮助客户提高厨房洗涤效率,节约能源,降低综合运营成本为已任。
@@ -543,7 +543,7 @@
   <div class="container">
     <div id="c43809" class="frame frame-default frame-type-avMATE ELECTRICAL_productfinder frame-layout-0 frame-space-after-small  ">
       <div class="headline--h2">
-        产品介绍
+        产品<span style="color: #47acdc;">介绍</span>
       </div>
       <div class="cp--js-box cl" style="margin-top: 30px;">
         <div class="cp--js-left">
@@ -654,6 +654,11 @@
           margin-right: 15px;
           width: 45%;
         }
+        .headline--h2{
+          text-align: center;
+          padding: 30px 0 60px;
+          color: #e37329;
+        }
         @media (max-width:991px) {
           .jieshao-box .item{
             float: none;
@@ -698,12 +703,12 @@
   <div class="container">
       <div id="c43808" class="frame frame-default frame-type-avMATE ELECTRICAL_content_tabs frame-layout-0 frame-space-after-medium  ">
         <div class="image-box-index">
-            <div class="" style="font-size: 26px; text-align: center; margin-bottom: 30px;" >
+            <div class="headline--h2" style="font-size: 26px; text-align: center; margin-bottom: 30px;" >
               <p style="color: #e37329;"><span style="color: #47acdc;">迈特</span> - 合作客户</p>
             </div>
             <img src="/assets/image/images/hez.jpg" alt="">
-            <div style="text-align: center; font-weight: bold; margin: 120px 0 60px; line-height: 40px;">
-              <p style=" font-size: 26px; color: #da6e04;">看看使用者怎么评价迈特<span style="color: #ff0000;">-客户见证</span></p>
+            <div class="headline--h2" style="text-align: center; margin: 120px 0 60px; line-height: 40px;">
+              <p style=" color: #e37329;">看看使用者怎么评价迈特<span style="color: #47acdc;">-客户见证</span></p>
             </div>
             <div class="jieshao-box cl">
               <div class="item">
