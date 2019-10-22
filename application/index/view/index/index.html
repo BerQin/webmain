@@ -216,6 +216,7 @@
         .cp--js-box img{
           max-width: 100%;
           max-height: 100%;
+          width: 100%;
         }
         .cp--js-left{
           flex: 1;
@@ -244,13 +245,69 @@
           display: block;
           width: 100%;
         }
+        .jieshao-box{
+
+        }
+        .jieshao-box .item{
+          float: left;
+          padding: 15px;
+          width: 50%;
+          box-sizing: border-box;
+          height: 400px;
+        }
+        .jieshao-box .item .box{
+          display: flex;
+        }
+        .jieshao-box .item .box .text{
+          flex: 1;
+          font-size: 22px;
+        }
+        .jieshao-box .item .box .text h2 {
+          line-height: 100%;
+          margin-bottom: 10px;
+          font-size: 22px;
+        }
+        .jieshao-box .item .box .img{
+          max-width: 386px;
+          margin-right: 15px;
+          width: 45%;
+        }
         @media (max-width:991px) {
+          .jieshao-box .item{
+            float: none;
+            width: 100%;
+          }
           .cp--js-box{
             display: block;
           }
           .cp--js-right .cp--js-right-item{
+            margin: 30px 0;
             float: none;
             width: 100%;
+          }
+          .teaserbox{
+            height: auto;
+          }
+          .teaserbox.teaserbox--squareimage .teaserbox__image img {
+            width: 50%;
+          }
+          .fullscreenslider__wrapper .fullscreenslider__contentwrapper .fullscreenslider__textswrapper .fullscreenslider__texts .owl-item .text__wrapper a{
+            font-size: 14px;
+          }
+          .btn{
+            padding: 5px 15px;
+          }
+        }
+        @media (max-width:541px) {
+          .jieshao-box .item{
+            height: auto;
+          }
+          .jieshao-box .item .box{
+            display: block;
+          }
+          .jieshao-box .item .box .img{
+            width: 100%;
+            margin-bottom: 15px;
           }
         }
       </style>
@@ -259,8 +316,63 @@
   <div class="container">
       <div id="c43808" class="frame frame-default frame-type-avMATE ELECTRICAL_content_tabs frame-layout-0 frame-space-after-medium  ">
         <div class="image-box-index">
+            <div class="" style="font-size: 26px; text-align: center; margin-bottom: 30px;" >
+              <p style="color: #e37329;"><span style="color: #47acdc;">迈特</span> - 合作客户</p>
+            </div>
             <img src="/assets/image/images/hez.jpg" alt="">
-            <img src="/assets/image/images/jieshao.jpg" alt="">
+            <div style="text-align: center; font-weight: bold; margin: 120px 0 60px; line-height: 40px;">
+              <p style=" font-size: 26px; color: #da6e04;">看看使用者怎么评价迈特<span style="color: #ff0000;">-客户见证</span></p>
+            </div>
+            <div class="jieshao-box cl">
+              <div class="item">
+                <div class="box">
+                  <div class="img">
+                    <img src="/assets/image/images/images/jhieshao_10.jpg" alt="佛山迈特为客户量身定制洗碗房解决方案">
+                  </div>
+                  <div class="text">
+                    <h2 style="color: #005292; font-weight: normal;">佛山迈特为客户量身定制洗碗房解决方案</h2>
+                    <p style="color: #333;">惠州索尼精密部件有限公司：何经理</p>
+                    <p style="font-size: 18px; color: #4a4b4e;">佛山迈特拥有专业设计师，根据就餐人数、餐具类型，为客户推荐合适的洗碗机，可根据客户要求定制。免费上门测量，为客户设计洗房360度三维立体设计图......</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="box">
+                  <div class="img">
+                    <img src="/assets/image/images/images/jhieshao_07.jpg" alt="佛山迈特售后非常及时">
+                  </div>
+                  <div class="text">
+                    <h2 style="color: #005292; font-weight: normal;">佛山迈特售后非常及时</h2>
+                    <p style="color: #333;">珠海紫翔电子科技有限公司：韩经理</p>
+                    <p style="font-size: 18px; color: #4a4b4e;">佛山迈特拥有专业的售后团队，随叫随到，不错的商用洗碗机品牌，并且每月有专业人员电话回访，定期做洗碗机的维修保养。选择雅芬洗碗机，让客户无后顾.....</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="box">
+                  <div class="img">
+                    <img src="/assets/image/images/images/jhieshao_14.jpg" alt="佛山迈特商用洗碗机质量非常好">
+                  </div>
+                  <div class="text">
+                    <h2 style="color: #005292; font-weight: normal;">佛山迈特商用洗碗机质量非常好</h2>
+                    <p style="color: #333;">佛山大自然家居有限公司：杨经理</p>
+                    <p style="font-size: 18px; color: #4a4b4e;">一直在寻找合适的商用洗碗机厂家，经过朋友介绍，找到了佛山迈特电器有限公司，的确很有实力的广东商用洗碗机厂家，他们的洗碗机质量很好售后服务也很周到......</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="box">
+                  <div class="img">
+                    <img src="/assets/image/images/images/jhieshao_15.jpg" alt="佛山迈特洗碗机租赁方案很不错">
+                  </div>
+                  <div class="text">
+                    <h2 style="color: #005292; font-weight: normal;">佛山迈特洗碗机租赁方案很不错</h2>
+                    <p style="color: #333;">东莞松湖智谷：洪经理</p>
+                    <p style="font-size: 18px; color: #4a4b4e;">洗碗机租赁方案解决了客户资金周转问题，每个月只需按时支付租金即可，包清洁剂，无需另外花钱购买；包维修保养，售后服务也非常周到、及时，非常......</p>
+                  </div>
+                </div>
+              </div>
+            </div>
         </div>
       </div>
   </div>
