@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:62:"/www/webmain/public/../application/index/view/index/index.html";i:1572957844;s:54:"/www/webmain/application/index/view/public/common.html";i:1572957844;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:62:"/www/webmain/public/../application/index/view/index/index.html";i:1573008305;s:54:"/www/webmain/application/index/view/public/common.html";i:1572957844;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -391,12 +391,34 @@
         <div class="fullscreenslider__overflowshadow fullscreenslider__overflowshadow--right"></div>
         <div class="fullscreenslider__backgrounds owl-carousel">
           <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/banner/20191021172732.jpg" width="1920" height="1080" alt="Hotels" title=" 揭盖式洗碗机" /></div>
+              data-phone-src="/assets/original/banner/20191021172732_p.jpg" data-nor-src="/assets/original/banner/20191021172732.jpg" width="1920" height="1080" alt="Hotels" title=" 揭盖式洗碗机" /></div>
           <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/banner/20191021172858.jpg" width="1920" height="1080" alt="" title="长龙式洗碗机" /></div>
+              data-phone-src="/assets/original/banner/20191021172858_p.jpg" data-nor-src="/assets/original/banner/20191021172858.jpg" width="1920" height="1080" alt="" title="长龙式洗碗机" /></div>
           <div class="image__wrapper"><img class="owl-lazy"
-              data-src="/assets/original/banner/20191021172903.jpg" width="1920" height="1080" alt="Gemeinschaftsverpflegung" title="通道式洗碗机" /></div>
+              data-phone-src="/assets/original/banner/20191021172903_p.jpg" data-nor-src="/assets/original/banner/20191021172903.jpg" width="1920" height="1080" alt="Gemeinschaftsverpflegung" title="通道式洗碗机" /></div>
         </div>
+        <script>
+          $(function() {
+            function setImage(win) {
+              var widith = $(win).width();
+              if (widith < 767) {
+                $('.image__wrapper img').each(function() {
+                  $(this).attr('src', $(this).attr('data-phone-src'))
+                });
+              } else {
+                $('.image__wrapper img').each(function() {
+                  $(this).attr('src', $(this).attr('data-nor-src'))
+                });
+              }
+            }
+            $(window).on('resize', function(){
+              setImage(this);
+            });
+            setTimeout(function() {
+              setImage(window);
+            }, 600);
+          })
+        </script>
         <div class="fullscreenslider__contentwrapper">
           <!-- <div class="fullscreenslider__headline headline--xl"><span>专业的餐具清洗消毒解决方案</span></div> -->
           <div class="fullscreenslider__textswrapper">
@@ -627,9 +649,6 @@
           display: block;
           width: 100%;
         }
-        .jieshao-box{
-
-        }
         .jieshao-box .item{
           float: left;
           padding: 15px;
@@ -683,6 +702,11 @@
           }
           .btn{
             padding: 5px 15px;
+          }
+        }
+        @media (max-width:767px) {
+          .fullscreenslider__wrapper{
+            padding-top: 66.85714%;
           }
         }
         @media (max-width:541px) {
