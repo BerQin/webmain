@@ -21,11 +21,15 @@
               var widith = $(win).width();
               if (widith < 767) {
                 $('.image__wrapper img').each(function() {
-                  $(this).attr('src', $(this).attr('data-phone-src'))
+                  if ($(this).attr('src') != $(this).attr('data-phone-src')) {
+                    $(this).attr('src', $(this).attr('data-phone-src'))
+                  }
                 });
               } else {
                 $('.image__wrapper img').each(function() {
-                  $(this).attr('src', $(this).attr('data-nor-src'))
+                  if ($(this).attr('src') != $(this).attr('data-nor-src')) {
+                    $(this).attr('src', $(this).attr('data-nor-src'))
+                  }
                 });
               }
             }

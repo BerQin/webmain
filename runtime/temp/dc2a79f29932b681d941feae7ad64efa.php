@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:62:"/www/webmain/public/../application/index/view/index/index.html";i:1573008305;s:54:"/www/webmain/application/index/view/public/common.html";i:1572957844;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:62:"/www/webmain/public/../application/index/view/index/index.html";i:1573008769;s:54:"/www/webmain/application/index/view/public/common.html";i:1572957844;}*/ ?>
 <html lang="zh">
 
 <head>
@@ -403,11 +403,15 @@
               var widith = $(win).width();
               if (widith < 767) {
                 $('.image__wrapper img').each(function() {
-                  $(this).attr('src', $(this).attr('data-phone-src'))
+                  if ($(this).attr('src') != $(this).attr('data-phone-src')) {
+                    $(this).attr('src', $(this).attr('data-phone-src'))
+                  }
                 });
               } else {
                 $('.image__wrapper img').each(function() {
-                  $(this).attr('src', $(this).attr('data-nor-src'))
+                  if ($(this).attr('src') != $(this).attr('data-nor-src')) {
+                    $(this).attr('src', $(this).attr('data-nor-src'))
+                  }
                 });
               }
             }
