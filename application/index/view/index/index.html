@@ -9,11 +9,11 @@
         <div class="fullscreenslider__overflowshadow fullscreenslider__overflowshadow--right"></div>
         <div class="fullscreenslider__backgrounds owl-carousel">
           <div class="image__wrapper"><img class="owl-lazy"
-              data-phone-src="/assets/original/banner/20191021172732_p.jpg" data-nor-src="/assets/original/banner/20191021172732.jpg" width="1920" height="1080" alt="Hotels" title=" 揭盖式洗碗机" /></div>
+              data-phone-src="/assets/original/banner/20191021172732_p.jpg" data-src="/assets/original/banner/20191021172732.jpg" width="1920" height="1080" alt="Hotels" title=" 揭盖式洗碗机" /></div>
           <div class="image__wrapper"><img class="owl-lazy"
-              data-phone-src="/assets/original/banner/20191021172858_p.jpg" data-nor-src="/assets/original/banner/20191021172858.jpg" width="1920" height="1080" alt="" title="长龙式洗碗机" /></div>
+              data-phone-src="/assets/original/banner/20191021172858_p.jpg" data-src="/assets/original/banner/20191021172858.jpg" width="1920" height="1080" alt="" title="长龙式洗碗机" /></div>
           <div class="image__wrapper"><img class="owl-lazy"
-              data-phone-src="/assets/original/banner/20191021172903_p.jpg" data-nor-src="/assets/original/banner/20191021172903.jpg" width="1920" height="1080" alt="Gemeinschaftsverpflegung" title="通道式洗碗机" /></div>
+              data-phone-src="/assets/original/banner/20191021172903_p.jpg" data-src="/assets/original/banner/20191021172903.jpg" width="1920" height="1080" alt="Gemeinschaftsverpflegung" title="通道式洗碗机" /></div>
         </div>
         <script>
           $(function() {
@@ -27,8 +27,8 @@
                 });
               } else {
                 $('.image__wrapper img').each(function() {
-                  if ($(this).attr('src') != $(this).attr('data-nor-src')) {
-                    $(this).attr('src', $(this).attr('data-nor-src'))
+                  if ($(this).attr('src') != $(this).attr('data-src')) {
+                    $(this).attr('src', $(this).attr('data-src'))
                   }
                 });
               }
