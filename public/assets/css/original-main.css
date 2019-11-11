@@ -20953,7 +20953,7 @@ body.disable-content-space main.main {
 }
 
 .mobilemenu:not(.mobilemenu--disabled) .mobilemenu__breadcrumb.mobilemenu__breadcrumb--back:before {
-    content: "";
+    content: "\e650";
     speak: none;
     font-style: normal;
     font-weight: normal;
