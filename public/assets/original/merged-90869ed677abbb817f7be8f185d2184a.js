@@ -1906,7 +1906,6 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
 	 * @protected
 	 */
 	Lazy.prototype.load = function(position) {
-    debugger
 		var $item = this._core.$stage.children().eq(position),
 			$elements = $item && $item.find('.owl-lazy');
 
