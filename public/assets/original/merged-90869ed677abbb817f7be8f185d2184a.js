@@ -1906,6 +1906,7 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
 	 * @protected
 	 */
 	Lazy.prototype.load = function(position) {
+    debugger
 		var $item = this._core.$stage.children().eq(position),
 			$elements = $item && $item.find('.owl-lazy');
 
@@ -1920,6 +1921,10 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
 			this._core.trigger('load', { element: $element, url: url }, 'lazy');
 
 			if ($element.is('img')) {
+        if ($element.parent().hasClass('image__wrapper')) {
+          var wWidith = $(window).width();
+          url = wWidith < 767 ? $element.attr('data-phone-src') : $element.attr('data-src');
+        }
 				$element.one('load.owl.lazy', $.proxy(function() {
 					$element.css('opacity', 1);
 					this._core.trigger('loaded', { element: $element, url: url }, 'lazy');
