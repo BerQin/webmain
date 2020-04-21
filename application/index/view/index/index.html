@@ -23,6 +23,8 @@
                 $('.image__wrapper img').each(function() {
                   if ($(this).attr('src') != $(this).attr('data-phone-src')) {
                     $(this).attr('src', $(this).attr('data-phone-src'))
+                  image = new Image();
+                  image.src = $(this).attr('data-phone-src');
                   }
                 });
                 $('#c43804').height(270);
@@ -30,6 +32,8 @@
                 $('.image__wrapper img').each(function() {
                   if ($(this).attr('src') != $(this).attr('data-src')) {
                     $(this).attr('src', $(this).attr('data-src'))
+                  image = new Image();
+                  image.src = $(this).attr('data-src');
                   }
                 });
                 $('#c43804').height('auto');
@@ -38,7 +42,7 @@
             $(window).on('resize', function(){
               setImage(this);
             });
-            setImage(this);
+            // setImage(this);
           })
         </script>
         <div class="fullscreenslider__contentwrapper">
