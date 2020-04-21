@@ -63,15 +63,15 @@ class Product extends Controller
             'linkto' => '/detail/ludaishi-DUN-L6K68'
             ),
             array(
-            'path' => '/assets/image/chanp/ludaishi-DUN-L7K78.jpg',
-            'xnpath' => '/assets/image/chanp/ludaishi-DUN-L7K78-xn.jpg',
+            'path' => '/assets/image/chanp/ludaishi-DUN-L7K78.png',
+            'xnpath' => '/assets/image/chanp/ludaishi-DUN-L7K78-xn.png',
             'name' => '履带式洗碗机DUN-L7K78',
             'doc' => '高效的烘干机及风刀配置，保证洗涤效果,独特的环绕喷淋设计，使水幕分布更加均勻，保证洗涤效果的同时，实现20%的能耗节约,机械式按扭设计，操作简单方便,灵活的模块组合设计，可根据现场的空间尺寸来选择合适的型号,可靠的履带式传送系统配有自动过载保护裝置，碗碟、餐盘可直接放于履带上，无需分类,装筐和将筐推进洗碗机，大大降低劳动强度，同时减少了工作时间,门有双重保护，内置卷簧及门挂钩，保证操作者安全,基于人体工程学的操作高度，使操作人员轻松裝卸餐具，降低劳动强度,出入口配备启动停止/紧停开关装置，方便操作人员控制机器的运行,出口端装有限位开关，防止餐具因未及时卸载而造成破损。',
             'linkto' => '/detail/ludaishi-DUN-L7K78'
             ),
             array(
             'path' => '/assets/image/chanp/minicl-DUN-L1K20.jpg',
-            'xnpath' => '/assets/image/chanp/minicl-DUN-L1K20-xn.jpg',
+            'xnpath' => '/assets/image/chanp/minicl-DUN-L1K20-xn.png',
             'name' => '迷你长龙机',
             'doc' => '高效的烘干机及风刀配置，保证洗涤效果,独特的环绕喷淋设计，使水幕分布更加均勻，保证洗涤效果的同时，实现20%的能耗节约,机械式按扭设计，操作简单方便,灵活的模块组合设计，可根据现场的空间尺寸来选择合适的型号,可靠的履带式传送系统配有自动过载保护裝置，碗碟、餐盘可直接放于履带上，无需分类,装筐和将筐推进洗碗机，大大降低劳动强度，同时减少了工作时间,门有双重保护，内置卷簧及门挂钩，保证操作者安全,基于人体工程学的操作高度，使操作人员轻松裝卸餐具，降低劳动强度,出入口配备启动停止/紧停开关装置，方便操作人员控制机器的运行,出口端装有限位开关，防止餐具因未及时卸载而造成破损。
             ',
@@ -83,10 +83,10 @@ class Product extends Controller
             'imgspath' => Array(
                 '/assets/image/chanp/peitao-1.jpg',
                 '/assets/image/chanp/peitao-2.jpg',
-                '/assets/image/chanp/peitao-3.jpg',
-                '/assets/image/chanp/peitao-4.jpg',
-                '/assets/image/chanp/peitao-5.jpg',
-                '/assets/image/chanp/peitao-6.jpg',
+                '/assets/image/chanp/peitao-3.png',
+                '/assets/image/chanp/peitao-4.png',
+                '/assets/image/chanp/peitao-5.png',
+                '/assets/image/chanp/peitao-6.png',
                 '/assets/image/chanp/peitao-7.jpg'
             ),
             'name' => '餐具传送系统',
@@ -200,8 +200,8 @@ class Product extends Controller
         'linkto' => '/detail/ludaishi-DUN-L6K68'
         ),
         'ludaishi-DUN-L7K78' => array(
-        'path' => '/assets/image/chanp/ludaishi-DUN-L7K78.jpg',
-        'xnpath' => '/assets/image/chanp/ludaishi-DUN-L7K78-xn.jpg',
+        'path' => '/assets/image/chanp/ludaishi-DUN-L7K78.png',
+        'xnpath' => '/assets/image/chanp/ludaishi-DUN-L7K78-xn.png',
         'name' => '履带式洗碗机DUN-L7K78',
         'doc' => '· 高效的烘干机及风刀配置，保证洗涤效果<br>
         · 独特的环绕喷淋设计，使水幕分布更加均勻，保证洗涤效果的同时，实现20%的能耗节约<br>
@@ -217,7 +217,7 @@ class Product extends Controller
         ),
         'minicl-DUN-L1K20' => array(
         'path' => '/assets/image/chanp/minicl-DUN-L1K20.jpg',
-        'xnpath' => '/assets/image/chanp/minicl-DUN-L1K20-xn.jpg',
+        'xnpath' => '/assets/image/chanp/minicl-DUN-L1K20-xn.png',
         'name' => '迷你长龙机',
         'doc' => '· 高效的烘干机及风刀配置，保证洗涤效果<br>
         · 独特的环绕喷淋设计，使水幕分布更加均勻，保证洗涤效果的同时，实现20%的能耗节约<br>
@@ -238,10 +238,10 @@ class Product extends Controller
         'imgspath' => Array(
             '/assets/image/chanp/peitao-1.jpg',
             '/assets/image/chanp/peitao-2.jpg',
-            '/assets/image/chanp/peitao-3.jpg',
-            '/assets/image/chanp/peitao-4.jpg',
-            '/assets/image/chanp/peitao-5.jpg',
-            '/assets/image/chanp/peitao-6.jpg',
+            '/assets/image/chanp/peitao-3.png',
+            '/assets/image/chanp/peitao-4.png',
+            '/assets/image/chanp/peitao-5.png',
+            '/assets/image/chanp/peitao-6.png',
             '/assets/image/chanp/peitao-7.jpg'
         ),
         'name' => '餐具传送系统',
