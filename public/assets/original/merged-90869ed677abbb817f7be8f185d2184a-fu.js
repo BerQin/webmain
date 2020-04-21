@@ -1922,7 +1922,7 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
 			if ($element.is('img')) {
         if ($element.parent().hasClass('image__wrapper')) {
           var wWidith = $(window).width();
-          url = wWidith < 767 ? $element.attr('data-phone-src') : $element.attr('data-src');
+          url = wWidith < 860 ? $element.attr('data-phone-src') : $element.attr('data-src');
         }
 				$element.one('load.owl.lazy', $.proxy(function() {
 					$element.css('opacity', 1);
