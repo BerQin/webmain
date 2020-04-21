@@ -2864,14 +2864,14 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
 			.addClass(settings.navClass[0])
 			.html(settings.navText[0])
 			.prependTo(this._controls.$relative)
-			.on('click', $.proxy(function(e) {
+			.on('click touchend', $.proxy(function(e) {
 				this.prev(settings.navSpeed);
 			}, this));
 		this._controls.$next = $('<' + settings.navElement + '>')
 			.addClass(settings.navClass[1])
 			.html(settings.navText[1])
 			.appendTo(this._controls.$relative)
-			.on('click', $.proxy(function(e) {
+			.on('click touchend', $.proxy(function(e) {
 				this.next(settings.navSpeed);
 			}, this));
 
@@ -2886,7 +2886,7 @@ this.activeTarget=b,this.clear();var c=this.selector+'[data-target="'+b+'"],'+th
 		this._controls.$absolute = (settings.dotsContainer ? $(settings.dotsContainer)
 			: $('<div>').addClass(settings.dotsClass).appendTo(this.$element)).addClass('disabled');
 
-		this._controls.$absolute.on('click', 'div', $.proxy(function(e) {
+		this._controls.$absolute.on('click touchend', 'div', $.proxy(function(e) {
 			var index = $(e.target).parent().is(this._controls.$absolute)
 				? $(e.target).index() : $(e.target).parent().index();
 
@@ -7718,7 +7718,7 @@ jQuery.fn.articleloader = function (settings) {
 
     var registerOnClickLoadContent = function ($trigger, triggerConfig) {
 
-      $trigger.on('click', function () {
+      $trigger.on('click touchend', function () {
         if (isBusy) {
           return;
         }
@@ -8235,7 +8235,7 @@ jQuery.fn.multiselect = (function (_options) {
                 var label = jQuery("label[for='"+ jQuery(this).attr('id') +"']").text();
                 var $disabler = jQuery('<a class="filterdisablers__disabler btn btn--sm btn--primary btn--icon btn--icon--cancel" href="#" data-for="'+ jQuery(this).attr('id') +'">'+ label +'</a>');
 
-                $disabler.on('click', function(e) {
+                $disabler.on('click touchend', function(e) {
                   $checkbox.prop('checked', false).trigger('change');
                   $form.trigger('submit');
 
@@ -9369,7 +9369,7 @@ jQuery.fn.mobileMenu = (function (_options) {
       }
 
       if (options.closeToggle) {
-        jQuery(options.closeToggle).on('click', function () {
+        jQuery(options.closeToggle).on('click touchend', function () {
           closeMenu();
         })
       }
@@ -9430,7 +9430,7 @@ jQuery.fn.mobileMenu = (function (_options) {
       if (options.contentOverlay) {
         $body.append('<div class="content__overlay content__overlay--mobilemenu"></div>');
 
-        jQuery('.content__overlay--mobilemenu, .mobilemenu__attachments').on('click', function () {
+        jQuery('.content__overlay--mobilemenu, .mobilemenu__attachments').on('click touchend', function () {
           closeMenu();
         });
 
@@ -9505,7 +9505,7 @@ jQuery.fn.mobileMenu = (function (_options) {
       }
 
       // toggle menu
-      $menuToggle.on('click', function () {
+      $menuToggle.on('click touchend', function () {
         $body.toggleClass('mobilemenu--open');
 
         if (options.push) {
@@ -9520,7 +9520,7 @@ jQuery.fn.mobileMenu = (function (_options) {
       });
 
       // navigate nodes
-      $navigationNodes.on('click', function (event) {
+      $navigationNodes.on('click touchend', function (event) {
         if (!options.dropdownControls) {
           if (options.sliding) {
             slideMenu("left", event);
@@ -9529,18 +9529,18 @@ jQuery.fn.mobileMenu = (function (_options) {
           }
           event.preventDefault();
         }
-      }).children().on('click', function () {
+      }).children().on('click touchend', function () {
         if (!options.dropdownControls) {
           // return false;
         }
       });
 
-      jQuery('.navigation__dropdowntoggle').on('click', function (event) {
+      jQuery('.navigation__dropdowntoggle').on('click touchend', function (event) {
         foldMenu(event);
       });
 
       // navigate back
-      jQuery('.mobilemenu__back, .mobilemenu__breadcrumb').on('click', function (event) {
+      jQuery('.mobilemenu__back, .mobilemenu__breadcrumb').on('click touchend', function (event) {
         slideMenu("right", event);
       });
 
@@ -9548,7 +9548,7 @@ jQuery.fn.mobileMenu = (function (_options) {
       if (options.sliding) {
         var $trigger = $meta.find('[data-toggle]');
 
-        $trigger.on('click', function (event) {
+        $trigger.on('click touchend', function (event) {
           $meta.addClass('mobilemenu__meta--hidden');
           slideMenu("meta", event);
         });
@@ -10138,7 +10138,7 @@ jQuery.fn.avPopover=(function(){
       })
     }
 
-    $popover.on('click', function(e){
+    $popover.on('click touchend', function(e){
       e.stopPropagation();
     });
 
@@ -10202,7 +10202,7 @@ jQuery.fn.footerContactMobileMaximizer = function () {
       }
     });
 
-    $maximizer.on('click', function(){
+    $maximizer.on('click touchend', function(){
       $maximizerWrapper.slideUp();
       $foldableContacts.slideDown();
     });
@@ -10237,11 +10237,11 @@ jQuery.fn.stickyBox = function () {
       $box.removeClass('stickybox--open');
     };
 
-    $openTrigger.on('click', function(){
+    $openTrigger.on('click tou ch', function(){
       openBox();
     });
 
-    $closeTrigger.on('click', function(){
+    $closeTrigger.on('click touchend', function(){
       closeBox();
     });
   });
@@ -10637,7 +10637,7 @@ jQuery.fn.imagecompare = function (_options) {
       $container.find('.twentytwenty-handle').append('<span class="handle__gradient"></span>');
 
       // toggle visibility of sliders
-      $toggle.on('click', function () {
+      $toggle.on('click touchend', function () {
         $image.toggleClass('imagecomparison__image--hidden');
         $toggle.find('.switch__image').toggleClass('switch__image--hidden');
       })
@@ -10800,7 +10800,7 @@ jQuery.fn.productFilter = (function (_options) {
     }
   });
 
-  $toTopButton.on('click', function(e){
+  $toTopButton.on('click touchend', function(e){
     e.preventDefault();
 
     jQuery('html, body').stop().animate({
@@ -11031,7 +11031,7 @@ jQuery.fn.productfinder=function(_options) {
       }
     });
 
-    $container.on('click', '[data-closer]', function() {
+    $container.on('click touchend', '[data-closer]', function() {
       elements.$content.addClass('content__gallery--empty');
     });
 
@@ -11314,7 +11314,7 @@ jQuery.fn.fullscreenSlider = function (config) {
         $textsSlider.find('.owl-item').each(function (index, value) {
           var $item = jQuery(value);
 
-          $item.find('.text__wrapper a').on('click', function (e) {
+          $item.find('.text__wrapper a').on('click touchend', function (e) {
             if ($item.hasClass('center'))
               return;
 
@@ -11347,15 +11347,15 @@ jQuery.fn.fullscreenSlider = function (config) {
     });
 
     // custom nav
-    $prevControl.on('click', function () {
+    $prevControl.on('click touchend', function () {
       $textsSlider.trigger('prev.owl.carousel');
     });
-    $nextControl.on('click', function () {
+    $nextControl.on('click touchend', function () {
       $textsSlider.trigger('next.owl.carousel');
     });
 
     // cta
-    $cta.on('click', function (e) {
+    $cta.on('click touchend', function (e) {
       jQuery('html, body').animate({scrollTop: $sliderWrapper.outerHeight() - 52}, 1000);
 
       e.preventDefault();
@@ -11383,10 +11383,10 @@ jQuery.fn.fullscreenMagazineSlider=function(config) {
     });
 
     // custom nav
-    $prevControl.on('click', function() {
+    $prevControl.on('click touchend', function() {
       $magazineSlider.trigger('prev.owl.carousel');
     });
-    $nextControl.on('click', function() {
+    $nextControl.on('click touchend', function() {
       $magazineSlider.trigger('next.owl.carousel');
     });
   });
@@ -11529,7 +11529,7 @@ jQuery.fn.imagegallery=function()
             }
           }
         })
-        .on('click', '.owl-item', function()
+        .on('click touchend', '.owl-item', function()
         {
           $thumbsSlider.trigger('to.owl.carousel', [$thumbsSlider.data('owl.carousel').relative(jQuery(this).index()), 300, true]);
         });
@@ -11821,7 +11821,7 @@ jQuery.fn.imagehotspots=function() {
     };
 
     // triggers
-    $hotspots.on('click', openPopover);
+    $hotspots.on('click touchend', openPopover);
     jQuery(window).on('resize', repositionPopovers);
 
     // enquire handlers
@@ -11830,12 +11830,12 @@ jQuery.fn.imagehotspots=function() {
         $hotspots.popover('hide');
         jQuery(window).off('resize', repositionPopovers);
         $hotspots.off('click', openPopover);
-        $hotspots.on('click', openAccordion);
+        $hotspots.on('click touchend', openAccordion);
       },
       unmatch: function() {
         $accordions.collapse('hide');
         $hotspots.off('click', openAccordion);
-        $hotspots.on('click', openPopover);
+        $hotspots.on('click touchend', openPopover);
         jQuery(window).on('resize', repositionPopovers);
       }
     });
@@ -11898,7 +11898,7 @@ jQuery.fn.dealerSearch=function() {
     });
 
     /* filter disablers */
-    $filterDisablers.on('click', function(e) {
+    $filterDisablers.on('click touchend', function(e) {
       var $me=jQuery(this),
         $target=jQuery($me.attr('href'));
 
@@ -12035,7 +12035,7 @@ jQuery.fn.references=function(){
       $filterDisablersWrapper.append($disabler);
       jQuery().initWavesJs();
 
-      $disabler.on('click', function(e){
+      $disabler.on('click touchend', function(e){
         var idToRemove=jQuery(this).attr('data-myid'),
           values=$select.val(),
           i=values.indexOf(idToRemove);
