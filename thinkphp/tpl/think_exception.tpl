@@ -11,14 +11,14 @@
         function parse_class($name)
         {
             $names = explode('\\', $name);
-            return '<abbr title="'.$name.'">'.end($names).'</abbr>';
+            return '<a title="迈特洗碗机，商用洗碗机 洗碗机租赁"bbr title="'.$name.'">'.end($names).'</abbr>';
         }
     }
 
     if(!function_exists('parse_file')){
         function parse_file($file, $line)
         {
-            return '<a class="toggle" title="'."{$file} line {$line}".'">'.basename($file)." line {$line}".'</a>';
+            return '<a title="迈特洗碗机，商用洗碗机 洗碗机租赁" class="toggle" title="'."{$file} line {$line}".'">'.basename($file)." line {$line}".'</a>';
         }
     }
 
@@ -42,7 +42,7 @@
                     case is_string($item):
                         if(strlen($item) > 20){
                             $value = sprintf(
-                                '\'<a class="toggle" title="%s">%s...</a>\'',
+                                '\'<a title="迈特洗碗机，商用洗碗机 洗碗机租赁" class="toggle" title="%s">%s...</a>\'',
                                 htmlentities($item),
                                 htmlentities(substr($item, 0, 20))
                             );
@@ -440,7 +440,7 @@
     <?php } ?>
 
     <div class="copyright">
-        <a title="官方网站" href="http://www.thinkphp.cn">ThinkPHP</a> 
+        <a title="迈特洗碗机，商用洗碗机 洗碗机租赁" title="官方网站" href="http://www.thinkphp.cn">ThinkPHP</a> 
         <span>V<?php echo THINK_VERSION; ?></span> 
         <span>{ 十年磨一剑-为API开发设计的高性能框架 }</span>
     </div>

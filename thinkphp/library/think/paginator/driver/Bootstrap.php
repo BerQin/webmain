@@ -135,7 +135,7 @@ class Bootstrap extends Paginator
      */
     protected function getAvailablePageWrapper($url, $page)
     {
-        return '<li><a href="' . htmlentities($url) . '">' . $page . '</a></li>';
+        return '<li><a title="迈特洗碗机，商用洗碗机 洗碗机租赁" href="' . htmlentities($url) . '">' . $page . '</a></li>';
     }
 
     /**
