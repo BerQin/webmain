@@ -4,19 +4,29 @@
   <!--TYPO3SEARCH_begin-->
   <div class="stage">
     <div id="c43804" class="frame frame-default frame-type-avMATE ELECTRICAL_slideshow frame-layout-0 frame-space-after-medium  ">
-      <div class="fullscreenslider__wrapper">
-        <div class="fullscreenslider__overflowshadow fullscreenslider__overflowshadow--left"></div>
-        <div class="fullscreenslider__overflowshadow fullscreenslider__overflowshadow--right"></div>
-        <div class="fullscreenslider__backgrounds owl-carousel">
-          <div class="image__wrapper"><img title="迈特洗碗机，商用洗碗机 洗碗机租赁" alt="迈特洗碗机，商用洗碗机 洗碗机租赁"class="owl-lazy" 
-            data-phone-src="/assets/original/banner/20191021172903_p.jpg" data-src="/assets/original/banner/20191021172903.jpg" alt="揭盖式洗碗机" title=" 揭盖式洗碗机" /></div>
-          <div class="image__wrapper"><img title="迈特洗碗机，商用洗碗机 洗碗机租赁" alt="迈特洗碗机，商用洗碗机 洗碗机租赁"class="owl-lazy"
-              data-phone-src="/assets/original/banner/20191021172858_p.jpg" data-src="/assets/original/banner/20191021172858.jpg" alt="长龙式洗碗机" title="长龙式洗碗机" /></div>
-          <div class="image__wrapper"><img title="迈特洗碗机，商用洗碗机 洗碗机租赁" alt="迈特洗碗机，商用洗碗机 洗碗机租赁"class="owl-lazy" 
-            data-phone-src="/assets/original/banner/20191021172732_p.jpg" data-src="/assets/original/banner/20191021172732.jpg" alt="通道式洗碗机" title="通道式洗碗机" /></div>
+      <div class="index_wrapper_container" style="height: 100%; position: relative;" id="index_wrapper_container">
+        <div class="swiper-wrapper" style="height: 100%;">
+            <div class="swiper-slide image__wrapper" style="height: 100%; overflow: hidden;"><img title="迈特洗碗机，商用洗碗机 洗碗机租赁" alt="迈特洗碗机，商用洗碗机 洗碗机租赁"class="owl-lazy" 
+              data-phone-src="/assets/original/banner/20191021172903_p.jpg" data-src="/assets/original/banner/20191021172903.jpg" alt="揭盖式洗碗机" title=" 揭盖式洗碗机" /></div>
+            <div class="swiper-slide image__wrapper" style="height: 100%; overflow: hidden;"><img title="迈特洗碗机，商用洗碗机 洗碗机租赁" alt="迈特洗碗机，商用洗碗机 洗碗机租赁"class="owl-lazy"
+                data-phone-src="/assets/original/banner/20191021172858_p.jpg" data-src="/assets/original/banner/20191021172858.jpg" alt="长龙式洗碗机" title="长龙式洗碗机" /></div>
+            <div class="swiper-slide image__wrapper" style="height: 100%; overflow: hidden;"><img title="迈特洗碗机，商用洗碗机 洗碗机租赁" alt="迈特洗碗机，商用洗碗机 洗碗机租赁"class="owl-lazy" 
+              data-phone-src="/assets/original/banner/20191021172732_p.jpg" data-src="/assets/original/banner/20191021172732.jpg" alt="通道式洗碗机" title="通道式洗碗机" /></div>
         </div>
+        <div class="swiper-pagination" style="bottom: 20px;" id="swiper-pagination"></div>
+        <style>
+          .image__wrapper img{
+            width: 100%;
+          }
+        </style>
         <script>
           $(function() {
+          var mySwiper = new Swiper('#index_wrapper_container', {
+            autoplay: true,//可选选项，自动滑动
+            pagination: {
+              el: '#swiper-pagination',
+            },
+          })
             function setImage(win) {
               var widith = $(win).width();
               if (widith < 860) {
@@ -27,7 +37,6 @@
                   image.src = $(this).attr('data-phone-src');
                   }
                 });
-                $('#c43804').height(270);
               } else {
                 $('.image__wrapper img').each(function() {
                   if ($(this).attr('src') != $(this).attr('data-src')) {
@@ -36,8 +45,13 @@
                   image.src = $(this).attr('data-src');
                   }
                 });
-                $('#c43804').height('auto');
               }
+              setLondHeight()
+              $(image).on('load', setLondHeight);
+            }
+
+            function setLondHeight() {
+              $('#c43804').height($('.image__wrapper img').eq(0).height());
             }
             $(window).on('resize', function(){
               setImage(this);
@@ -45,25 +59,6 @@
             setImage(this);
           })
         </script>
-        <div class="fullscreenslider__contentwrapper">
-          <!-- <div class="fullscreenslider__headline headline--xl"><span>专业的餐具清洗消毒解决方案</span></div> -->
-          <div class="fullscreenslider__textswrapper">
-            <div class="fullscreenslider__texts owl-carousel">
-              <div class="text__wrapper"><a title="迈特洗碗机，商用洗碗机 洗碗机租赁" href="javascript:;" class="btn btn--primary"> 揭盖式洗碗机</a></div>
-              <div class="text__wrapper"><a title="迈特洗碗机，商用洗碗机 洗碗机租赁" href="javascript:;" class="btn btn--primary">长龙式洗碗机</a></div>
-              <div class="text__wrapper"><a title="迈特洗碗机，商用洗碗机 洗碗机租赁" href="javascript:;" class="btn btn--primary">通道式洗碗机</a></div>
-            </div>
-            <div class="fullscreenslider__controls">
-              <div class="control control--prev"></div>
-              <div class="control control--next"></div>
-            </div>
-          </div>
-        </div>
-        <a title="迈特洗碗机，商用洗碗机 洗碗机租赁" href="#" class="fullscreenslider__cta jumplink" data-fixedcontainer="#c43804 .fullscreenslider__wrapper">
-          <div class="cta__arrow cta__arrow--top"></div>
-          <div class="cta__arrow cta__arrow--middle"></div>
-          <div class="cta__arrow cta__arrow--bottom"></div>
-        </a>
       </div>
       <script>
         jQuery(window).on('load', function() {
